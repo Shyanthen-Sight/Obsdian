@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789797040928-4sxne0tnm",
+  "providerId": "claude",
+  "title": "在代码块部分加上java，使其语法高亮",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789797040930,
+  "lastActivityAt": 1789797242107,
+  "sessionId": "a36e0b0a-efc6-4ad7-b87d-910ec6b51b5c",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "a36e0b0a-efc6-4ad7-b87d-910ec6b51b5c"
+  },
+  "linkedContentPath": "计算机类/后端/Java/others/枚举.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 22961,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 768,
+    "contextWindow": 200000,
+    "contextTokens": 23729,
+    "percentage": 12,
+    "contextWindowIsAuthoritative": true
+  }
+}

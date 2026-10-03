@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790514528148-fe4jwrroo",
+  "providerId": "claude",
+  "title": "重新整理杂乱笔记",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790514528154,
+  "lastActivityAt": 1790514625135,
+  "sessionId": "4856a64d-5c55-446b-b1af-6209f3c6ffe7",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "4856a64d-5c55-446b-b1af-6209f3c6ffe7"
+  },
+  "linkedContentPath": "家教/讲课笔记/七上1-4单元笔记内容.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 757,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 78080,
+    "contextWindow": 200000,
+    "contextTokens": 78837,
+    "percentage": 39,
+    "contextWindowIsAuthoritative": true
+  }
+}

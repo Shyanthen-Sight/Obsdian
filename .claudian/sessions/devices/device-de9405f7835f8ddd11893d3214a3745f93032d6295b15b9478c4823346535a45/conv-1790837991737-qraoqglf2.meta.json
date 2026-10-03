@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790837991737-qraoqglf2",
+  "providerId": "claude",
+  "title": "Git 仓库初始化笔记补充",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790837991740,
+  "lastActivityAt": 1790838056485,
+  "sessionId": "c627e5cb-e47a-4f86-90de-b92cc25a2712",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "c627e5cb-e47a-4f86-90de-b92cc25a2712"
+  },
+  "linkedContentPath": "计算机类/后端/Git/Repository/仓库初始化/本地配置与全局配置（Local VS Global Config）.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 232,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 53120,
+    "contextWindow": 200000,
+    "contextTokens": 53352,
+    "percentage": 27,
+    "contextWindowIsAuthoritative": true
+  }
+}

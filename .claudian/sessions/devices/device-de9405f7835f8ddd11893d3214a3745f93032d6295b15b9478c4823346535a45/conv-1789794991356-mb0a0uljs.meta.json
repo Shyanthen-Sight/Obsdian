@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789794991356-mb0a0uljs",
+  "providerId": "claude",
+  "title": "根据今日新词部分补充今日短语部分",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789794991360,
+  "lastActivityAt": 1789795100097,
+  "sessionId": "a58c2765-dbce-4a54-a8c3-fd8767c0f387",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "a58c2765-dbce-4a54-a8c3-fd8767c0f387"
+  },
+  "linkedContentPath": "英语/单词学习/E26-9-17.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1463,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 25088,
+    "contextWindow": 200000,
+    "contextTokens": 26551,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}

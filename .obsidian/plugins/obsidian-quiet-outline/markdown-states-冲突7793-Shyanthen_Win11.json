@@ -1,0 +1,136 @@
+{
+  "计算机类/后端/Java语言/类与对象/构造方法与对象创建/对象的引用和实体.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 186.78297837575278,
+    "cursor": {
+      "from": {
+        "line": 142,
+        "ch": 20
+      },
+      "to": {
+        "line": 142,
+        "ch": 20
+      }
+    }
+  },
+  "计算机类/后端/Java语言/类与对象/构造方法与对象创建/构造方法.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 8.1363766529988
+  },
+  "计算机类/后端/Java语言/类与对象/构造方法与对象创建/创建对象.md": {
+    "expandedKeys": []
+  },
+  "计算机类/后端/Java语言/类与对象/构造方法与对象创建/使用对象.md": {
+    "expandedKeys": []
+  },
+  "计算机类/后端/Java语言/类与对象/嵌套类.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 18
+      },
+      "to": {
+        "line": 12,
+        "ch": 18
+      }
+    },
+    "scroll": 0
+  },
+  "计算机类/后端/Java语言/类与对象/类的基础/成员变量.md": {
+    "expandedKeys": []
+  },
+  "计算机类/后端/Java语言/类与对象/类的基础/方法.md": {
+    "expandedKeys": []
+  },
+  "计算机类/后端/Java语言/类与对象/类的基础/类的声明.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-3"
+    ],
+    "scroll": 20.339285532633465
+  },
+  "计算机类/后端/Java语言/关键字/this关键字.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-2"
+    ],
+    "scroll": 252.12020816347962,
+    "cursor": {
+      "from": {
+        "line": 187,
+        "ch": 29
+      },
+      "to": {
+        "line": 187,
+        "ch": 29
+      }
+    }
+  },
+  "计算机类/后端/Java语言/关键字/super关键字.md": {
+    "expandedKeys": [
+      "item-2-1",
+      "item-1-0"
+    ],
+    "scroll": 0
+  },
+  "计算机类/后端/Java语言/关键字/abstract关键字.md": {
+    "expandedKeys": []
+  },
+  "计算机类/后端/Java语言/类与对象/重载.md": {
+    "expandedKeys": []
+  },
+  "计算机类/后端/Java语言/类与对象/对象的组合与UML/未命名.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/后端/Java语言/others/UML图.md": {
+    "expandedKeys": []
+  },
+  "计算机类/后端/Java语言/类与对象/对象的组合与UML/UML.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [],
+    "scroll": 0
+  },
+  "计算机类/后端/Java语言/类与对象/对象的组合与UML/对象的复用.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-5"
+    ],
+    "cursor": {
+      "from": {
+        "line": 24,
+        "ch": 19
+      },
+      "to": {
+        "line": 24,
+        "ch": 0
+      }
+    },
+    "scroll": 207.50824491182962
+  }
+}

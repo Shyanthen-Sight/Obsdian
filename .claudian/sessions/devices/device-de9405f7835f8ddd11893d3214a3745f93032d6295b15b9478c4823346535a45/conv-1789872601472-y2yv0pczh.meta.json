@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789872601472-y2yv0pczh",
+  "providerId": "claude",
+  "title": "https://blog",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789872601478,
+  "lastActivityAt": 1789876878742,
+  "sessionId": "7136e6d7-60be-447e-8508-865d9268c1c4",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "7136e6d7-60be-447e-8508-865d9268c1c4"
+  },
+  "linkedContentPath": "计算机类/计算机杂学/mcp详解.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786118534612-0fnppvd2r",
+  "providerId": "claude",
+  "title": "Explain Navicat usage with MySQL",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786118534612,
+  "lastActivityAt": 1786118621846,
+  "sessionId": "4c0de1fb-7779-4b61-8899-abe1dd93f169",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "4c0de1fb-7779-4b61-8899-abe1dd93f169"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1470,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 28416,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 29886,
+    "percentage": 15
+  }
+}

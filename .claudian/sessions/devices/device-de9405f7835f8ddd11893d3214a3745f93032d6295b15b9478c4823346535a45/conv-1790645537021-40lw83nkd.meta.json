@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790645537021-40lw83nkd",
+  "providerId": "claude",
+  "title": "修改笔记代码合并每周安排待办到未完成任务并排除模板",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790645537026,
+  "lastActivityAt": 1790645660198,
+  "sessionId": "eaa9d68d-4983-4877-a97d-fd2c65d003fe",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "eaa9d68d-4983-4877-a97d-fd2c65d003fe"
+  },
+  "linkedContentPath": "任务/任务完成情况概览.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 165,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 43904,
+    "contextWindow": 200000,
+    "contextTokens": 44069,
+    "percentage": 22,
+    "contextWindowIsAuthoritative": true
+  }
+}

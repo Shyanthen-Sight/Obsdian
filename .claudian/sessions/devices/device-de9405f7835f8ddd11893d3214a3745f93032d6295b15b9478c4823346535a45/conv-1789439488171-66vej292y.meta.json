@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789439488171-66vej292y",
+  "providerId": "claude",
+  "title": "考研重邮与实习目标冲突分析及大二规划建议",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789439488189,
+  "lastActivityAt": 1789439637229,
+  "sessionId": "373af905-678f-4ebe-9d68-b4d9fcb00cf9",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "373af905-678f-4ebe-9d68-b4d9fcb00cf9"
+  },
+  "linkedContentPath": "学校/考研/考研与实习.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 174,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 43904,
+    "contextWindow": 200000,
+    "contextTokens": 44078,
+    "percentage": 22,
+    "contextWindowIsAuthoritative": true
+  }
+}

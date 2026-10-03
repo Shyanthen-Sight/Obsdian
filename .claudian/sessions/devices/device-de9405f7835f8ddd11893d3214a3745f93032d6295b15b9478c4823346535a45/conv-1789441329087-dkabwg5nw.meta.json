@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789441329087-dkabwg5nw",
+  "providerId": "claude",
+  "title": "六级480分是否重考还是专注考研英语",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789441329098,
+  "lastActivityAt": 1789441555110,
+  "sessionId": "f348d1f0-f631-463f-9cff-c8b025bd139c",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "f348d1f0-f631-463f-9cff-c8b025bd139c"
+  },
+  "linkedContentPath": "学校/考研/英语6级成绩与考研的关系.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 256,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 82176,
+    "contextWindow": 200000,
+    "contextTokens": 82432,
+    "percentage": 41,
+    "contextWindowIsAuthoritative": true
+  }
+}

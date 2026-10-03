@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790512696279-tw7bebvw0",
+  "providerId": "claude",
+  "title": "批改试卷并生成错题总结清单",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790512696286,
+  "lastActivityAt": 1790513364431,
+  "sessionId": "6e356ce8-c026-4c38-b76f-c8edd482f067",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "6e356ce8-c026-4c38-b76f-c8edd482f067"
+  },
+  "linkedContentPath": "家教/试卷/综合测试试卷/七年级上册综合测评.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 744,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 35456,
+    "contextWindow": 200000,
+    "contextTokens": 36200,
+    "percentage": 18,
+    "contextWindowIsAuthoritative": true
+  }
+}

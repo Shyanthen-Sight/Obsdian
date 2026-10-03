@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790435048061-tyv4ngoa9",
+  "providerId": "claude",
+  "title": "为基础测试卷各单元新增进阶拓展小节",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790435048095,
+  "lastActivityAt": 1790438051926,
+  "sessionId": "16b91db7-4f57-499e-8a5f-2902690949b7",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "16b91db7-4f57-499e-8a5f-2902690949b7"
+  },
+  "linkedContentPath": "家教/知识点讲解.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1061,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 128384,
+    "contextWindow": 200000,
+    "contextTokens": 129445,
+    "percentage": 65,
+    "contextWindowIsAuthoritative": true
+  }
+}

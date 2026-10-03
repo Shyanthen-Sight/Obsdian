@@ -1,0 +1,26 @@
+{
+  "id": "conv-1789710018441-ppco59rqh",
+  "providerId": "claude",
+  "title": "hello",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789710018445,
+  "lastActivityAt": 1789710217106,
+  "sessionId": null,
+  "selectedModel": "haiku",
+  "providerState": {
+    "previousProviderSessionIds": [
+      "725c401d-42cb-4835-87b4-a066f0678853"
+    ]
+  },
+  "linkedContentPath": "计算机类/数据库/Mysql/数据库概念/码的定义.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1654,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 23808,
+    "contextWindow": 200000,
+    "contextTokens": 25462,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}

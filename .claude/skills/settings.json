@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd \"A:/obsidian/repository/ShyanthenObsidian\" && python -c \"\nimport json\nwith open\\('.claudian/sessions/conv-1788841117603-2omqve365.inputs.json', encoding='utf-8'\\) as f:\n    data = json.load\\(f\\)\ntext = json.dumps\\(data, ensure_ascii=False\\)\n# 打印所有包含 选择/E26/单词学习 的上下文片段\nimport re\nfor kw in ['选择','E26','单词学习','templates']:\n    for m in re.finditer\\(re.escape\\(kw\\), text\\):\n        s = max\\(0, m.start\\(\\)-150\\); e = min\\(len\\(text\\), m.end\\(\\)+150\\)\n        print\\('=== keyword:', kw, '==='\\)\n        print\\(text[s:e].replace\\(chr\\(10\\),' '\\)\\)\n        print\\(\\)\n        break\n\")"
+    ]
+  }
+}

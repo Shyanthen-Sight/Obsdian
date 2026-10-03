@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789716775606-cfi2zwowb",
+  "providerId": "claude",
+  "title": "帮我写一篇有关java继承的知识点，要求内容详细，阐述清晰有逻辑，最好用一个案例沿用整篇笔记，在讲一...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789716775611,
+  "lastActivityAt": 1789716945848,
+  "sessionId": "acef5691-ebe8-49c8-94a4-3b0f756f679b",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "acef5691-ebe8-49c8-94a4-3b0f756f679b"
+  },
+  "linkedContentPath": "计算机类/后端/Java/子类与继承/继承.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 3090,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 23808,
+    "contextWindow": 200000,
+    "contextTokens": 26898,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}

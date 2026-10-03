@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790837210134-spuaor5s6",
+  "providerId": "claude",
+  "title": "提供简单说明",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790837210139,
+  "lastActivityAt": 1790837238562,
+  "sessionId": "f0020807-bd4e-4f39-bcea-86db7592d4e4",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "f0020807-bd4e-4f39-bcea-86db7592d4e4"
+  },
+  "linkedContentPath": "计算机类/后端/Git/基础学习/什么是版本控制.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 178,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 26880,
+    "contextWindow": 200000,
+    "contextTokens": 27058,
+    "percentage": 14,
+    "contextWindowIsAuthoritative": true
+  }
+}

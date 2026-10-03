@@ -1,0 +1,22 @@
+{
+  "session": {
+    "schemaVersion": 2,
+    "id": "session_tra-pad-naa",
+    "createdAt": 1789793285569,
+    "updatedAt": 1789793285569,
+    "subagents": {
+      "master": {
+        "id": "master",
+        "type": "master",
+        "status": "idle",
+        "createdAt": 1789793285569,
+        "timeline": [],
+        "pendingInputs": [],
+        "operations": {},
+        "toolTimings": {},
+        "subagents": {}
+      }
+    }
+  },
+  "title": "新对话"
+}

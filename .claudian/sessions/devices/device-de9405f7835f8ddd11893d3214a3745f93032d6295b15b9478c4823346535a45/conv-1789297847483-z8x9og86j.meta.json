@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789297847483-z8x9og86j",
+  "providerId": "claude",
+  "title": "创建学习记录md与AI私人导师skill",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789297847497,
+  "lastActivityAt": 1789298466514,
+  "sessionId": "6fcedb5c-7b54-4918-b09b-ccd046570c3a",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "6fcedb5c-7b54-4918-b09b-ccd046570c3a"
+  },
+  "linkedContentPath": "学校/个人学习规划/java.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 158,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 68992,
+    "contextWindow": 200000,
+    "contextTokens": 69150,
+    "percentage": 35,
+    "contextWindowIsAuthoritative": true
+  }
+}

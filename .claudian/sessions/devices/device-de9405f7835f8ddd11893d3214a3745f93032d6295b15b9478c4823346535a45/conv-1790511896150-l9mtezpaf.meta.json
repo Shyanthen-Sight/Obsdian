@@ -1,0 +1,13 @@
+{
+  "id": "conv-1790511896150-l9mtezpaf",
+  "providerId": "claude",
+  "title": "根据家教/知识点讲解已经讲了的1-4单元做成笔记，学生可以直接誊抄在笔记本上的笔记，要求精简，去精华...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1790511896156,
+  "lastActivityAt": 1790511901490,
+  "sessionId": "4e26392c-0d88-4801-8a66-3cc7c5588f5f",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "4e26392c-0d88-4801-8a66-3cc7c5588f5f"
+  }
+}

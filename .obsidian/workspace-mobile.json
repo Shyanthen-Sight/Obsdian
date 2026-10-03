@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "60a269fcf65fe774",
+    "type": "split",
+    "children": [
+      {
+        "id": "71b55e5db47d4ec6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7524af3dee11b369",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学校/课表.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "课表"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9386c24d2f7ae910",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "64b23ff91879a8ea",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabeticalReverse",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "5acf91566e0ff278",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "46eba2d3410da657",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "7034cb5ecfffe9e8",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "添加笔记属性"
+        }
+      },
+      {
+        "id": "90e1616629785554",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "67209af9bdca4cfc",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "24dadab45727862e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "9f549bb77eb005aa",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "b2d4c194a68da515",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      },
+      {
+        "id": "da17509f9a48bed6",
+        "type": "leaf",
+        "state": {
+          "type": "nutstore-sync-chatbox",
+          "state": {},
+          "icon": "nutstore-ai",
+          "title": "Chatbox"
+        }
+      },
+      {
+        "id": "a9a6b5289bac80da",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {},
+          "icon": "checkmark",
+          "title": "Todo List"
+        }
+      },
+      {
+        "id": "68aa60ded83384a4",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "nutstore-sync:Start sync": false,
+      "nutstore-sync:Stop sync": false,
+      "nutstore-sync:Open chatbox": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "7524af3dee11b369",
+  "lastOpenFiles": [
+    "英语/单词学习/E26-9-29.md",
+    "英语/单词学习/E26-9-30.md",
+    "计算机类/后端/Java语言/类与对象/重载/重载.md",
+    "计算机类/后端/Java语言/类与对象/实例成员与类成员/两者关系大汇总.md",
+    "计算机类/后端/Java语言/类与对象/对象的组合与UML/对象复用的具体例子.md",
+    "计算机类/后端/Java语言/类与对象/对象的组合与UML/对象的复用.md",
+    "计算机类/后端/Java语言/类与对象/对象的组合与UML/UML.md",
+    "学校/课表.md",
+    "计算机类/后端/Java语言/类与对象/构造方法与对象创建/对象的引用和实体.md",
+    "计算机类/后端/Java语言/关键字/this关键字.md",
+    "任务/每周安排/26-w4.md",
+    "计算机类/后端/Java语言/类与对象/重载",
+    "计算机类/后端/Java语言/类与对象/实例成员与类成员",
+    "计算机类/后端/Java语言/类与对象/对象的组合与UML",
+    "学校/课本/离散数学/img/Pasted image 20260924115529.png",
+    "学校/课本/离散数学/C2 一阶逻辑/2.3 一阶逻辑等值式与前束范式.md",
+    "学校/课本/离散数学/C2 一阶逻辑/2.1一阶逻辑基本概念.md",
+    "学校/课本/离散数学/C2 一阶逻辑/2.2一阶逻辑合式公式及解释.md",
+    "任务/每周安排/26-w4.md",
+    "学校/课本/离散数学/img",
+    "任务/每周安排/26-w4.md",
+    "任务/每周安排/26-w4.md",
+    "学校/作业/java/java类与对象.md",
+    "计算机类/数据库学习/DML/Delete.md",
+    "任务/每周安排/26-w4.md",
+    "templates/单词学习.md",
+    "计算机类/数据库学习/DDL/Create Table.md",
+    "计算机类/数据库学习/DDL/Alter Table.md",
+    "计算机类/数据库学习/DDL/Drop Table.md",
+    "计算机类/数据库学习/聚合函数查询",
+    "计算机类/数据库学习/连接查询",
+    "计算机类/数据库学习/数据约束",
+    "计算机类/数据库学习/子查询",
+    "计算机类/数据库学习/视图",
+    "计算机类/数据库学习/DDL",
+    "家教/img/微信图片_20260919111139_41_138.jpg",
+    "家教/img/微信图片_20260919111138_40_138.jpg",
+    "家教/img/微信图片_20260919111137_39_138.jpg",
+    "家教/img/微信图片_20260919111140_42_138.jpg",
+    "学校/课本/离散数学/C2 一阶逻辑/Pasted image 20260924115529.png",
+    "计算机类/计算机网络/images/e1fe9925bc315c605c507b3983b1cb134854771a-bkimg-process,v_1,rw_550,rh_252,maxl_1101.webp",
+    "计算机类/计算机网络/images/Pasted image 20260611002137.png",
+    "计算机类/计算机网络/images/Pasted image 20260611001906.png",
+    "计算机类/计算机网络/images/Pasted image 20260610235255.jpg",
+    "Excalidraw/未命名.canvas"
+  ]
+}

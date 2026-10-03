@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786114535137-yitvoh7eo",
+  "providerId": "claude",
+  "title": "Summarize webpage content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786114535137,
+  "lastActivityAt": 1786114604395,
+  "sessionId": "fb49920c-207d-4ec5-b0aa-952d23f9ef6d",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "fb49920c-207d-4ec5-b0aa-952d23f9ef6d"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 3162,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 30464,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 33626,
+    "percentage": 17
+  }
+}

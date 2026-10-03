@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786114201502-imgoekv63",
+  "providerId": "claude",
+  "title": "精简这篇内容",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786114201502,
+  "lastActivityAt": 1786114211003,
+  "sessionId": "b5fd1db5-d85a-4a6f-8443-79157881e7ec",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "b5fd1db5-d85a-4a6f-8443-79157881e7ec"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 74,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 26880,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 26954,
+    "percentage": 13
+  }
+}

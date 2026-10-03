@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790055506665-4xcwp6euz",
+  "providerId": "claude",
+  "title": "用MCP誊抄网页正文到Obsidian笔记",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790055506677,
+  "lastActivityAt": 1790056255508,
+  "sessionId": "eddb2037-e6fd-464e-bf04-68ba7b84a913",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "eddb2037-e6fd-464e-bf04-68ba7b84a913"
+  },
+  "linkedContentPath": "计算机类/后端/Java/类与对象/嵌套类.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1901,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 46592,
+    "contextWindow": 200000,
+    "contextTokens": 48493,
+    "percentage": 24,
+    "contextWindowIsAuthoritative": true
+  }
+}

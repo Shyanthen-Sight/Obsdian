@@ -1,0 +1,23 @@
+{
+  "id": "conv-1790148273517-d31wasj0s",
+  "providerId": "claude",
+  "title": "补充Java构造方法与对象创建笔记空缺内容",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790148273522,
+  "lastActivityAt": 1790148323806,
+  "sessionId": "31431080-ebd1-450c-84b7-6cf322e1d790",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "31431080-ebd1-450c-84b7-6cf322e1d790"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 452,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 43648,
+    "contextWindow": 200000,
+    "contextTokens": 44100,
+    "percentage": 22,
+    "contextWindowIsAuthoritative": true
+  }
+}

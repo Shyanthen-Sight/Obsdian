@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790426929265-rjsvr2106",
+  "providerId": "claude",
+  "title": "优化全文排版提升视觉效果",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790426929275,
+  "lastActivityAt": 1790435047324,
+  "sessionId": "431919a1-57c8-4fd1-8b74-70cded24348a",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "431919a1-57c8-4fd1-8b74-70cded24348a"
+  },
+  "linkedContentPath": "家教/知识点讲解.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 353,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 84096,
+    "contextWindow": 200000,
+    "contextTokens": 84449,
+    "percentage": 42,
+    "contextWindowIsAuthoritative": true
+  }
+}

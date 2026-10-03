@@ -1,0 +1,26 @@
+{
+  "id": "conv-1789728530538-x7eign77x",
+  "providerId": "claude",
+  "title": "我是教学老师，根据基础试卷一内容，出一套完整的，详细的知识点内容，以为每单元为知识点。不局限于试卷内...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789728530542,
+  "lastActivityAt": 1789728986277,
+  "sessionId": null,
+  "selectedModel": "haiku",
+  "providerState": {
+    "previousProviderSessionIds": [
+      "8b970484-7682-4664-b72d-9adcec7f6f73"
+    ]
+  },
+  "linkedContentPath": "家教/知识点讲解.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 22590,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 28416,
+    "contextWindow": 200000,
+    "contextTokens": 51006,
+    "percentage": 26,
+    "contextWindowIsAuthoritative": true
+  }
+}

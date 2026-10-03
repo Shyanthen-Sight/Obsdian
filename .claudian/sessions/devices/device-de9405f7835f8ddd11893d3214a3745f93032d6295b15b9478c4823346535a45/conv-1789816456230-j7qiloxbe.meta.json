@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789816456230-j7qiloxbe",
+  "providerId": "claude",
+  "title": "把这篇笔记写得详细一点",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789816456235,
+  "lastActivityAt": 1789816628766,
+  "sessionId": "29abf0b1-a917-460a-86aa-714653f69809",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "29abf0b1-a917-460a-86aa-714653f69809"
+  },
+  "linkedContentPath": "计算机类/后端/Java/关键字/this关键字.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 3373,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 24832,
+    "contextWindow": 200000,
+    "contextTokens": 28205,
+    "percentage": 14,
+    "contextWindowIsAuthoritative": true
+  }
+}

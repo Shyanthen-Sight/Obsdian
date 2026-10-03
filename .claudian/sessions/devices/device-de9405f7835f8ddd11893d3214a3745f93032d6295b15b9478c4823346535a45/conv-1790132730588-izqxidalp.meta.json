@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790132730588-izqxidalp",
+  "providerId": "claude",
+  "title": "补充微电网项目表格内容",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790132730595,
+  "lastActivityAt": 1790132756499,
+  "sessionId": "f2fc80a8-5ccd-4909-93b0-af9b2e827537",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "f2fc80a8-5ccd-4909-93b0-af9b2e827537"
+  },
+  "linkedContentPath": "英语/单词学习/E26-9-21.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 249,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 33024,
+    "contextWindow": 200000,
+    "contextTokens": 33273,
+    "percentage": 17,
+    "contextWindowIsAuthoritative": true
+  }
+}

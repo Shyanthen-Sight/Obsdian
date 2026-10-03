@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790837292668-dwooxzxv7",
+  "providerId": "claude",
+  "title": "撰写中等篇幅说明内容",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790837292671,
+  "lastActivityAt": 1790837307007,
+  "sessionId": "f967fddc-20f8-4f5d-acac-84cedb8d6128",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "f967fddc-20f8-4f5d-acac-84cedb8d6128"
+  },
+  "linkedContentPath": "计算机类/后端/Git/基础学习/Git 跟其他VCS的比较.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 236,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 28672,
+    "contextWindow": 200000,
+    "contextTokens": 28908,
+    "percentage": 14,
+    "contextWindowIsAuthoritative": true
+  }
+}

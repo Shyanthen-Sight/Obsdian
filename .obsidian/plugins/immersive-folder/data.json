@@ -1,0 +1,65 @@
+{
+  "language": "auto",
+  "toolbarButtons": "both",
+  "enabled": false,
+  "keepActiveInView": true,
+  "collapseOthers": true,
+  "revealSubfolders": true,
+  "expandedBefore": [],
+  "orders": {
+    "/": [
+      "学校",
+      "任务",
+      "计算机类",
+      "书籍",
+      "英语",
+      "Excalidraw",
+      "templates",
+      "杂记",
+      "家教"
+    ],
+    "家教": [
+      "img",
+      "试卷"
+    ],
+    "计算机类": [
+      "计算机杂学",
+      "计算机网络",
+      "计算机操作系统",
+      "计算机组成原理",
+      "数据结构",
+      "数据库",
+      "后端",
+      "前端"
+    ],
+    "计算机类/计算机网络": [
+      "images",
+      "C1 概述"
+    ],
+    "学校/课本/离散数学": [
+      "img",
+      "C1 命题逻辑",
+      "C2 一阶逻辑"
+    ],
+    "计算机类/数据库": [
+      "image"
+    ],
+    "计算机类/后端/Java": [
+      "images",
+      "Distinct",
+      "关键字",
+      "类与对象",
+      "子类与继承",
+      "接口实现",
+      "others"
+    ],
+    "计算机类/后端/Java/类与对象": [
+      "类的基础",
+      "构造方法与对象创建"
+    ],
+    "计算机类/后端/Git": [
+      "基础学习",
+      "Repository"
+    ]
+  }
+}

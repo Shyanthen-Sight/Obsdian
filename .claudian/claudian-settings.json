@@ -1,0 +1,196 @@
+{
+  "userName": "",
+  "permissionMode": "yolo",
+  "model": "haiku",
+  "effortLevel": "medium",
+  "serviceTier": "default",
+  "enableAutoTitleGeneration": true,
+  "titleGenerationLocale": "",
+  "titleGenerationModel": "",
+  "excludedTags": [],
+  "mediaFolder": "",
+  "systemPrompt": "",
+  "sharedEnvironmentVariables": "",
+  "envSnippets": [],
+  "customContextLimits": {},
+  "keyboardNavigation": {
+    "scrollUpKey": "w",
+    "scrollDownKey": "s",
+    "focusInputKey": "i"
+  },
+  "requireCommandOrControlEnterToSend": false,
+  "locale": "zh-CN",
+  "providerConfigs": {
+    "claude": {
+      "enabled": true,
+      "safeMode": "acceptEdits",
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "loadUserSettings": true,
+      "enableChrome": false,
+      "enableBangBash": false,
+      "customModels": "",
+      "lastModel": "haiku",
+      "modelEnvironmentType": "",
+      "titleModelEnvironmentType": "",
+      "environmentVariables": "",
+      "environmentHash": "",
+      "responseStyle": "Default",
+      "modelAliases": {},
+      "visibleModels": [
+        "haiku",
+        "sonnet",
+        "opus",
+        "claude-fable-5-1"
+      ],
+      "selectedModels": [
+        {
+          "value": "opus",
+          "label": "deepseek-v4-pro",
+          "description": "Custom Opus model",
+          "resolvedModel": "deepseek-v4-pro",
+          "reasoningMetadataResolved": true,
+          "supportedEffortLevels": [
+            "low",
+            "medium",
+            "high",
+            "xhigh",
+            "max"
+          ]
+        },
+        {
+          "value": "claude-fable-5-1",
+          "label": "Fable",
+          "description": "Fable 5.1 · Most capable for your hardest and longest-running tasks · $10/$50 per Mtok",
+          "resolvedModel": "claude-fable-5-1",
+          "reasoningMetadataResolved": true,
+          "supportedEffortLevels": [
+            "low",
+            "medium",
+            "high",
+            "xhigh",
+            "max"
+          ]
+        },
+        {
+          "value": "sonnet",
+          "label": "deepseek-v4-pro",
+          "description": "Custom Sonnet model",
+          "resolvedModel": "deepseek-v4-pro",
+          "reasoningMetadataResolved": true,
+          "supportedEffortLevels": [
+            "low",
+            "medium",
+            "high",
+            "xhigh",
+            "max"
+          ]
+        },
+        {
+          "value": "haiku",
+          "label": "deepseek-v4-flash",
+          "description": "Custom Haiku model",
+          "resolvedModel": "deepseek-v4-flash",
+          "reasoningMetadataResolved": true,
+          "supportedEffortLevels": [
+            "low",
+            "medium",
+            "high",
+            "xhigh",
+            "max"
+          ]
+        }
+      ]
+    },
+    "codex": {
+      "enabled": false,
+      "safeMode": "workspace-write",
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "modelAliases": {},
+      "visibleModels": [],
+      "reasoningSummary": "detailed",
+      "environmentVariables": "",
+      "environmentHash": "",
+      "installationMethodsByHost": {},
+      "wslDistroOverridesByHost": {},
+      "enableUltraEffort": false,
+      "responseStyle": "pragmatic",
+      "selectedModels": []
+    },
+    "grok": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "preferredReasoningByModel": {},
+      "visibleModels": [],
+      "selectedModelsByHost": {}
+    },
+    "opencode": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "OPENCODE_ENABLE_EXA=1",
+      "modelAliases": {},
+      "preferredThinkingByModel": {},
+      "thinkingOptionsByModel": {},
+      "visibleModels": [],
+      "selectedModels": []
+    },
+    "pi": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "preferredThinkingByModel": {},
+      "visibleModels": [],
+      "selectedModels": []
+    }
+  },
+  "settingsProvider": "claude",
+  "lastSelectedChatModel": {
+    "providerId": "claude",
+    "model": "haiku"
+  },
+  "savedProviderModel": {
+    "claude": "haiku"
+  },
+  "savedProviderEffort": {
+    "claude": "medium"
+  },
+  "savedProviderServiceTier": {},
+  "savedProviderPermissionMode": {
+    "claude": "yolo"
+  },
+  "pendingProviderSessionInvalidations": {},
+  "maxWarmAgentProcesses": 5,
+  "enableAutoScroll": true,
+  "showMessageTimestamps": false,
+  "deferMathRenderingDuringStreaming": true,
+  "expandFileEditsByDefault": false,
+  "chatViewPlacement": "right-sidebar",
+  "enableZenMode": true,
+  "enableDualPane": true,
+  "dualPaneSide": "right",
+  "restoreTabsOnStartup": true,
+  "skillsSynced": false,
+  "sessionManagerOrganization": "list",
+  "sessionManagerSort": "last-updated",
+  "sessionAutoArchiveAfter": "off",
+  "pinnedLinkedContentPaths": [],
+  "hiddenCommands": [],
+  "thinkingBudget": "off",
+  "customModelAliases": {},
+  "savedProviderThinkingBudget": {},
+  "lastCustomModel": "",
+  "collabEnabled": false,
+  "collabProjectsFolder": "workspace",
+  "collabGitPath": "",
+  "maxTabs": 3
+}

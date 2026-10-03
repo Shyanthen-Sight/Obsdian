@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790511905403-eedfy6t98",
+  "providerId": "claude",
+  "title": "根据家教/知识点讲解已经讲了的1-4单元做成笔记，学生可以直接誊抄在笔记本上的笔记，要求精简，去精华...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1790511905411,
+  "lastActivityAt": 1790512537700,
+  "sessionId": "48b833c6-3aca-428b-b2b6-7a886f7af3c6",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "48b833c6-3aca-428b-b2b6-7a886f7af3c6"
+  },
+  "linkedContentPath": "家教/讲课笔记/七上1-4单元笔记内容.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 199,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 80768,
+    "contextWindow": 200000,
+    "contextTokens": 80967,
+    "percentage": 40,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790511309971-4a51ifwec",
+  "providerId": "claude",
+  "title": "生成七年级上册综合测评试卷及 Markdown 排版",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790511309984,
+  "lastActivityAt": 1790511541374,
+  "sessionId": "ee384d2f-132b-4d37-8c0f-5658b8a48c4d",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "ee384d2f-132b-4d37-8c0f-5658b8a48c4d"
+  },
+  "linkedContentPath": "家教/试卷/综合测试试卷/七年级上册综合测评.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 148,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 104576,
+    "contextWindow": 200000,
+    "contextTokens": 104724,
+    "percentage": 52,
+    "contextWindowIsAuthoritative": true
+  }
+}

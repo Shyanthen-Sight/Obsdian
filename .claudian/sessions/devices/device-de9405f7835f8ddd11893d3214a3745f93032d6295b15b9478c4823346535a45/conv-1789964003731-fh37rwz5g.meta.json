@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789964003731-fh37rwz5g",
+  "providerId": "claude",
+  "title": "用 Templater 实现单词学习笔记自动命名与套模板",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789964003732,
+  "lastActivityAt": 1789965198421,
+  "sessionId": "4415964e-2e83-4573-9ca0-d88a1ad69cd2",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "4415964e-2e83-4573-9ca0-d88a1ad69cd2"
+  },
+  "linkedContentPath": "英语/单词学习/E26-9-20.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 422,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 110080,
+    "contextWindow": 200000,
+    "contextTokens": 110502,
+    "percentage": 55,
+    "contextWindowIsAuthoritative": true
+  }
+}

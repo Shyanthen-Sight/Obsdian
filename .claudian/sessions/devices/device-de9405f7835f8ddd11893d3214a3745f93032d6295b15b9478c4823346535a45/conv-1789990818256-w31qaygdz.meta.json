@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789990818256-w31qaygdz",
+  "providerId": "claude",
+  "title": "补充详细笔记：精华内容与示例分析",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789990818259,
+  "lastActivityAt": 1789990872104,
+  "sessionId": "60b515e8-21e5-4e41-afa3-75f3e9191780",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "60b515e8-21e5-4e41-afa3-75f3e9191780"
+  },
+  "linkedContentPath": "计算机类/数据库/Mysql/sql运算符/集合运算符.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 5186,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 38016,
+    "contextWindow": 200000,
+    "contextTokens": 43202,
+    "percentage": 22,
+    "contextWindowIsAuthoritative": true
+  }
+}

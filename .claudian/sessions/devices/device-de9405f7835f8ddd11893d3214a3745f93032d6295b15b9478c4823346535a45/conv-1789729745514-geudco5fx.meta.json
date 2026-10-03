@@ -1,0 +1,26 @@
+{
+  "id": "conv-1789729745514-geudco5fx",
+  "providerId": "claude",
+  "title": "补充一些考研高频词到里面，并且补充完表格的所有内容，今日短语部分根据今日新词来填入，今日阅读部分不管",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789729745519,
+  "lastActivityAt": 1789729876719,
+  "sessionId": null,
+  "selectedModel": "haiku",
+  "providerState": {
+    "previousProviderSessionIds": [
+      "296d5480-27a3-41cd-a192-6d8e997b8c19"
+    ]
+  },
+  "linkedContentPath": "英语/单词学习/E26-9-18.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1466,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 24576,
+    "contextWindow": 200000,
+    "contextTokens": 26042,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}

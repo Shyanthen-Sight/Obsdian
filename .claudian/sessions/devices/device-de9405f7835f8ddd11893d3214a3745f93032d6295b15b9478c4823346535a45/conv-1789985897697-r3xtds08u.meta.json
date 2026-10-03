@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789985897697-r3xtds08u",
+  "providerId": "claude",
+  "title": "阅读CSDN文章整理面向切面编程笔记",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789985897704,
+  "lastActivityAt": 1789986053532,
+  "sessionId": "93d5b794-089f-45ea-a10c-8af09d272f30",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "93d5b794-089f-45ea-a10c-8af09d272f30"
+  },
+  "linkedContentPath": "计算机类/后端/Java/子类与继承/面向抽象编程.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

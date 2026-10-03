@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786343671946-s6oz7hqyu",
+  "providerId": "claude",
+  "title": "Translate text",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786343671946,
+  "lastActivityAt": 1786343687101,
+  "sessionId": "75f9069c-2c63-4d89-ac08-0c0a85838ccf",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "75f9069c-2c63-4d89-ac08-0c0a85838ccf"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1297,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 28672,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 29969,
+    "percentage": 15
+  }
+}

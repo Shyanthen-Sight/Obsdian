@@ -1,0 +1,19 @@
+{
+  "promptDelete": false,
+  "foldHeading": true,
+  "newFileLocation": "current",
+  "newFileFolderPath": "/",
+  "attachmentFolderPath": "./",
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "readableLineLength": false,
+  "rightToLeft": false,
+  "tabSize": 4,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

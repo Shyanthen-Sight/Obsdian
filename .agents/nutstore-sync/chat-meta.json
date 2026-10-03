@@ -1,0 +1,13 @@
+{
+  "activeSessionId": "session_tra-pad-naa",
+  "orderedSessionIds": [
+    "session_tra-pad-naa"
+  ],
+  "sessions": {
+    "session_tra-pad-naa": {
+      "title": "新对话",
+      "createdAt": 1789793285569,
+      "updatedAt": 1789793285569
+    }
+  }
+}

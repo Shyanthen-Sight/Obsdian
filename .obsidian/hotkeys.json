@@ -1,0 +1,16 @@
+{
+  "obsidian-fullscreen-plugin:fullscreen-focus": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
+  ],
+  "obsidian-quiet-outline:quiet-outline": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "conv-1786337605399-mkovoekmy",
+  "providerId": "claude",
+  "title": "整理，分段",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1786337605416,
+  "lastActivityAt": 1788840443283,
+  "sessionId": null,
+  "selectedModel": "haiku",
+  "providerState": {
+    "previousProviderSessionIds": [
+      "ae2309e1-21d4-4344-bdf2-066fae786a79"
+    ]
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 35758,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 35758,
+    "percentage": 18,
+    "contextWindowIsAuthoritative": true
+  }
+}

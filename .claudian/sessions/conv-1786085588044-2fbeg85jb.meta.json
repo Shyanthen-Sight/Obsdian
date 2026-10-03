@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786085588044-2fbeg85jb",
+  "providerId": "claude",
+  "title": "Create daily vocabulary notebook template",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786085588044,
+  "lastActivityAt": 1786088182851,
+  "sessionId": "2b9622fd-8bde-45e9-9f89-c6f957fcca66",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "2b9622fd-8bde-45e9-9f89-c6f957fcca66"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 145,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 101504,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 101649,
+    "percentage": 51
+  }
+}

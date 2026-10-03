@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:数据库学习  ",
+      "color": {
+        "a": 1,
+        "rgb": 6736091
+      }
+    },
+    {
+      "query": "path:数据结构  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:计算机网络",
+      "color": {
+        "a": 1,
+        "rgb": 8223967
+      }
+    },
+    {
+      "query": "path:java学习  ",
+      "color": {
+        "a": 1,
+        "rgb": 13136586
+      }
+    },
+    {
+      "query": "path:前端  ",
+      "color": {
+        "a": 1,
+        "rgb": 10896668
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.26141868512111,
+  "lineSizeMultiplier": 1.87179930795848,
+  "collapse-forces": false,
+  "centerStrength": 0.182291666666667,
+  "repelStrength": 6.66666666666667,
+  "linkStrength": 1,
+  "linkDistance": 138,
+  "scale": 0.0669974499528221,
+  "close": true
+}

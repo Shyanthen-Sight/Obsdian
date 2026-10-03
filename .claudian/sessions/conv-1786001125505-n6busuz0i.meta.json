@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786001125505-n6busuz0i",
+  "providerId": "claude",
+  "title": "Convert selected section to table",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786001125509,
+  "lastActivityAt": 1786005168651,
+  "sessionId": "da0196d1-b0f9-4455-8bdb-40130591f7c9",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "da0196d1-b0f9-4455-8bdb-40130591f7c9"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 73,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 76160,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 76233,
+    "percentage": 38
+  }
+}

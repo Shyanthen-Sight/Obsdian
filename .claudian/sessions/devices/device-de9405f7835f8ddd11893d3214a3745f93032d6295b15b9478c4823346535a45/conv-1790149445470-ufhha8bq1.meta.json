@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790149445470-ufhha8bq1",
+  "providerId": "claude",
+  "title": "将笔记改写成含具体示例的详细版本",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790149445475,
+  "lastActivityAt": 1790149508546,
+  "sessionId": "09751ed6-1e06-4416-98e1-3d397dd400f9",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "09751ed6-1e06-4416-98e1-3d397dd400f9"
+  },
+  "linkedContentPath": "计算机类/后端/Java/类与对象/构造方法与对象创建/未命名.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 156,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 45056,
+    "contextWindow": 200000,
+    "contextTokens": 45212,
+    "percentage": 23,
+    "contextWindowIsAuthoritative": true
+  }
+}

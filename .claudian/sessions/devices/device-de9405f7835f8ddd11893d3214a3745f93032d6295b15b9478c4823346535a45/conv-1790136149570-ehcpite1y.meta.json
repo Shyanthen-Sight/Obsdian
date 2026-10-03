@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790136149570-ehcpite1y",
+  "providerId": "claude",
+  "title": "用 MCP 获取超星课程题目并解答",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790136149575,
+  "lastActivityAt": 1790136431527,
+  "sessionId": "aaf0ac28-d310-4f00-89a5-2d8f57537034",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "aaf0ac28-d310-4f00-89a5-2d8f57537034"
+  },
+  "linkedContentPath": "学校/作业/java/java类与对象.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 470,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 43008,
+    "contextWindow": 200000,
+    "contextTokens": 43478,
+    "percentage": 22,
+    "contextWindowIsAuthoritative": true
+  }
+}

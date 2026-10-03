@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789718589439-2ztx6lybo",
+  "providerId": "claude",
+  "title": "补充笔记，详解supper关键字",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789718589442,
+  "lastActivityAt": 1789718739282,
+  "sessionId": "cae648fc-4625-4df7-9c74-c1c3cb1d0688",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "cae648fc-4625-4df7-9c74-c1c3cb1d0688"
+  },
+  "linkedContentPath": "计算机类/后端/Java/关键字/super关键字.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2654,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 23808,
+    "contextWindow": 200000,
+    "contextTokens": 26462,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}

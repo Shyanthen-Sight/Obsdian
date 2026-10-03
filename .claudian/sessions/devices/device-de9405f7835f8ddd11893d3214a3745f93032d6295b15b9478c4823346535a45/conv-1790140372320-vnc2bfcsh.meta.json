@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790140372320-vnc2bfcsh",
+  "providerId": "claude",
+  "title": "写一篇笔记",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790140372325,
+  "lastActivityAt": 1790140404565,
+  "sessionId": "34e79ef9-ca7d-4a6d-99a8-4aaa69254aff",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "34e79ef9-ca7d-4a6d-99a8-4aaa69254aff"
+  },
+  "linkedContentPath": "计算机类/后端/Java/类与对象/类的基础/方法.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 134,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 38656,
+    "contextWindow": 200000,
+    "contextTokens": 38790,
+    "percentage": 19,
+    "contextWindowIsAuthoritative": true
+  }
+}

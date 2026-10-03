@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789614821380-q7rmhc50z",
+  "providerId": "claude",
+  "title": "hello",
+  "titleGenerationStatus": "pending",
+  "createdAt": 1789614821386,
+  "lastActivityAt": 1789614870543,
+  "sessionId": "ec1b877f-130f-4854-9c4f-92aef922b9b1",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "ec1b877f-130f-4854-9c4f-92aef922b9b1"
+  },
+  "linkedContentPath": "家教/仁爱科普版（2024）《英语 七年级》上册+下册 单元与语法知识分析.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 22207,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 1536,
+    "contextWindow": 200000,
+    "contextTokens": 23743,
+    "percentage": 12,
+    "contextWindowIsAuthoritative": true
+  }
+}

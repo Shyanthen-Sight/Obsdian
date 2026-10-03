@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790146268315-9ni35271x",
+  "providerId": "claude",
+  "title": "撰写不带文字高亮的笔记",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790146268319,
+  "lastActivityAt": 1790146299417,
+  "sessionId": "8ad348f0-13b8-4f8e-bbf9-fd1511009488",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "8ad348f0-13b8-4f8e-bbf9-fd1511009488"
+  },
+  "linkedContentPath": "计算机类/后端/Java/类与对象/构造方法与对象创建/构造方法.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 166,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 43008,
+    "contextWindow": 200000,
+    "contextTokens": 43174,
+    "percentage": 22,
+    "contextWindowIsAuthoritative": true
+  }
+}

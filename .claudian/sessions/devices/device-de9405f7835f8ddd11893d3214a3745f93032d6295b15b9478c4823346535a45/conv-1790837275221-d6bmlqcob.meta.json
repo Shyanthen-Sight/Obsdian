@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790837275221-d6bmlqcob",
+  "providerId": "claude",
+  "title": "简单说明请求",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790837275223,
+  "lastActivityAt": 1790837324877,
+  "sessionId": "4e5059d2-b523-468b-a180-01643b3b389d",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "4e5059d2-b523-468b-a180-01643b3b389d"
+  },
+  "linkedContentPath": "计算机类/后端/Git/基础学习/为什么使用版本控制.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 596,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 28800,
+    "contextWindow": 200000,
+    "contextTokens": 29396,
+    "percentage": 15,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789440424080-calogc7vf",
+  "providerId": "claude",
+  "title": "长江师范学院保研资格分析与文档写入",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789440424091,
+  "lastActivityAt": 1789440736481,
+  "sessionId": "ac4e39db-2653-4162-84aa-2599a83edc85",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "ac4e39db-2653-4162-84aa-2599a83edc85"
+  },
+  "linkedContentPath": "学校/考研/长师保研.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 264,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 68224,
+    "contextWindow": 200000,
+    "contextTokens": 68488,
+    "percentage": 34,
+    "contextWindowIsAuthoritative": true
+  }
+}

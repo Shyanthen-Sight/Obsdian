@@ -1,0 +1,13 @@
+{
+  "id": "conv-1789618488227-fkv965f3f",
+  "providerId": "claude",
+  "title": "hello",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789618488230,
+  "lastActivityAt": 1789618818313,
+  "sessionId": "71240119-f0ca-4239-8853-43c0b4504364",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "71240119-f0ca-4239-8853-43c0b4504364"
+  }
+}

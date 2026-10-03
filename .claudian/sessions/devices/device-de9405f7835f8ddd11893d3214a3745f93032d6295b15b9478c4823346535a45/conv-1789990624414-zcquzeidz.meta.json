@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789990624414-zcquzeidz",
+  "providerId": "claude",
+  "title": "补充详细精华笔记并举例分析",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789990624418,
+  "lastActivityAt": 1789990681454,
+  "sessionId": "5e9716a2-d6c5-4624-a634-4e19372d6803",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "5e9716a2-d6c5-4624-a634-4e19372d6803"
+  },
+  "linkedContentPath": "计算机类/数据库/Mysql/sql运算符/算数预算符.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 263,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 40576,
+    "contextWindow": 200000,
+    "contextTokens": 40839,
+    "percentage": 20,
+    "contextWindowIsAuthoritative": true
+  }
+}

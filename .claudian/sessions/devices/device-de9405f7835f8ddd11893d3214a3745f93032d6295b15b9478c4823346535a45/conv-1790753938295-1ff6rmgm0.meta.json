@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790753938295-1ff6rmgm0",
+  "providerId": "claude",
+  "title": "变量与方法声明及区别四方向分析",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790753938300,
+  "lastActivityAt": 1790753969570,
+  "sessionId": "5ccde1bf-1e70-4efc-9fdf-9b22ac392708",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "5ccde1bf-1e70-4efc-9fdf-9b22ac392708"
+  },
+  "linkedContentPath": "计算机类/后端/Java/类与对象/实例成员与类成员/两者关系大汇总.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 213,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 38528,
+    "contextWindow": 200000,
+    "contextTokens": 38741,
+    "percentage": 19,
+    "contextWindowIsAuthoritative": true
+  }
+}

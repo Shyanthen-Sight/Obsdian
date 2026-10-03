@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789196331251-idwtbji68",
+  "providerId": "claude",
+  "title": "Maven 的作用与同类工具对比解释",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789196331260,
+  "lastActivityAt": 1789356026499,
+  "sessionId": "cb0aa3a7-8f4d-4ab7-b92c-47cfe1199d06",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "cb0aa3a7-8f4d-4ab7-b92c-47cfe1199d06"
+  },
+  "linkedContentPath": "计算机类/计算机杂学/maven 1.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 471,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 69248,
+    "contextWindow": 200000,
+    "contextTokens": 69719,
+    "percentage": 35,
+    "contextWindowIsAuthoritative": true
+  }
+}

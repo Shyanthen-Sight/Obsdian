@@ -1,0 +1,16 @@
+{
+  "id": "conv-1789618828636-z53sgvzuu",
+  "providerId": "claude",
+  "title": "补充音标",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789618828641,
+  "lastActivityAt": 1789619147410,
+  "sessionId": null,
+  "selectedModel": "haiku",
+  "providerState": {
+    "previousProviderSessionIds": [
+      "44928c7a-da85-46cb-8d7a-3ae5b714967d"
+    ]
+  },
+  "linkedContentPath": "英语/单词学习/E26-9-16.md"
+}

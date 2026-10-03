@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789614951775-m64rgreld",
+  "providerId": "claude",
+  "title": "阅读内容，我是一个家教英语老师，我现在要出一套卷子，题型多为填空和选择，文件中分析了七年级上下册和八...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789614951779,
+  "lastActivityAt": 1789618133170,
+  "sessionId": "e9d2fdf6-8949-42a9-9de2-4420407e1d82",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "e9d2fdf6-8949-42a9-9de2-4420407e1d82"
+  },
+  "linkedContentPath": "家教/试卷/基础测试套卷1/基础测试卷1.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 865,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 63488,
+    "contextWindow": 200000,
+    "contextTokens": 64353,
+    "percentage": 32,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "conv-1788841117603-2omqve365",
+  "providerId": "claude",
+  "title": "补全表格音标并抽取象征短语至今日短语",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788841117615,
+  "lastActivityAt": 1788844232554,
+  "sessionId": null,
+  "selectedModel": "haiku",
+  "providerState": {
+    "previousProviderSessionIds": [
+      "5ba2e009-e493-4661-8867-1a96eed525dd"
+    ]
+  },
+  "linkedContentPath": "英语/单词学习/E26-8-11.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 630,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 51200,
+    "contextWindow": 200000,
+    "contextTokens": 51830,
+    "percentage": 26,
+    "contextWindowIsAuthoritative": true
+  }
+}

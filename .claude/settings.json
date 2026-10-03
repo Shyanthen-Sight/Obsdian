@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd /tmp)",
+      "Bash(curl -sS --max-time 25 \"https://raw.githubusercontent.com/SilentVoid13/Templater/master/src/settings/settings.ts\")",
+      "Bash(echo \"=== exit $? ===\")",
+      "Bash(curl -sS --max-time 25 \"https://silentvoid13.github.io/Templater/settings.html\")",
+      "Bash(curl -sS --max-time 25 \"https://api.github.com/repos/SilentVoid13/Templater/git/trees/master?recursive=1\")",
+      "Bash(curl -sS --max-time 25 \"https://raw.githubusercontent.com/SilentVoid13/Templater/master/src/settings/Settings.ts\")",
+      "Bash(cd /tmp && curl -sS --max-time 25 \"https://raw.githubusercontent.com/SilentVoid13/Templater/master/src/settings/Settings.ts\" 2>/dev/null | sed -n '49,90p')",
+      "Bash(node -e \"console.log\\(new Date\\(2026,8,21\\).toLocaleDateString\\('zh-CN',{weekday:'long'}\\)\\)\")"
+    ]
+  }
+}

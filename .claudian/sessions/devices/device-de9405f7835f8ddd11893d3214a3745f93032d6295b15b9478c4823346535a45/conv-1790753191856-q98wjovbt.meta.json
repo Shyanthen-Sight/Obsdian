@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790753191856-q98wjovbt",
+  "providerId": "claude",
+  "title": "用圆柱体和圆示例讲解类的复用",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790753191861,
+  "lastActivityAt": 1790753227279,
+  "sessionId": "184eb92f-8d2b-482b-bf21-80678dd535f4",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "184eb92f-8d2b-482b-bf21-80678dd535f4"
+  },
+  "linkedContentPath": "计算机类/后端/Java/类与对象/对象的组合与UML/对象复用的具体例子.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 5082,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 30848,
+    "contextWindow": 200000,
+    "contextTokens": 35930,
+    "percentage": 18,
+    "contextWindowIsAuthoritative": true
+  }
+}

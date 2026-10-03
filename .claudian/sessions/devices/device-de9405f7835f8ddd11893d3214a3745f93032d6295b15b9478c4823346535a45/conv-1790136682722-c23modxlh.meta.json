@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790136682722-c23modxlh",
+  "providerId": "claude",
+  "title": "接入 chaoxing-mcp 服务配置",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790136682727,
+  "lastActivityAt": 1790137529858,
+  "sessionId": "f2b87be1-2536-4305-9bea-085085665e00",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "f2b87be1-2536-4305-9bea-085085665e00"
+  },
+  "linkedContentPath": "学校/作业/java/java类与对象.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 499,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 74496,
+    "contextWindow": 200000,
+    "contextTokens": 74995,
+    "percentage": 37,
+    "contextWindowIsAuthoritative": true
+  }
+}

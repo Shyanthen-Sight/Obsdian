@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790753018469-cxqxuvw3p",
+  "providerId": "claude",
+  "title": "生成一篇笔记",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790753018480,
+  "lastActivityAt": 1790753046156,
+  "sessionId": "acae2df3-810d-48d2-9c52-694174bb2ec5",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "acae2df3-810d-48d2-9c52-694174bb2ec5"
+  },
+  "linkedContentPath": "计算机类/后端/Java/类与对象/对象的组合与UML/对象的复用.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 464,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 35328,
+    "contextWindow": 200000,
+    "contextTokens": 35792,
+    "percentage": 18,
+    "contextWindowIsAuthoritative": true
+  }
+}

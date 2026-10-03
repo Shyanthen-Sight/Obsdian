@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789815665602-m557e9498",
+  "providerId": "claude",
+  "title": "补充今日新词表格和今日短语，短语根据上面的表格",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789815665606,
+  "lastActivityAt": 1789815725531,
+  "sessionId": "b4148ca8-d989-4a7d-8490-4760fd402477",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "b4148ca8-d989-4a7d-8490-4760fd402477"
+  },
+  "linkedContentPath": "英语/单词学习/E26-9-19.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2150,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 24320,
+    "contextWindow": 200000,
+    "contextTokens": 26470,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}

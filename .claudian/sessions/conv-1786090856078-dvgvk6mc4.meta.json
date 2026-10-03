@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786090856078-dvgvk6mc4",
+  "providerId": "claude",
+  "title": "补充音标部分",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786090856078,
+  "lastActivityAt": 1786090864244,
+  "sessionId": "bc404e7d-27e3-4b97-a6a5-a752eddb8a54",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "bc404e7d-27e3-4b97-a6a5-a752eddb8a54"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 563,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 26240,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 26803,
+    "percentage": 13
+  }
+}

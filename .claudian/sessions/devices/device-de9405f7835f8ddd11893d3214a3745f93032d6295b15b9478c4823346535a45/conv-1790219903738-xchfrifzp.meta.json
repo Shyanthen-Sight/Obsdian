@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790219903738-xchfrifzp",
+  "providerId": "claude",
+  "title": "生成一篇完整的笔记",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790219903749,
+  "lastActivityAt": 1790220040273,
+  "sessionId": "44cd9761-a59c-4350-bfc4-75ca5fa6fd3d",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "44cd9761-a59c-4350-bfc4-75ca5fa6fd3d"
+  },
+  "linkedContentPath": "学校/课本/离散数学/C2 一阶逻辑/2.3 一阶逻辑等值式与前束范式.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 331,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 71424,
+    "contextWindow": 200000,
+    "contextTokens": 71755,
+    "percentage": 36,
+    "contextWindowIsAuthoritative": true
+  }
+}

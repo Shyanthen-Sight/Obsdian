@@ -1,0 +1,26 @@
+{
+  "id": "conv-1789721292009-e3bax6wev",
+  "providerId": "claude",
+  "title": "根据标题，写一篇笔记",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789721292012,
+  "lastActivityAt": 1789721371428,
+  "sessionId": null,
+  "selectedModel": "haiku",
+  "providerState": {
+    "previousProviderSessionIds": [
+      "62955fa9-b75e-43b0-a7b5-bb06f7c30bd5"
+    ]
+  },
+  "linkedContentPath": "计算机类/后端/Java/关键字/protected关键字.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 905,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 23808,
+    "contextWindow": 200000,
+    "contextTokens": 24713,
+    "percentage": 12,
+    "contextWindowIsAuthoritative": true
+  }
+}

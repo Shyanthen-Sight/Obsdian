@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789720713898-ihocouyfe",
+  "providerId": "claude",
+  "title": "根据标题整理成文档发给我",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789720713901,
+  "lastActivityAt": 1789721177397,
+  "sessionId": "cefb6fe9-1327-4456-b449-ab92466c814f",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "cefb6fe9-1327-4456-b449-ab92466c814f"
+  },
+  "linkedContentPath": "计算机类/后端/Java/关键字/static关键字.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 251,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 33792,
+    "contextWindow": 200000,
+    "contextTokens": 34043,
+    "percentage": 17,
+    "contextWindowIsAuthoritative": true
+  }
+}

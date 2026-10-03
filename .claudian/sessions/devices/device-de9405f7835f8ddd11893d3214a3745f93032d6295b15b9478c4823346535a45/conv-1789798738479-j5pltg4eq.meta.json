@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789798738479-j5pltg4eq",
+  "providerId": "claude",
+  "title": "补充笔记内容",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789798738482,
+  "lastActivityAt": 1789798785545,
+  "sessionId": "680de6cc-2282-4f39-9f98-de9c365e1cb1",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "680de6cc-2282-4f39-9f98-de9c365e1cb1"
+  },
+  "linkedContentPath": "计算机类/后端/Java/关键字/this关键字.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1319,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 23808,
+    "contextWindow": 200000,
+    "contextTokens": 25127,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}

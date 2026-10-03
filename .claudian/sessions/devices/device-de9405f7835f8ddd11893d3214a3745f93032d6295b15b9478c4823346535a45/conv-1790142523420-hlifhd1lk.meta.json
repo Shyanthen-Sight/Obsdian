@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790142523420-hlifhd1lk",
+  "providerId": "claude",
+  "title": "去除文档中的所有高亮标记",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790142523421,
+  "lastActivityAt": 1790142536558,
+  "sessionId": "b51a0ee0-da29-4bf0-9033-bde3babbfbdf",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "b51a0ee0-da29-4bf0-9033-bde3babbfbdf"
+  },
+  "linkedContentPath": "计算机类/后端/Java/类与对象/类的基础/方法.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 330,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 31744,
+    "contextWindow": 200000,
+    "contextTokens": 32074,
+    "percentage": 16,
+    "contextWindowIsAuthoritative": true
+  }
+}

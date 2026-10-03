@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790135314265-qg4vexadf",
+  "providerId": "claude",
+  "title": "解析CSDN博客摘要分类部分",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790135314270,
+  "lastActivityAt": 1790135397685,
+  "sessionId": "3a975c5a-9bd5-4c4a-842c-e76320a93084",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "3a975c5a-9bd5-4c4a-842c-e76320a93084"
+  },
+  "linkedContentPath": "计算机类/计算机网络/C1 概述/计算机网络的定义和分类.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 186,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 36096,
+    "contextWindow": 200000,
+    "contextTokens": 36282,
+    "percentage": 18,
+    "contextWindowIsAuthoritative": true
+  }
+}

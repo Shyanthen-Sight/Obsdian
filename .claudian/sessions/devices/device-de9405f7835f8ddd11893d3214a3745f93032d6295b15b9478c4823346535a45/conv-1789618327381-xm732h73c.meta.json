@@ -1,0 +1,14 @@
+{
+  "id": "conv-1789618327381-xm732h73c",
+  "providerId": "claude",
+  "title": "删除所有md语法为---的分割线",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789618327385,
+  "lastActivityAt": 1789618473190,
+  "sessionId": "d6e3f210-0582-45ef-834a-46ca26d73653",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "d6e3f210-0582-45ef-834a-46ca26d73653"
+  },
+  "linkedContentPath": "家教/试卷/基础测试套卷1/基础测试卷1.md"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790145626056-aatb56o3s",
+  "providerId": "claude",
+  "title": "生成笔记",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790145626072,
+  "lastActivityAt": 1790145711100,
+  "sessionId": "3a93aafa-0e9c-4c2c-b68d-b8c1de625882",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "3a93aafa-0e9c-4c2c-b68d-b8c1de625882"
+  },
+  "linkedContentPath": "计算机类/后端/Java/类与对象/类的基础/成员变量.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 223,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 46336,
+    "contextWindow": 200000,
+    "contextTokens": 46559,
+    "percentage": 23,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789719644544-m55bygto3",
+  "providerId": "claude",
+  "title": "简单解释重载是什么",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789719644547,
+  "lastActivityAt": 1789719763438,
+  "sessionId": "e7a19156-42cc-4ab8-a429-db0ca6f2db37",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "e7a19156-42cc-4ab8-a429-db0ca6f2db37"
+  },
+  "linkedContentPath": "计算机类/后端/Java/类与对象/重载/重载.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2996,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 21760,
+    "contextWindow": 200000,
+    "contextTokens": 24756,
+    "percentage": 12,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789805334594-4mmcikin2",
+  "providerId": "claude",
+  "title": "请你写一篇笔记，然后举例分析",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789805334597,
+  "lastActivityAt": 1789805414139,
+  "sessionId": "514f734c-71fe-4f69-9c56-872c7577454a",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "514f734c-71fe-4f69-9c56-872c7577454a"
+  },
+  "linkedContentPath": "计算机类/后端/Java/others/java中的权限修饰符.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1598,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 23808,
+    "contextWindow": 200000,
+    "contextTokens": 25406,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}

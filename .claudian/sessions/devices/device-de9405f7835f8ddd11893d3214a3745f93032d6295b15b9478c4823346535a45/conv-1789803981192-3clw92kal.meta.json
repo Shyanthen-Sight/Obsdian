@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789803981192-3clw92kal",
+  "providerId": "claude",
+  "title": "查看课表背后之前的脚本，因为换了一个Obsidian库，现在内容不更新了，要求更新源代码",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789803981196,
+  "lastActivityAt": 1789804352478,
+  "sessionId": "d050a9fc-138d-453b-8842-f620ced9d375",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "d050a9fc-138d-453b-8842-f620ced9d375"
+  },
+  "linkedContentPath": "学校/课表.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 530,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 40448,
+    "contextWindow": 200000,
+    "contextTokens": 40978,
+    "percentage": 20,
+    "contextWindowIsAuthoritative": true
+  }
+}

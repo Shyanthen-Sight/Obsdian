@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790077956868-zl8fgghzi",
+  "providerId": "claude",
+  "title": "根据题目生成笔记并精简标题",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790077956872,
+  "lastActivityAt": 1790079575469,
+  "sessionId": "e0c2c74c-4131-436a-b34e-06f611241116",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "e0c2c74c-4131-436a-b34e-06f611241116"
+  },
+  "linkedContentPath": "学校/课本/离散数学/C1 命题逻辑/推理定律.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 169,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 55808,
+    "contextWindow": 200000,
+    "contextTokens": 55977,
+    "percentage": 28,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790843721596-hnty0s3d2",
+  "providerId": "claude",
+  "title": "补全文档缺失内容",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790843721600,
+  "lastActivityAt": 1790845106420,
+  "sessionId": "ccd48be7-be2c-4bb3-8c63-60aba91179d2",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "ccd48be7-be2c-4bb3-8c63-60aba91179d2"
+  },
+  "linkedContentPath": "英语/单词学习/E26-9-30.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 292,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 41088,
+    "contextWindow": 200000,
+    "contextTokens": 41380,
+    "percentage": 21,
+    "contextWindowIsAuthoritative": true
+  }
+}

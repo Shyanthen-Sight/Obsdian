@@ -1,0 +1,25 @@
+{
+  "mcpServers": {
+    "fetch": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "fetcher-mcp"
+      ]
+    },
+    "xt": {
+      "type": "stdio",
+      "command": "B:\\python\\python.exe",
+      "args": [
+        "-u",
+        "C:\\Users\\Shyanthen\\chaoxing-mcp\\server.py"
+      ],
+      "env": {
+        "XT_ACCOUNT_FILE": "C:\\Users\\Shyanthen\\chaoxing-mcp\\account.md",
+        "PYTHONIOENCODING": "utf-8",
+        "PYTHONUTF8": "1"
+      },
+      "timeoutMs": 60000
+    }
+  }
+}

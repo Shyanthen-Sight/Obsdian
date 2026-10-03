@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789718891070-oamtqozo5",
+  "providerId": "claude",
+  "title": "分析，整理成笔记",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789718891073,
+  "lastActivityAt": 1789718912192,
+  "sessionId": "b5281ef2-162f-4e36-9271-2691a22b70fe",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "b5281ef2-162f-4e36-9271-2691a22b70fe"
+  },
+  "linkedContentPath": "计算机类/后端/Java/关键字/protected关键字.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 283,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 23552,
+    "contextWindow": 200000,
+    "contextTokens": 23835,
+    "percentage": 12,
+    "contextWindowIsAuthoritative": true
+  }
+}

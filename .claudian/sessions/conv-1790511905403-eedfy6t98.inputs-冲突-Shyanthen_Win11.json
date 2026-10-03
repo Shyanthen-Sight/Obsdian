@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1790511905403-eedfy6t98",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790511905460-voadfti",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1790511905401-7dg8wjb",
+      "timestamp": 1790511905401,
+      "rawDisplayText": "根据家教/知识点讲解已经讲了的1-4单元做成笔记，学生可以直接誊抄在笔记本上的笔记，要求精简，去精华部分",
+      "canonicalText": "根据家教/知识点讲解已经讲了的1-4单元做成笔记，学生可以直接誊抄在笔记本上的笔记，要求精简，去精华部分",
+      "context": {
+        "linkedContent": {
+          "path": "家教/讲课笔记/七上1-4单元笔记内容.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "4badd7e1cf95d70247da0c074e48e68dcb4660ff4d2282dcca5db2055c8daf25",
+      "providerUserMessageId": "b9603d8a-4d53-4f5a-bb8a-1bf82ab447fc"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790512049617-8eaun6z",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1790512049614-fcrjs58",
+      "timestamp": 1790512049614,
+      "rawDisplayText": "继续",
+      "canonicalText": "继续",
+      "images": [],
+      "contentDigest": "65f454414e2fda4840658901f9399831363ad75712ba36b930b5ad393f72f7b7",
+      "providerUserMessageId": "883135a1-43eb-4574-839d-1d4a4a17c955"
+    }
+  ]
+}

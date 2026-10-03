@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789441195939-h2by1thhy",
+  "providerId": "claude",
+  "title": "考研科目分析与难度评估",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789441195949,
+  "lastActivityAt": 1789441281932,
+  "sessionId": "1b36f5d7-5087-43c1-92cc-ad94c7def725",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "1b36f5d7-5087-43c1-92cc-ad94c7def725"
+  },
+  "linkedContentPath": "学校/考研/考研的科目有哪些.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1931,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 45952,
+    "contextWindow": 200000,
+    "contextTokens": 47883,
+    "percentage": 24,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "main": {
+    "id": "442261a91e835c55",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a9049408669f532",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc3d3ccfa491697c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语/单词学习/E26-10-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "E26-10-1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "addafb58fda40551",
+    "type": "split",
+    "children": [
+      {
+        "id": "d44f5056a740f321",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "430f731b33556fad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1218c0af1a350a04",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f78e8a8031b7fb70",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "right": {
+    "id": "0b4c7c9d21618fd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f3565dd9df6c975",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca9c7093a8b2478a",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "quiet-outline"
+            }
+          },
+          {
+            "id": "dbf0d7f57d144622",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "122eab22a844954b",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {
+                "tabWorkspace": {
+                  "version": 1,
+                  "openTabs": [
+                    {
+                      "tabId": "tab-1790926832484-coagp84",
+                      "conversationId": "conv-1790926852920-yyw9d187o"
+                    },
+                    {
+                      "tabId": "tab-1790940339266-7bjjfep",
+                      "conversationId": "conv-1790940351699-y4ajxrcmh"
+                    },
+                    {
+                      "tabId": "tab-1790942432779-4n35flp",
+                      "conversationId": "conv-1790942436324-snx077q8v"
+                    },
+                    {
+                      "tabId": "tab-1790943580577-xsjn4za",
+                      "conversationId": "conv-1790943608404-ef717aijd"
+                    },
+                    {
+                      "tabId": "tab-1791035115894-brjfg0n",
+                      "conversationId": "conv-1791035127988-8fmfa2usy"
+                    },
+                    {
+                      "tabId": "tab-1791039265253-0x4nb48",
+                      "conversationId": null,
+                      "draftModel": "haiku",
+                      "providerId": "claude"
+                    },
+                    {
+                      "tabId": "tab-1791039265284-pt1awx7",
+                      "conversationId": null,
+                      "draftModel": "haiku",
+                      "providerId": "claude"
+                    },
+                    {
+                      "tabId": "tab-1791039265306-mjp3f7j",
+                      "conversationId": null,
+                      "draftModel": "haiku",
+                      "providerId": "claude"
+                    },
+                    {
+                      "tabId": "tab-1791039265327-x2c32uv",
+                      "conversationId": "conv-1791039355158-7ud6qtay9"
+                    }
+                  ],
+                  "activeTabId": "tab-1791039265327-x2c32uv"
+                }
+              },
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "ebee12b949c89467",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "计算机类/后端/Git/Git远程/克隆仓库.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "aaa728d6418e100f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "计算机类/后端/Git/Git远程/克隆仓库.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "8b878f8902adf183",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "3923c0362c0664b9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "7994ceace492644d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "计算机类/后端/Git/Git远程/克隆仓库.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "5bda44c701a69516",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "674128e64321d8c7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 427.833251953125
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templates:插入模板": false,
+      "graph:查看关系图谱": false,
+      "switcher:打开快速切换": true,
+      "canvas:新建白板": true,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": true,
+      "bases:新建数据库": true,
+      "nutstore-sync:开始同步": false,
+      "nutstore-sync:停止同步": false,
+      "nutstore-sync:打开 Chatbox": false,
+      "obsidian-checklist-plugin:Open Checklist": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "realclaudian:Open Claudian": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "vscode-editor:新建代码文件": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "dc3d3ccfa491697c",
+  "lastOpenFiles": [
+    "英语/单词学习/E26-10-1.md",
+    "英语/单词学习/E26-9-30.md",
+    "英语/单词学习/E26-9-29.md",
+    "计算机类/后端/Git/Git远程/管理远程.md",
+    "计算机类/后端/Git/Git远程/克隆仓库.md",
+    "计算机类/后端/Git/Git远程/未命名.md",
+    "计算机类/后端/Git/分支基础/合并基础.md",
+    "计算机类/后端/Git/分支基础/重命名分支.md",
+    "计算机类/后端/Git/分支基础/删除分支.md",
+    "计算机类/后端/Git/分支基础/查看分支.md",
+    "计算机类/后端/Git/分支基础/创建分支.md",
+    "计算机类/后端/Git/Git远程",
+    "计算机类/后端/Git/Repository/分支基础/未命名.md",
+    "计算机类/后端/Git/Repository/仓库初始化/查看commit历史.md",
+    "计算机类/后端/Git/Repository/仓库初始化/关于.gitignore.md",
+    "计算机类/后端/Git/分支基础",
+    "计算机类/后端/Git/Repository/Git核心区/暂存区.md",
+    "计算机类/后端/Git/Repository/Git核心区/工作目录.md",
+    "计算机类/后端/Git/Repository/Git核心区/提交.md",
+    "计算机类/后端/Git/Repository/仓库初始化/git config.md",
+    "计算机类/后端/Git/Repository/仓库初始化/git init.md",
+    "任务/任务完成情况概览.md",
+    "计算机类/后端/Git/Repository/仓库初始化/本地配置与全局配置（Local VS Global Config）.md",
+    "creative think/智算中心教务系统.md",
+    "未命名.canvas",
+    "计算机类/后端/Java/关键字/abstract关键字.md",
+    "计算机类/数据库/Mysql/数据库概念/笛卡尔积.md",
+    "explorer-order.md",
+    "英语/单词学习/E26-9-30.md.tmp.18368.0eae4e96d22c",
+    "计算机类/计算机组成原理",
+    "计算机类/计算机操作系统",
+    "计算机类/数据库/Redis",
+    "计算机类/数据库/Mysql",
+    "计算机类/后端/Maven",
+    "计算机类/后端/Docker",
+    "计算机类/前端/Three.js",
+    "计算机类/后端/Git/基础学习/什么是版本控制.md",
+    "学校/课本/离散数学/未命名.canvas",
+    "学校/课本/离散数学/img/Pasted image 20260924115529.png",
+    "家教/img/微信图片_20260919111137_39_138.jpg",
+    "家教/img/微信图片_20260919111140_42_138.jpg",
+    "家教/img/微信图片_20260919111139_41_138.jpg",
+    "家教/img/微信图片_20260919111138_40_138.jpg",
+    "计算机相关/计算机网络/C1 概述/Pasted image 20260923115022.png",
+    "计算机类/计算机网络/images/阿帕网.jpeg",
+    "计算机相关/后端/java/Pasted image 20260921132003.png",
+    "计算机类/计算机杂学/img/Pasted image 20260920123347.png",
+    "计算机类/计算机杂学/img/Pasted image 20260920120537.jpg",
+    "Excalidraw/未命名.canvas",
+    "未命名 4.canvas",
+    "未命名 1.canvas",
+    "未命名 3.canvas",
+    "未命名 2.canvas"
+  ]
+}

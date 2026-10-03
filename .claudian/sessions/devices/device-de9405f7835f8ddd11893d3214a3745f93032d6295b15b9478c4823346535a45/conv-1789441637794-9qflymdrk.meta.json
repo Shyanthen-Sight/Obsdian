@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789441637794-9qflymdrk",
+  "providerId": "claude",
+  "title": "分析两者学习、时间与金钱成本并总结",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789441637805,
+  "lastActivityAt": 1789442327784,
+  "sessionId": "24760ed0-a417-4e45-9695-9c1dccff24b8",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "24760ed0-a417-4e45-9695-9c1dccff24b8"
+  },
+  "linkedContentPath": "学校/考研/学硕与专硕.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 14997,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 59264,
+    "contextWindow": 200000,
+    "contextTokens": 74261,
+    "percentage": 37,
+    "contextWindowIsAuthoritative": true
+  }
+}

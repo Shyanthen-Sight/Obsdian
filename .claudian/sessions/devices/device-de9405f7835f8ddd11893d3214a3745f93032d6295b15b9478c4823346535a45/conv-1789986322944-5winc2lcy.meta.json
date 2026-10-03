@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789986322944-5winc2lcy",
+  "providerId": "claude",
+  "title": "使用 MCP web fetch 抓取 CSDN 文章并誊抄至文档",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789986322950,
+  "lastActivityAt": 1789986368841,
+  "sessionId": "6ce3f684-5019-4284-8ef1-8084aa119b66",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "6ce3f684-5019-4284-8ef1-8084aa119b66"
+  },
+  "linkedContentPath": "计算机类/后端/Java/子类与继承/面向抽象编程.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 229,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 31488,
+    "contextWindow": 200000,
+    "contextTokens": 31717,
+    "percentage": 16,
+    "contextWindowIsAuthoritative": true
+  }
+}

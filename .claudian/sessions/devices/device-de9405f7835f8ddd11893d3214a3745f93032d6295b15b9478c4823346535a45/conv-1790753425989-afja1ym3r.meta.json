@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790753425989-afja1ym3r",
+  "providerId": "claude",
+  "title": "UML 绘图规范与图解读指南",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790753425995,
+  "lastActivityAt": 1790753462951,
+  "sessionId": "9f919c93-bf92-44dc-aa65-dffc4f92b737",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "9f919c93-bf92-44dc-aa65-dffc4f92b737"
+  },
+  "linkedContentPath": "计算机类/后端/Java/类与对象/对象的组合与UML/UML.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 149,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 39552,
+    "contextWindow": 200000,
+    "contextTokens": 39701,
+    "percentage": 20,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789877040102-9urnn7sqz",
+  "providerId": "claude",
+  "title": "抓取CSDN博客MCP文章生成Obsidian笔记",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789877040107,
+  "lastActivityAt": 1789877089103,
+  "sessionId": "c271a370-4383-4ae6-91b8-b187c7c3ca5c",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "c271a370-4383-4ae6-91b8-b187c7c3ca5c"
+  },
+  "linkedContentPath": "计算机类/计算机杂学/mcp详解.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 135,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 33280,
+    "contextWindow": 200000,
+    "contextTokens": 33415,
+    "percentage": 17,
+    "contextWindowIsAuthoritative": true
+  }
+}

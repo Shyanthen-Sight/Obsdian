@@ -1,0 +1,23 @@
+{
+  "id": "conv-1789963582822-i9btpcxxa",
+  "providerId": "claude",
+  "title": "单词学习笔记自动创建脚本（Eyy-mm-dd命名与模版插入）",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789963582831,
+  "lastActivityAt": 1789964003020,
+  "sessionId": "1de18f9d-4e93-44c4-b46d-bf37b33a9fc9",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "1de18f9d-4e93-44c4-b46d-bf37b33a9fc9"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 170,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 74240,
+    "contextWindow": 200000,
+    "contextTokens": 74410,
+    "percentage": 37,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790073824803-hd4t36i4t",
+  "providerId": "claude",
+  "title": "列出微电网优化模型的所有公式",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790073824807,
+  "lastActivityAt": 1790073874363,
+  "sessionId": "12e9dba3-ad03-4ccd-a5c8-6a053f485ec1",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "12e9dba3-ad03-4ccd-a5c8-6a053f485ec1"
+  },
+  "linkedContentPath": "学校/课本/离散数学/C1 命题逻辑/等值演算公式.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 146,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 38784,
+    "contextWindow": 200000,
+    "contextTokens": 38930,
+    "percentage": 19,
+    "contextWindowIsAuthoritative": true
+  }
+}

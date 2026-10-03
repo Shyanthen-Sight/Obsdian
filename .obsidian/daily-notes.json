@@ -1,0 +1,5 @@
+{
+  "folder": "任务/每日任务",
+  "template": "templates/每日任务模板",
+  "format": "YYYY-MM-DD"
+}

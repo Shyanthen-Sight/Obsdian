@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789903774025-wbzocoask",
+  "providerId": "claude",
+  "title": "补充音标并按今日新词填充每日短语",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789903774030,
+  "lastActivityAt": 1789903824542,
+  "sessionId": "eb6dba6f-aaf1-45ca-a0a6-fb150eafc328",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "eb6dba6f-aaf1-45ca-a0a6-fb150eafc328"
+  },
+  "linkedContentPath": "英语/单词学习/E26-9-20.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 161,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 42880,
+    "contextWindow": 200000,
+    "contextTokens": 43041,
+    "percentage": 22,
+    "contextWindowIsAuthoritative": true
+  }
+}

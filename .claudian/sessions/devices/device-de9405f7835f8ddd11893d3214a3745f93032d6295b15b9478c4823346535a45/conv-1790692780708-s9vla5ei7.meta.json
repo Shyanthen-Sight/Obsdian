@@ -1,0 +1,20 @@
+{
+  "id": "conv-1790692780708-s9vla5ei7",
+  "providerId": "claude",
+  "title": "补充表格",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790692780717,
+  "lastActivityAt": 1790692961761,
+  "sessionId": null,
+  "selectedModel": "haiku",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 7654,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 44928,
+    "contextWindow": 200000,
+    "contextTokens": 52582,
+    "percentage": 26,
+    "contextWindowIsAuthoritative": true
+  }
+}

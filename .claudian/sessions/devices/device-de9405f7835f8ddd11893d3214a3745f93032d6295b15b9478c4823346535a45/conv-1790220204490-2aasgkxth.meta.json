@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790220204490-2aasgkxth",
+  "providerId": "claude",
+  "title": "补全 2.1 与 2.2 的笔记内容",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790220204495,
+  "lastActivityAt": 1790220393530,
+  "sessionId": "4f5e38fe-89b2-4c84-bc96-ee78b3a9b02a",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "4f5e38fe-89b2-4c84-bc96-ee78b3a9b02a"
+  },
+  "linkedContentPath": "学校/课本/离散数学/C2 一阶逻辑/2.2一阶逻辑合式公式及解释.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 590,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 84736,
+    "contextWindow": 200000,
+    "contextTokens": 85326,
+    "percentage": 43,
+    "contextWindowIsAuthoritative": true
+  }
+}

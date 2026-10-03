@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790139650091-bba9ocjjz",
+  "providerId": "claude",
+  "title": "撰写一篇笔记",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790139650095,
+  "lastActivityAt": 1790139677670,
+  "sessionId": "eb12f066-5fbe-41b9-b3f1-cbab89a6ee5f",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "eb12f066-5fbe-41b9-b3f1-cbab89a6ee5f"
+  },
+  "linkedContentPath": "计算机类/后端/Java/类与对象/类的基础/类的声明.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 886,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 34816,
+    "contextWindow": 200000,
+    "contextTokens": 35702,
+    "percentage": 18,
+    "contextWindowIsAuthoritative": true
+  }
+}

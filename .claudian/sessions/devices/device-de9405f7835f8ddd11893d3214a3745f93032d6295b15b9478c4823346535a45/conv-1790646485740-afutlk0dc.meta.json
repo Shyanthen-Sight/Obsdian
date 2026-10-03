@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790646485740-afutlk0dc",
+  "providerId": "claude",
+  "title": "生成笔记",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790646485761,
+  "lastActivityAt": 1790649610859,
+  "sessionId": "4f9ae29e-efa2-4efd-bc1d-73f557a7c818",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "4f9ae29e-efa2-4efd-bc1d-73f557a7c818"
+  },
+  "linkedContentPath": "计算机类/数据库/Mysql/数据库概念/笛卡尔积.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 14172,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 73856,
+    "contextWindow": 200000,
+    "contextTokens": 88028,
+    "percentage": 44,
+    "contextWindowIsAuthoritative": true
+  }
+}

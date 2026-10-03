@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786084704055-65glpzk1y",
+  "providerId": "claude",
+  "title": "创建每日20词单词记忆本模板",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786084704061,
+  "lastActivityAt": 1786085469338,
+  "sessionId": "a0699119-c7a0-4299-b88c-e47a290ca659",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "a0699119-c7a0-4299-b88c-e47a290ca659"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

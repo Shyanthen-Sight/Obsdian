@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789966430414-uw2rt60xd",
+  "providerId": "claude",
+  "title": "补充笔记内容",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789966430418,
+  "lastActivityAt": 1789966449411,
+  "sessionId": "0265b76e-df35-455c-83ab-e775a707e650",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "0265b76e-df35-455c-83ab-e775a707e650"
+  },
+  "linkedContentPath": "计算机类/后端/Java/others/Java方法的解释.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 201,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 31744,
+    "contextWindow": 200000,
+    "contextTokens": 31945,
+    "percentage": 16,
+    "contextWindowIsAuthoritative": true
+  }
+}

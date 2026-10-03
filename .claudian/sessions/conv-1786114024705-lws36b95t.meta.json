@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786114024705-lws36b95t",
+  "providerId": "claude",
+  "title": "Rewrite template for concise use",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786114024706,
+  "lastActivityAt": 1786114046600,
+  "sessionId": "146f1194-b752-4d98-8bb7-2004de691fd5",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "146f1194-b752-4d98-8bb7-2004de691fd5"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 91,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 28032,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 28123,
+    "percentage": 14
+  }
+}

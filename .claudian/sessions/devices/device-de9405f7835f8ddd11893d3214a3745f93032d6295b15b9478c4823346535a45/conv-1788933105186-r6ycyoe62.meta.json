@@ -1,0 +1,24 @@
+{
+  "id": "conv-1788933105186-r6ycyoe62",
+  "providerId": "claude",
+  "title": "补充六级高频词汇表",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788933105197,
+  "lastActivityAt": 1788933162057,
+  "sessionId": "8c7dc321-c8ca-45e2-b2c9-4655b6c73dd5",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "8c7dc321-c8ca-45e2-b2c9-4655b6c73dd5"
+  },
+  "linkedContentPath": "英语/单词学习/E26-9-9.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 3179,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 30720,
+    "contextWindow": 200000,
+    "contextTokens": 33899,
+    "percentage": 17,
+    "contextWindowIsAuthoritative": true
+  }
+}

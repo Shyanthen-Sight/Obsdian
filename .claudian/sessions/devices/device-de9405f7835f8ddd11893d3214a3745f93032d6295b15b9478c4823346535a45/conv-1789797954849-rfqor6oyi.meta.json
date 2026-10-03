@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789797954849-rfqor6oyi",
+  "providerId": "claude",
+  "title": "根据题目详写一篇笔记",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789797954854,
+  "lastActivityAt": 1789798064804,
+  "sessionId": "bcdc7dd9-e0fe-46c8-ab65-b7b08318f9f4",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "bcdc7dd9-e0fe-46c8-ab65-b7b08318f9f4"
+  },
+  "linkedContentPath": "计算机类/后端/Java/子类与继承/父类的构造方法与子类的关系.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1715,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 23808,
+    "contextWindow": 200000,
+    "contextTokens": 25523,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}

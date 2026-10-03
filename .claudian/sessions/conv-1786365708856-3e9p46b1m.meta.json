@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786365708856-3e9p46b1m",
+  "providerId": "claude",
+  "title": "Complete the table",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786365708857,
+  "lastActivityAt": 1786367553375,
+  "sessionId": "737c828a-6374-428a-8e28-71e957db0b56",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "737c828a-6374-428a-8e28-71e957db0b56"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 598,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 49024,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 49622,
+    "percentage": 25
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786353389372-1loxqt3gi",
+  "providerId": "claude",
+  "title": "Create mathematical modeling template",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786353389372,
+  "lastActivityAt": 1786353440511,
+  "sessionId": "d0971541-0d1e-46ca-b30d-e9913327f91d",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "d0971541-0d1e-46ca-b30d-e9913327f91d"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2365,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 37760,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 40125,
+    "percentage": 20
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789387511123-a5zq7dlm1",
+  "providerId": "claude",
+  "title": "补充解释并举例，优化排版",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789387511135,
+  "lastActivityAt": 1789387567902,
+  "sessionId": "f78d0896-84c1-4e84-b624-82d7a2d2667d",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "f78d0896-84c1-4e84-b624-82d7a2d2667d"
+  },
+  "linkedContentPath": "计算机类/后端/Java/关键字/final关键字.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 6765,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 33024,
+    "contextWindow": 200000,
+    "contextTokens": 39789,
+    "percentage": 20,
+    "contextWindowIsAuthoritative": true
+  }
+}

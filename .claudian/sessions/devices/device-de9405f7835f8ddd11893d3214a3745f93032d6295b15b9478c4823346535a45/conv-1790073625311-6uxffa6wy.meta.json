@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790073625311-6uxffa6wy",
+  "providerId": "claude",
+  "title": "完善 Obsidian 笔记内容",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790073625317,
+  "lastActivityAt": 1790073700059,
+  "sessionId": "b09550d0-d162-471e-a367-f2fc2d48c4af",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "b09550d0-d162-471e-a367-f2fc2d48c4af"
+  },
+  "linkedContentPath": "学校/课本/离散数学/C1 命题逻辑/命题的主析取范式和主合取范式求法.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 380,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 52608,
+    "contextWindow": 200000,
+    "contextTokens": 52988,
+    "percentage": 26,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789967873038-h8xycfcal",
+  "providerId": "claude",
+  "title": "总结CSDN文章摘要并写入笔记文档",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789967873045,
+  "lastActivityAt": 1789969391861,
+  "sessionId": "c5563e8f-494c-4436-aeaa-9b411d6ee9b0",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "c5563e8f-494c-4436-aeaa-9b411d6ee9b0"
+  },
+  "linkedContentPath": "计算机类/后端/Java/关键字/abstract关键字.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1334,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 38016,
+    "contextWindow": 200000,
+    "contextTokens": 39350,
+    "percentage": 20,
+    "contextWindowIsAuthoritative": true
+  }
+}

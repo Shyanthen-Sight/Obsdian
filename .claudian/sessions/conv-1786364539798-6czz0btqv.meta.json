@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786364539798-6czz0btqv",
+  "providerId": "claude",
+  "title": "Set up note for word lookup and translation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786364539800,
+  "lastActivityAt": 1786364678063,
+  "sessionId": "0d57887e-46c4-4648-90b9-f42e31cbab28",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "0d57887e-46c4-4648-90b9-f42e31cbab28"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 255,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 46976,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 47231,
+    "percentage": 24
+  }
+}

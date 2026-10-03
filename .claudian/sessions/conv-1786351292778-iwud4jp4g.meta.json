@@ -1,0 +1,24 @@
+{
+  "id": "conv-1786351292778-iwud4jp4g",
+  "providerId": "claude",
+  "title": "Organize content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786351292782,
+  "lastActivityAt": 1786353371633,
+  "sessionId": "88cc3c98-3541-46ee-aad1-184ea5722f55",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "88cc3c98-3541-46ee-aad1-184ea5722f55"
+  },
+  "linkedContentPath": "杂记/ai.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 753,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 40320,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 41073,
+    "percentage": 21
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "conv-1789618149145-7my4ti9vh",
+  "providerId": "claude",
+  "title": "在最顶上加上学生姓名和成绩和时间",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789618149151,
+  "lastActivityAt": 1789618213418,
+  "sessionId": "bf47f1ac-76cd-48ca-90a8-a1b0c421db79",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "bf47f1ac-76cd-48ca-90a8-a1b0c421db79"
+  },
+  "linkedContentPath": "家教/试卷/基础测试套卷1/基础测试卷1.md"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1785062230706-z1mwzcllv",
+  "providerId": "claude",
+  "title": "Generate introduction to Fuling",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785062230710,
+  "lastActivityAt": 1785828062846,
+  "sessionId": "9c873b03-17c6-41f5-b4b5-bc9dea25e1d5",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "9c873b03-17c6-41f5-b4b5-bc9dea25e1d5"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 89,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 42240,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 42329,
+    "percentage": 21
+  }
+}

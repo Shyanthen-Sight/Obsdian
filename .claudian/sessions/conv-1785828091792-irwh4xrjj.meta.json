@@ -1,0 +1,23 @@
+{
+  "id": "conv-1785828091792-irwh4xrjj",
+  "providerId": "claude",
+  "title": "Create resume from provided content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785828091795,
+  "lastActivityAt": 1785828270410,
+  "sessionId": "78d7863b-9c7e-4a02-9635-da917392c13d",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "78d7863b-9c7e-4a02-9635-da917392c13d"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 144,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 29568,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 29712,
+    "percentage": 15
+  }
+}
