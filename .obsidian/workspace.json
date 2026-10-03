@@ -15,7 +15,8 @@
               "state": {
                 "file": "英语/单词学习/E26-10-1.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "E26-10-1"
@@ -65,25 +66,12 @@
               "icon": "lucide-search",
               "title": "搜索"
             }
-          },
-          {
-            "id": "f78e8a8031b7fb70",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-bookmark",
-              "title": "书签"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 214.16668701171875
+    "width": 246.16668701171875
   },
   "right": {
     "id": "0b4c7c9d21618fd4",
@@ -99,8 +87,8 @@
             "state": {
               "type": "quiet-outline",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "quiet-outline"
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
             }
           },
           {
@@ -109,8 +97,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
+              "icon": "checkmark",
+              "title": "Checklist"
             }
           },
           {
@@ -173,83 +161,6 @@
             }
           },
           {
-            "id": "ebee12b949c89467",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "计算机类/后端/Git/Git远程/克隆仓库.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "反向链接"
-            }
-          },
-          {
-            "id": "aaa728d6418e100f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "计算机类/后端/Git/Git远程/克隆仓库.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "出链"
-            }
-          },
-          {
-            "id": "8b878f8902adf183",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "标签"
-            }
-          },
-          {
-            "id": "3923c0362c0664b9",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
-            }
-          },
-          {
-            "id": "7994ceace492644d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "计算机类/后端/Git/Git远程/克隆仓库.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "大纲"
-            }
-          },
-          {
             "id": "5bda44c701a69516",
             "type": "leaf",
             "state": {
@@ -270,7 +181,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -280,7 +191,6 @@
     "hiddenItems": {
       "templates:插入模板": false,
       "graph:查看关系图谱": false,
-      "switcher:打开快速切换": true,
       "canvas:新建白板": true,
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": true,
