@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3871617432f37cc3",
+        "id": "a0ddd9b61d67a669",
         "type": "tabs",
         "children": [
           {
-            "id": "73f3cbe408a5e3d8",
+            "id": "5eb146e150ba2f3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 214.16668701171875
   },
   "right": {
     "id": "0b4c7c9d21618fd4",
@@ -274,7 +274,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.833251953125
+    "width": 367.1666259765625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -300,8 +300,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73f3cbe408a5e3d8",
+  "active": "674128e64321d8c7",
   "lastOpenFiles": [
+    "未命名.canvas",
     "英语/单词学习/E26-10-1.md",
     "英语/单词学习/E26-9-30.md",
     "英语/单词学习/E26-9-29.md",
@@ -326,7 +327,6 @@
     "任务/任务完成情况概览.md",
     "计算机类/后端/Git/Repository/仓库初始化/本地配置与全局配置（Local VS Global Config）.md",
     "creative think/智算中心教务系统.md",
-    "未命名.canvas",
     "计算机类/后端/Java/关键字/abstract关键字.md",
     "计算机类/数据库/Mysql/数据库概念/笛卡尔积.md",
     "explorer-order.md",
@@ -338,7 +338,6 @@
     "计算机类/后端/Maven",
     "计算机类/后端/Docker",
     "计算机类/前端/Three.js",
-    "计算机类/后端/Git/基础学习/什么是版本控制.md",
     "学校/课本/离散数学/未命名.canvas",
     "学校/课本/离散数学/img/Pasted image 20260924115529.png",
     "家教/img/微信图片_20260919111137_39_138.jpg",
