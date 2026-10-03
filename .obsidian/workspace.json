@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8a9049408669f532",
+        "id": "3871617432f37cc3",
         "type": "tabs",
         "children": [
           {
-            "id": "dc3d3ccfa491697c",
+            "id": "73f3cbe408a5e3d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -270,7 +270,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -286,12 +286,12 @@
       "command-palette:打开命令面板": true,
       "bases:新建数据库": true,
       "nutstore-sync:开始同步": false,
-      "nutstore-sync:停止同步": false,
-      "nutstore-sync:打开 Chatbox": false,
-      "obsidian-checklist-plugin:Open Checklist": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "nutstore-sync:停止同步": true,
+      "nutstore-sync:打开 Chatbox": true,
+      "obsidian-checklist-plugin:Open Checklist": true,
+      "pdf-plus:PDF++: Toggle auto-copy": true,
+      "pdf-plus:PDF++: Toggle auto-focus": true,
+      "pdf-plus:PDF++: Toggle auto-paste": true,
       "realclaudian:Open Claudian": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
@@ -300,7 +300,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc3d3ccfa491697c",
+  "active": "73f3cbe408a5e3d8",
   "lastOpenFiles": [
     "英语/单词学习/E26-10-1.md",
     "英语/单词学习/E26-9-30.md",
