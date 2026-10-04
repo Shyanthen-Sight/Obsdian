@@ -1,0 +1,116 @@
+:root {
+  --obsidian-blur-bone-border-radius: 1.33em;
+  --obsidian-blur-bone-line-height: 1;
+  --obsidian-blur-brick-border-radius: 1px;
+  --obsidian-blur-brick-line-height: 1;
+  --obsidian-blur-filter: 5px;
+}
+
+/*
+ * --obsidian-blur-brick-color and --obsidian-blur-bone-color are deliberately
+ * not declared here. Each use falls back to var(--text-normal), so the bar
+ * matches the theme's text color instead of a fixed white or near-black.
+ * Setting either variable in a snippet or via Style Settings still wins.
+ *
+ * The fallback has to be written at each use site, not stored in :root.
+ * --text-normal is defined on body (Obsidian puts .theme-dark/.theme-light
+ * there), so var(--text-normal) resolves to nothing in a :root declaration,
+ * which silently disables every property that references it.
+ */
+
+body .markdown-rendered div.blur-block,
+body .markdown-preview-view div.blur-block {
+  filter: blur(var(--obsidian-blur-filter));
+  -webkit-filter: blur(var(--obsidian-blur-filter));
+}
+
+body.obsidian-blur-hover div.blur-block:hover {
+  filter: blur(0px);
+  -webkit-filter: blur(0px);
+}
+
+body .markdown-rendered code.blur-inline,
+body .markdown-preview-view code.blur-inline {
+  filter: blur(var(--obsidian-blur-filter));
+  -webkit-filter: blur(var(--obsidian-blur-filter));
+  display: inline-block;
+}
+
+body.obsidian-blur-hover code.blur-inline:hover {
+  filter: blur(0);
+  -webkit-filter: blur(0px);
+}
+
+body .markdown-rendered code.blur-bone,
+body .markdown-preview-view code.blur-bone {
+  background-color: var(--obsidian-blur-bone-color, var(--text-normal));
+  color: var(--obsidian-blur-bone-color, var(--text-normal));
+  border-radius: var(--obsidian-blur-bone-border-radius);
+  line-height: var(--obsidian-blur-bone-line-height);
+  display: inline-block;
+}
+
+body.obsidian-blur-hover code.blur-bone:hover {
+  background-color: transparent;
+}
+
+body .markdown-rendered code.blur-brick,
+body .markdown-preview-view code.blur-brick {
+  background-color: var(--obsidian-blur-brick-color, var(--text-normal));
+  color: var(--obsidian-blur-brick-color, var(--text-normal));
+  border-radius: var(--obsidian-blur-brick-border-radius);
+  line-height: var(--obsidian-blur-brick-line-height);
+  display: inline-block;
+}
+
+/*
+ * Brick has no hover reveal. Its text is replaced with █ before rendering, so
+ * there is nothing to reveal — clearing the background only stripped the
+ * padding around the glyphs, which looked like the bar shrinking.
+ */
+
+.blur-bone-innerblock code.blur-bone {
+  margin: 0.25em;
+}
+
+.blur-brick-innerblock code.blur-brick {
+  margin: 0.25em;
+}
+
+/* One wrapper div per source line, so line breaks inside a block survive. */
+.blur-block-line:empty {
+  min-height: 1em;
+}
+
+/* Live Preview (CM6 editor) styles */
+.cm-editor .blur-widget code.blur-inline {
+  filter: blur(var(--obsidian-blur-filter));
+  -webkit-filter: blur(var(--obsidian-blur-filter));
+  display: inline-block;
+}
+
+body.obsidian-blur-hover .cm-editor .blur-widget code.blur-inline:hover {
+  filter: blur(0);
+  -webkit-filter: blur(0);
+}
+
+.cm-editor .blur-widget code.blur-bone {
+  background-color: var(--obsidian-blur-bone-color, var(--text-normal));
+  color: var(--obsidian-blur-bone-color, var(--text-normal));
+  border-radius: var(--obsidian-blur-bone-border-radius);
+  line-height: var(--obsidian-blur-bone-line-height);
+  display: inline-block;
+  padding: 0.15em 0.4em;
+}
+
+body.obsidian-blur-hover .cm-editor .blur-widget code.blur-bone:hover {
+  background-color: transparent;
+}
+
+.cm-editor .blur-widget code.blur-brick {
+  background-color: var(--obsidian-blur-brick-color, var(--text-normal));
+  color: var(--obsidian-blur-brick-color, var(--text-normal));
+  border-radius: var(--obsidian-blur-brick-border-radius);
+  line-height: var(--obsidian-blur-brick-line-height);
+  display: inline-block;
+}

@@ -6,7 +6,6 @@
   "obsidian-fullscreen-plugin",
   "highlightr-plugin",
   "obsidian-icon-folder",
-  "immersive-folder",
   "pdf-plus",
   "calendar",
   "realclaudian",
@@ -19,6 +18,7 @@
   "obsidian-quiet-outline",
   "obsidian-git",
   "editing-toolbar",
-  "ui-tweaker",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "immersive-folder",
+  "blur"
 ]

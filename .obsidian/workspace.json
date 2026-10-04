@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a0ddd9b61d67a669",
+        "id": "a90093de28662202",
         "type": "tabs",
         "children": [
           {
-            "id": "5eb146e150ba2f3d",
+            "id": "06e50273fe28f408",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "英语/单词学习/E26-10-1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Excalidraw/stu_gradeTable_UML.md"
               },
-              "icon": "lucide-file",
-              "title": "E26-10-1"
+              "icon": "excalidraw-icon",
+              "title": "stu_gradeTable_UML"
             }
           }
         ]
@@ -111,49 +108,21 @@
                   "version": 1,
                   "openTabs": [
                     {
-                      "tabId": "tab-1790926832484-coagp84",
-                      "conversationId": "conv-1790926852920-yyw9d187o"
-                    },
-                    {
-                      "tabId": "tab-1790940339266-7bjjfep",
-                      "conversationId": "conv-1790940351699-y4ajxrcmh"
-                    },
-                    {
-                      "tabId": "tab-1790942432779-4n35flp",
-                      "conversationId": "conv-1790942436324-snx077q8v"
-                    },
-                    {
-                      "tabId": "tab-1790943580577-xsjn4za",
-                      "conversationId": "conv-1790943608404-ef717aijd"
-                    },
-                    {
-                      "tabId": "tab-1791035115894-brjfg0n",
-                      "conversationId": "conv-1791035127988-8fmfa2usy"
-                    },
-                    {
-                      "tabId": "tab-1791039265253-0x4nb48",
-                      "conversationId": null,
-                      "draftModel": "haiku",
-                      "providerId": "claude"
-                    },
-                    {
-                      "tabId": "tab-1791039265284-pt1awx7",
-                      "conversationId": null,
-                      "draftModel": "haiku",
-                      "providerId": "claude"
-                    },
-                    {
-                      "tabId": "tab-1791039265306-mjp3f7j",
-                      "conversationId": null,
-                      "draftModel": "haiku",
-                      "providerId": "claude"
-                    },
-                    {
                       "tabId": "tab-1791039265327-x2c32uv",
-                      "conversationId": "conv-1791039355158-7ud6qtay9"
+                      "conversationId": null,
+                      "draftModel": "haiku",
+                      "providerId": "claude"
+                    },
+                    {
+                      "tabId": "tab-1791099498321-fkirvg0",
+                      "conversationId": "conv-1791099514022-14teftpye"
+                    },
+                    {
+                      "tabId": "tab-1791103678769-e69zhzk",
+                      "conversationId": "conv-1791103693228-11pg0ul28"
                     }
                   ],
-                  "activeTabId": "tab-1791039265327-x2c32uv"
+                  "activeTabId": "tab-1791103678769-e69zhzk"
                 }
               },
               "icon": "bot",
@@ -212,42 +181,43 @@
   },
   "active": "674128e64321d8c7",
   "lastOpenFiles": [
-    "未命名.canvas",
-    "英语/单词学习/E26-10-1.md",
-    "英语/单词学习/E26-9-30.md",
-    "英语/单词学习/E26-9-29.md",
-    "计算机类/后端/Git/Git远程/管理远程.md",
-    "计算机类/后端/Git/Git远程/克隆仓库.md",
-    "计算机类/后端/Git/Git远程/未命名.md",
-    "计算机类/后端/Git/分支基础/合并基础.md",
+    "杂记/01_入党申请书_2026-09-21.md",
+    "Excalidraw/stu_gradeTable_UML.md",
+    "计算机类/计算机网络/C1 概述/计算机网络的定义和分类.md",
+    "杂记/03_思想汇报_2026-10-23.md",
+    "杂记/02_思想汇报_2026-09-24.md",
+    "计算机类/后端/Git/合并策略/Squash.md",
+    "计算机类/后端/Git/合并策略/冲突处理.md",
+    "计算机类/后端/Git/合并策略/Rebase.md",
+    "计算机类/后端/Git/合并策略/Fast-Forward vs Non-FF.md",
+    "计算机类/后端/Git/合并策略/Rebase.md.tmp.31624.dc46abb597f6",
     "计算机类/后端/Git/分支基础/重命名分支.md",
-    "计算机类/后端/Git/分支基础/删除分支.md",
-    "计算机类/后端/Git/分支基础/查看分支.md",
+    "计算机类/后端/Git/未命名",
+    "计算机类/后端/Git/合并策略",
     "计算机类/后端/Git/分支基础/创建分支.md",
+    "计算机类/后端/Git/分支基础/查看分支.md",
+    "计算机类/后端/Git/Git远程/fetch跟pull.md",
+    "计算机类/后端/Git/Git远程/推送远程.md",
+    "计算机类/后端/Git/Git远程/克隆仓库.md",
+    "计算机类/后端/Git/Git远程/管理远程.md",
+    "计算机类/后端/Git/分支基础/删除分支.md",
+    "计算机类/后端/Git/分支基础/合并基础.md",
+    "英语/单词学习/E26-10-4.md",
+    "英语/单词学习/E26-10-1.md",
+    "英语/单词学习/E26-10-1.md.tmp.15432.5a39202f29ab",
+    "templates/单词学习.md.tmp.15432.aaa52074392c",
+    "英语/单词学习/E26-9-29.md",
+    "英语/单词学习/E26-9-20.md",
+    "英语/单词学习/E26-9-17.md",
+    "英语/单词学习/E26-8-10.md",
+    "英语/单词学习/E26-9-16.md",
+    "英语/单词学习/E26-9-19.md",
+    "未命名.canvas",
     "计算机类/后端/Git/Git远程",
-    "计算机类/后端/Git/Repository/分支基础/未命名.md",
-    "计算机类/后端/Git/Repository/仓库初始化/查看commit历史.md",
-    "计算机类/后端/Git/Repository/仓库初始化/关于.gitignore.md",
     "计算机类/后端/Git/分支基础",
-    "计算机类/后端/Git/Repository/Git核心区/暂存区.md",
-    "计算机类/后端/Git/Repository/Git核心区/工作目录.md",
-    "计算机类/后端/Git/Repository/Git核心区/提交.md",
-    "计算机类/后端/Git/Repository/仓库初始化/git config.md",
-    "计算机类/后端/Git/Repository/仓库初始化/git init.md",
-    "任务/任务完成情况概览.md",
-    "计算机类/后端/Git/Repository/仓库初始化/本地配置与全局配置（Local VS Global Config）.md",
-    "creative think/智算中心教务系统.md",
-    "计算机类/后端/Java/关键字/abstract关键字.md",
-    "计算机类/数据库/Mysql/数据库概念/笛卡尔积.md",
-    "explorer-order.md",
     "英语/单词学习/E26-9-30.md.tmp.18368.0eae4e96d22c",
     "计算机类/计算机组成原理",
     "计算机类/计算机操作系统",
-    "计算机类/数据库/Redis",
-    "计算机类/数据库/Mysql",
-    "计算机类/后端/Maven",
-    "计算机类/后端/Docker",
-    "计算机类/前端/Three.js",
     "学校/课本/离散数学/未命名.canvas",
     "学校/课本/离散数学/img/Pasted image 20260924115529.png",
     "家教/img/微信图片_20260919111137_39_138.jpg",

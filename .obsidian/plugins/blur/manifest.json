@@ -1,0 +1,10 @@
+{
+	"id": "blur",
+	"name": "Blur",
+	"version": "1.0.12",
+	"minAppVersion": "1.13.0",
+	"description": "Create obfuscated blocks of text.",
+	"author": "@gapmiss",
+	"authorUrl": "https://github.com/gapmiss",
+	"isDesktopOnly": false
+}
