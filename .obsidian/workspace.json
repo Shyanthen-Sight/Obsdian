@@ -11,12 +11,15 @@
             "id": "06e50273fe28f408",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/stu_gradeTable_UML.md"
+                "file": "计算机类/后端/Git/合并策略/冲突处理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "stu_gradeTable_UML"
+              "icon": "lucide-file",
+              "title": "冲突处理"
             }
           }
         ]
@@ -179,10 +182,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "674128e64321d8c7",
+  "active": "06e50273fe28f408",
   "lastOpenFiles": [
-    "杂记/01_入党申请书_2026-09-21.md",
     "Excalidraw/stu_gradeTable_UML.md",
+    "杂记/01_入党申请书_2026-09-21.md",
     "计算机类/计算机网络/C1 概述/计算机网络的定义和分类.md",
     "杂记/03_思想汇报_2026-10-23.md",
     "杂记/02_思想汇报_2026-09-24.md",
