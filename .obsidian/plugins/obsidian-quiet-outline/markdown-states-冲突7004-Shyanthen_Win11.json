@@ -807,7 +807,7 @@
   },
   "杂记/01_入党申请书_2026-09-21.md": {
     "expandedKeys": [],
-    "scroll": 18.326560818083962,
+    "scroll": 18.21819960861057,
     "cursor": {
       "from": {
         "line": 15,
@@ -859,14 +859,14 @@
       "item-1-0",
       "item-2-2"
     ],
-    "scroll": 173.46698636175816,
+    "scroll": 170.85731331800622,
     "cursor": {
       "from": {
-        "line": 193,
-        "ch": 35
+        "line": 40,
+        "ch": 0
       },
       "to": {
-        "line": 192,
+        "line": 40,
         "ch": 0
       }
     }
@@ -875,94 +875,18 @@
     "expandedKeys": [
       "item-1-0",
       "item-2-2",
-      "item-2-13",
-      "item-2-7"
+      "item-2-13"
     ],
     "cursor": {
       "from": {
-        "line": 60,
+        "line": 225,
         "ch": 0
       },
       "to": {
-        "line": 60,
+        "line": 225,
         "ch": 0
       }
     },
-    "scroll": 97.18203246997695
-  },
-  "计算机类/前端/TypeScript/TS的引入/tsconfig.json.md": {
-    "expandedKeys": [
-      "item-1-0",
-      "item-2-3",
-      "item-2-14"
-    ],
-    "scroll": 421.5482139169936,
-    "cursor": {
-      "from": {
-        "line": 382,
-        "ch": 0
-      },
-      "to": {
-        "line": 382,
-        "ch": 0
-      }
-    }
-  },
-  "杂记/02_思想汇报_2026-09-24.md": {
-    "expandedKeys": [],
-    "scroll": 12.352439899533548,
-    "cursor": {
-      "from": {
-        "line": 16,
-        "ch": 160
-      },
-      "to": {
-        "line": 16,
-        "ch": 259
-      }
-    }
-  },
-  "杂记/03_思想汇报_2026-10-23.md": {
-    "expandedKeys": [],
-    "scroll": 8.682992465016147,
-    "cursor": {
-      "from": {
-        "line": 12,
-        "ch": 199
-      },
-      "to": {
-        "line": 12,
-        "ch": 199
-      }
-    }
-  },
-  "杂记/罗OO的课表.md": {
-    "expandedKeys": [],
-    "scroll": 0.01242828140171242
-  },
-  "杂记/简历-徐源振-涪陵家教.md": {
-    "expandedKeys": [
-      "item-1-0"
-    ],
-    "cursor": {
-      "from": {
-        "line": 6,
-        "ch": 0
-      },
-      "to": {
-        "line": 6,
-        "ch": 0
-      }
-    },
-    "scroll": 9.88961321164711
-  },
-  "杂记/数据库系统概论_习题1_参考答案 1.md": {
-    "expandedKeys": [
-      "item-1-0"
-    ],
-    "scroll": 0
-  },
-  "杂记/学车.md": {
-    "expandedKeys": []
+    "scroll": 212.35382823310655
   }
 }

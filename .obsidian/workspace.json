@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机类/后端/Git/合并策略/冲突处理.md",
+                "file": "杂记/03_思想汇报_2026-10-23.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "冲突处理"
+              "title": "03_思想汇报_2026-10-23"
             }
           }
         ]
@@ -71,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.16668701171875
+    "width": 283.5
   },
   "right": {
     "id": "0b4c7c9d21618fd4",
@@ -123,9 +123,17 @@
                     {
                       "tabId": "tab-1791103678769-e69zhzk",
                       "conversationId": "conv-1791103693228-11pg0ul28"
+                    },
+                    {
+                      "tabId": "tab-1791127521581-rahg648",
+                      "conversationId": "conv-1791127604164-vzqofwdtf"
+                    },
+                    {
+                      "tabId": "tab-1791129145736-vqfzitz",
+                      "conversationId": "conv-1791129148991-i3bess0sv"
                     }
                   ],
-                  "activeTabId": "tab-1791103678769-e69zhzk"
+                  "activeTabId": "tab-1791127521581-rahg648"
                 }
               },
               "icon": "bot",
@@ -157,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.1666259765625
+    "width": 313.833251953125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,15 +190,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06e50273fe28f408",
+  "active": "674128e64321d8c7",
   "lastOpenFiles": [
-    "Excalidraw/stu_gradeTable_UML.md",
-    "杂记/01_入党申请书_2026-09-21.md",
-    "计算机类/计算机网络/C1 概述/计算机网络的定义和分类.md",
-    "杂记/03_思想汇报_2026-10-23.md",
     "杂记/02_思想汇报_2026-09-24.md",
-    "计算机类/后端/Git/合并策略/Squash.md",
+    "杂记/03_思想汇报_2026-10-23.md",
+    "杂记/罗OO的课表.md",
+    "杂记/学车.md",
+    "杂记/数据库系统概论_习题1_参考答案 1.md",
+    "杂记/简历-徐源振-涪陵家教.md",
+    "杂记/01_入党申请书_2026-09-21.md",
+    "计算机类/前端/TypeScript/TS的引入/tsconfig.json.md",
+    "计算机类/前端/TypeScript/TS的引入/TypeScript vs JavaScript.md",
+    "计算机类/前端/TypeScript/TS的引入/安装与配置.md",
+    "计算机类/前端/TypeScript/TS的引入/安装与配置.md.tmp.2720.39d47510ce92",
+    "计算机类/前端/TypeScript/TS的引入/tsconfig.json.md.tmp.10532.95a4d2bba786",
+    "计算机类/前端/TypeScript/TS的引入/TS 与 JS 的互操作性.md",
     "计算机类/后端/Git/合并策略/冲突处理.md",
+    "计算机类/前端/TypeScript/TS的引入",
+    "Excalidraw/stu_gradeTable_UML.md",
+    "计算机类/计算机网络/C1 概述/计算机网络的定义和分类.md",
+    "计算机类/后端/Git/合并策略/Squash.md",
     "计算机类/后端/Git/合并策略/Rebase.md",
     "计算机类/后端/Git/合并策略/Fast-Forward vs Non-FF.md",
     "计算机类/后端/Git/合并策略/Rebase.md.tmp.31624.dc46abb597f6",
@@ -205,22 +224,11 @@
     "计算机类/后端/Git/Git远程/管理远程.md",
     "计算机类/后端/Git/分支基础/删除分支.md",
     "计算机类/后端/Git/分支基础/合并基础.md",
-    "英语/单词学习/E26-10-4.md",
-    "英语/单词学习/E26-10-1.md",
     "英语/单词学习/E26-10-1.md.tmp.15432.5a39202f29ab",
     "templates/单词学习.md.tmp.15432.aaa52074392c",
-    "英语/单词学习/E26-9-29.md",
-    "英语/单词学习/E26-9-20.md",
-    "英语/单词学习/E26-9-17.md",
-    "英语/单词学习/E26-8-10.md",
-    "英语/单词学习/E26-9-16.md",
-    "英语/单词学习/E26-9-19.md",
     "未命名.canvas",
     "计算机类/后端/Git/Git远程",
     "计算机类/后端/Git/分支基础",
-    "英语/单词学习/E26-9-30.md.tmp.18368.0eae4e96d22c",
-    "计算机类/计算机组成原理",
-    "计算机类/计算机操作系统",
     "学校/课本/离散数学/未命名.canvas",
     "学校/课本/离散数学/img/Pasted image 20260924115529.png",
     "家教/img/微信图片_20260919111137_39_138.jpg",
