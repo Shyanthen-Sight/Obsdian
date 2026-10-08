@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a90093de28662202",
+        "id": "30e53718a720e58f",
         "type": "tabs",
         "children": [
           {
-            "id": "06e50273fe28f408",
+            "id": "787bc9d9492c6b39",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "计算机类/后端/Git/合并策略/Fast-Forward vs Non-FF.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Fast-Forward vs Non-FF"
             }
           }
         ]
@@ -66,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 267.5
   },
   "right": {
     "id": "0b4c7c9d21618fd4",
@@ -106,29 +111,11 @@
                   "version": 1,
                   "openTabs": [
                     {
-                      "tabId": "tab-1791039265327-x2c32uv",
-                      "conversationId": null,
-                      "draftModel": "haiku",
-                      "providerId": "claude"
-                    },
-                    {
-                      "tabId": "tab-1791099498321-fkirvg0",
-                      "conversationId": "conv-1791099514022-14teftpye"
-                    },
-                    {
-                      "tabId": "tab-1791103678769-e69zhzk",
-                      "conversationId": "conv-1791103693228-11pg0ul28"
-                    },
-                    {
-                      "tabId": "tab-1791127521581-rahg648",
-                      "conversationId": "conv-1791127604164-vzqofwdtf"
-                    },
-                    {
-                      "tabId": "tab-1791129145736-vqfzitz",
-                      "conversationId": "conv-1791129148991-i3bess0sv"
+                      "tabId": "tab-1791376191542-kji9l91",
+                      "conversationId": "conv-1791376195035-pbipdkhkr"
                     }
                   ],
-                  "activeTabId": "tab-1791127521581-rahg648"
+                  "activeTabId": "tab-1791376191542-kji9l91"
                 }
               },
               "icon": "bot",
@@ -185,45 +172,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "430f731b33556fad",
+  "active": "674128e64321d8c7",
   "lastOpenFiles": [
-    "计算机类/AI",
-    "杂记/03_思想汇报_2026-10-23.md",
-    "杂记/02_思想汇报_2026-09-24.md",
-    "杂记/罗OO的课表.md",
-    "杂记/学车.md",
-    "杂记/数据库系统概论_习题1_参考答案 1.md",
-    "杂记/简历-徐源振-涪陵家教.md",
-    "杂记/01_入党申请书_2026-09-21.md",
-    "计算机类/前端/TypeScript/TS的引入/tsconfig.json.md",
-    "计算机类/前端/TypeScript/TS的引入/TypeScript vs JavaScript.md",
-    "计算机类/前端/TypeScript/TS的引入/安装与配置.md",
-    "计算机类/前端/TypeScript/TS的引入/安装与配置.md.tmp.2720.39d47510ce92",
-    "计算机类/前端/TypeScript/TS的引入/tsconfig.json.md.tmp.10532.95a4d2bba786",
-    "计算机类/前端/TypeScript/TS的引入/TS 与 JS 的互操作性.md",
     "计算机类/后端/Git/合并策略/冲突处理.md",
-    "计算机类/前端/TypeScript/TS的引入",
-    "Excalidraw/stu_gradeTable_UML.md",
-    "计算机类/计算机网络/C1 概述/计算机网络的定义和分类.md",
-    "计算机类/后端/Git/合并策略/Squash.md",
-    "计算机类/后端/Git/合并策略/Rebase.md",
+    "计算机类/后端/Git/合并策略/Cherry Picking.md",
     "计算机类/后端/Git/合并策略/Fast-Forward vs Non-FF.md",
-    "计算机类/后端/Git/合并策略/Rebase.md.tmp.31624.dc46abb597f6",
-    "计算机类/后端/Git/分支基础/重命名分支.md",
-    "计算机类/后端/Git/未命名",
-    "计算机类/后端/Git/合并策略",
-    "计算机类/后端/Git/分支基础/创建分支.md",
-    "计算机类/后端/Git/分支基础/查看分支.md",
-    "计算机类/后端/Git/Git远程/fetch跟pull.md",
-    "计算机类/后端/Git/Git远程/推送远程.md",
-    "计算机类/后端/Git/Git远程/克隆仓库.md",
-    "计算机类/后端/Git/Git远程/管理远程.md",
-    "计算机类/后端/Git/分支基础/删除分支.md",
-    "英语/单词学习/E26-10-1.md.tmp.15432.5a39202f29ab",
-    "templates/单词学习.md.tmp.15432.aaa52074392c",
+    "计算机类/后端/Git/合并策略/Rebase.md",
+    "学校/课表.md",
+    "计算机类/后端/Git/合并策略/Squash.md",
+    "任务/任务完成情况概览.md",
+    "学校/作业/java/Java 访问修饰符综合练习题.md",
+    "学校/作业/java/java类与对象.md",
+    "creative think/智算中心教务系统.md",
+    "家教/试卷/七年级上下综合测试卷/试卷.md",
+    "家教/试卷/七年级上下综合测试卷/~$试卷.docx",
+    "家教/试卷/七年级上下综合测试卷/试卷.docx",
+    "家教/试卷/七年级上下综合测试卷/答案.md",
+    "家教/试卷/七年级上下综合测试卷/prompt.md",
+    "家教/试卷/七年级上下综合测试卷/答案.md.tmp.11132.c0fd8d933114",
+    "家教/试卷/七年级上下综合测试卷/答案.md.tmp.11132.7278cb8c78ea",
+    "家教/试卷/七年级上下综合测试卷/答案.md.tmp.11132.6872c8ced178",
+    "家教/试卷/七年级上下综合测试卷/答案.md.tmp.11132.b21034e16761",
+    "家教/试卷/七年级上下综合测试卷/答案.md.tmp.11132.96fb61ac6952",
+    "家教/试卷/七年级上下综合测试卷/答案.md.tmp.11132.dff2323f48b9",
+    "家教/试卷/七年级上下综合测试卷/答案.md.tmp.11132.e77392c30035",
+    "家教/试卷/七年级上下综合测试卷/试卷.md.tmp.11132.547e77a01dab",
+    "家教/知识点讲解.md",
+    "家教/试卷/综合测试试卷/七年级上册综合测评.md",
+    "家教/讲课笔记/七上5-6单元笔记.md",
+    "家教/本学期教材总览.md",
+    "家教/讲课笔记/七上1-4单元笔记内容.md",
+    "家教/学生详情.md",
+    "家教/试卷/基础测试套卷1/基础测试卷1.md",
+    "家教/试卷/基础测试套卷1/学生试卷反馈.md",
+    "家教/试卷/基础测试套卷1/基础测试卷1答案.md",
+    "家教/试卷/综合测试试卷/七年级上册综合测评答案.md",
+    "creative think/项目内容.md",
+    "家教/仁爱科普版（2024）《英语 七年级》上册+下册 单元与语法知识分析.md",
+    "计算机类/AI/mcp详解.md",
     "未命名.canvas",
-    "计算机类/后端/Git/Git远程",
-    "计算机类/后端/Git/分支基础",
     "学校/课本/离散数学/未命名.canvas",
     "学校/课本/离散数学/img/Pasted image 20260924115529.png",
     "家教/img/微信图片_20260919111137_39_138.jpg",

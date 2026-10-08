@@ -220,20 +220,7 @@
     "scroll": 234.64184793227125
   },
   "学校/课表.md": {
-    "scroll": 11.13616792249731,
-    "expandedKeys": [
-      "item-1-0"
-    ],
-    "cursor": {
-      "from": {
-        "line": 20,
-        "ch": 116
-      },
-      "to": {
-        "line": 20,
-        "ch": 116
-      }
-    }
+    "scroll": 8.360679917140262
   },
   "英语/单词学习/E26-10-1.md": {
     "cursor": {
@@ -775,15 +762,15 @@
     "expandedKeys": [
       "item-1-0"
     ],
-    "scroll": 69.01271186440678,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 39,
-        "ch": 22
+        "line": 0,
+        "ch": 0
       },
       "to": {
-        "line": 39,
-        "ch": 22
+        "line": 0,
+        "ch": 0
       }
     }
   },
@@ -801,7 +788,7 @@
         "ch": 0
       }
     },
-    "scroll": 40.67343173431734
+    "scroll": 66.83210332103322
   },
   "计算机类/后端/Git/合并策略/冲突处理.md": {
     "expandedKeys": [
@@ -1306,11 +1293,5 @@
       "item-2-0"
     ],
     "scroll": 0
-  },
-  "计算机类/后端/Git/合并策略/Cherry Picking.md": {
-    "expandedKeys": [
-      "item-1-0"
-    ],
-    "scroll": 29.864414609609042
   }
 }

@@ -220,20 +220,7 @@
     "scroll": 234.64184793227125
   },
   "学校/课表.md": {
-    "scroll": 11.13616792249731,
-    "expandedKeys": [
-      "item-1-0"
-    ],
-    "cursor": {
-      "from": {
-        "line": 20,
-        "ch": 116
-      },
-      "to": {
-        "line": 20,
-        "ch": 116
-      }
-    }
+    "scroll": 8.360679917140262
   },
   "英语/单词学习/E26-10-1.md": {
     "cursor": {
@@ -316,14 +303,14 @@
   },
   "任务/任务完成情况概览.md": {
     "expandedKeys": [],
-    "scroll": 0,
+    "scroll": 1.0329985200507703,
     "cursor": {
       "from": {
-        "line": 3,
+        "line": 0,
         "ch": 0
       },
       "to": {
-        "line": 3,
+        "line": 0,
         "ch": 0
       }
     }
@@ -769,21 +756,19 @@
     "expandedKeys": [
       "item-1-0"
     ],
-    "scroll": 145.22120559741657
+    "scroll": 137.95291709314228
   },
   "计算机类/后端/Git/合并策略/Fast-Forward vs Non-FF.md": {
-    "expandedKeys": [
-      "item-1-0"
-    ],
-    "scroll": 69.01271186440678,
+    "expandedKeys": [],
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 39,
-        "ch": 22
+        "line": 0,
+        "ch": 0
       },
       "to": {
-        "line": 39,
-        "ch": 22
+        "line": 0,
+        "ch": 0
       }
     }
   },
@@ -801,7 +786,7 @@
         "ch": 0
       }
     },
-    "scroll": 40.67343173431734
+    "scroll": 0
   },
   "计算机类/后端/Git/合并策略/冲突处理.md": {
     "expandedKeys": [
@@ -989,15 +974,15 @@
     ],
     "cursor": {
       "from": {
-        "line": 126,
+        "line": 6,
         "ch": 0
       },
       "to": {
-        "line": 126,
+        "line": 6,
         "ch": 0
       }
     },
-    "scroll": 94.21184171377566
+    "scroll": 116.3675995694295
   },
   "计算机类/AI/未命名.md": {
     "expandedKeys": [],
@@ -1020,297 +1005,16 @@
       "item-2-3",
       "item-2-5"
     ],
-    "scroll": 113.96555435952638,
+    "scroll": 128.33692142088267,
     "cursor": {
       "from": {
-        "line": 131,
-        "ch": 51
-      },
-      "to": {
-        "line": 131,
-        "ch": 51
-      }
-    }
-  },
-  "家教/知识点讲解.md": {
-    "expandedKeys": [
-      "item-1-0",
-      "item-3-3",
-      "item-3-19",
-      "item-3-25",
-      "item-3-13",
-      "item-3-31",
-      "item-3-38",
-      "item-3-44",
-      "item-3-50",
-      "item-3-56",
-      "item-3-62",
-      "item-3-68",
-      "item-3-75",
-      "item-3-8",
-      "item-2-37",
-      "item-2-2",
-      "item-3-81",
-      "item-2-74"
-    ],
-    "scroll": 1459.5855758880516,
-    "cursor": {
-      "from": {
-        "line": 1422,
-        "ch": 34
-      },
-      "to": {
-        "line": 1422,
-        "ch": 34
-      }
-    }
-  },
-  "家教/试卷/综合测试试卷/七年级上册综合测评.md": {
-    "expandedKeys": [
-      "item-1-0",
-      "item-2-2"
-    ],
-    "scroll": 0
-  },
-  "家教/讲课笔记/七上1-4单元笔记内容.md": {
-    "expandedKeys": [
-      "item-2-0"
-    ],
-    "scroll": 16.437223253820882,
-    "cursor": {
-      "from": {
-        "line": 32,
-        "ch": 12
-      },
-      "to": {
-        "line": 32,
-        "ch": 12
-      }
-    }
-  },
-  "家教/本学期教材总览.md": {
-    "expandedKeys": [
-      "item-2-1",
-      "item-1-0",
-      "item-2-7"
-    ],
-    "scroll": 199.41432720232334,
-    "cursor": {
-      "from": {
-        "line": 0,
+        "line": 10,
         "ch": 0
       },
       "to": {
-        "line": 0,
+        "line": 10,
         "ch": 0
       }
     }
-  },
-  "家教/仁爱科普版（2024）《英语 七年级》上册+下册 单元与语法知识分析.md": {
-    "expandedKeys": [
-      "item-2-1",
-      "item-1-0",
-      "item-2-3",
-      "item-3-5",
-      "item-2-12",
-      "item-3-14"
-    ],
-    "scroll": 261.67198806143335
-  },
-  "家教/学生详情.md": {
-    "expandedKeys": [],
-    "scroll": 0,
-    "cursor": {
-      "from": {
-        "line": 6,
-        "ch": 8
-      },
-      "to": {
-        "line": 6,
-        "ch": 8
-      }
-    }
-  },
-  "家教/试卷/综合测试试卷/七年级上册综合测评答案.md": {
-    "expandedKeys": [
-      "item-1-0"
-    ],
-    "scroll": 12.626099111050747,
-    "cursor": {
-      "from": {
-        "line": 79,
-        "ch": 56
-      },
-      "to": {
-        "line": 79,
-        "ch": 56
-      }
-    }
-  },
-  "学校/作业/java/Java 访问修饰符综合练习题.md": {
-    "expandedKeys": [
-      "item-2-1",
-      "item-1-36",
-      "item-2-23",
-      "item-2-30",
-      "item-2-37",
-      "item-2-50",
-      "item-2-59",
-      "item-2-14",
-      "item-2-66"
-    ],
-    "scroll": 514.9753934762774,
-    "cursor": {
-      "from": {
-        "line": 30,
-        "ch": 18
-      },
-      "to": {
-        "line": 30,
-        "ch": 18
-      }
-    }
-  },
-  "creative think/项目内容.md": {
-    "expandedKeys": [],
-    "scroll": 0
-  },
-  "家教/试卷/基础测试套卷1/基础测试卷1.md": {
-    "expandedKeys": []
-  },
-  "家教/试卷/基础测试套卷1/基础测试卷1答案.md": {
-    "expandedKeys": [],
-    "cursor": {
-      "from": {
-        "line": 0,
-        "ch": 2
-      },
-      "to": {
-        "line": 0,
-        "ch": 2
-      }
-    }
-  },
-  "家教/试卷/基础测试套卷1/学生试卷反馈.md": {
-    "expandedKeys": []
-  },
-  "家教/讲课笔记/未命名.md": {
-    "expandedKeys": [],
-    "scroll": 0,
-    "cursor": {
-      "from": {
-        "line": 0,
-        "ch": 0
-      },
-      "to": {
-        "line": 0,
-        "ch": 0
-      }
-    }
-  },
-  "家教/讲课笔记/七上5-6单元笔记.md": {
-    "expandedKeys": [
-      "item-2-0",
-      "item-2-3"
-    ],
-    "scroll": 82.60764262648009,
-    "cursor": {
-      "from": {
-        "line": 4,
-        "ch": 0
-      },
-      "to": {
-        "line": 4,
-        "ch": 0
-      }
-    }
-  },
-  "家教/试卷/七年级上下综合测试卷/未命名.md": {
-    "expandedKeys": [],
-    "cursor": {
-      "from": {
-        "line": 0,
-        "ch": 0
-      },
-      "to": {
-        "line": 0,
-        "ch": 0
-      }
-    }
-  },
-  "家教/试卷/七年级上下综合测试卷/试卷.md": {
-    "expandedKeys": [
-      "item-1-0",
-      "item-2-5"
-    ],
-    "cursor": {
-      "from": {
-        "line": 217,
-        "ch": 26
-      },
-      "to": {
-        "line": 217,
-        "ch": 26
-      }
-    },
-    "scroll": 114.09849300322928
-  },
-  "家教/试卷/七年级上下综合测试卷/答案.md": {
-    "expandedKeys": [
-      "item-1-0"
-    ],
-    "scroll": 56.39181916038751,
-    "cursor": {
-      "from": {
-        "line": 73,
-        "ch": 30
-      },
-      "to": {
-        "line": 73,
-        "ch": 30
-      }
-    }
-  },
-  "家教/试卷/七年级上下综合测试卷/prompt.md": {
-    "cursor": {
-      "from": {
-        "line": 136,
-        "ch": 0
-      },
-      "to": {
-        "line": 136,
-        "ch": 0
-      }
-    },
-    "scroll": 122.5435847208619,
-    "expandedKeys": [
-      "item-1-0",
-      "item-2-5"
-    ]
-  },
-  "creative think/智算中心教务系统.md": {
-    "expandedKeys": [],
-    "cursor": {
-      "from": {
-        "line": 0,
-        "ch": 0
-      },
-      "to": {
-        "line": 0,
-        "ch": 0
-      }
-    }
-  },
-  "学校/作业/java/java类与对象.md": {
-    "expandedKeys": [
-      "item-2-0"
-    ],
-    "scroll": 0
-  },
-  "计算机类/后端/Git/合并策略/Cherry Picking.md": {
-    "expandedKeys": [
-      "item-1-0"
-    ],
-    "scroll": 29.864414609609042
   }
 }
