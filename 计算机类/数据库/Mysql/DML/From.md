@@ -298,7 +298,7 @@ FROM user AS u JOIN `order` AS o ON u.id = o.user_id;
 - [[Select]] —— SELECT 全子句与执行顺序
 - [[Where]] —— 连接之后的过滤条件
 - [[Join]] —— 内连接、外连接、自连接、连接算法
-- [[Group By]] —— 分组统计
-- [[Having]] —— 分组后的过滤
+- [[计算机类/数据库/Mysql/DML/Group By]] —— 分组统计
+- [[计算机类/数据库/Mysql/DML/Having]] —— 分组后的过滤
 - [[Insert]] —— 往表里写数据
 - [[Create Table]] —— 数据源是怎么建出来的

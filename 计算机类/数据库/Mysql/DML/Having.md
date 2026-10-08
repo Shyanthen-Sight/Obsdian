@@ -484,14 +484,14 @@ ORDER BY avg_sal DESC;
 
 ## 九、速查表
 
-| 需求 | 该用哪个 | 写法 |
-| --- | --- | --- |
-| 过滤单个员工 | `WHERE` | `WHERE salary > 8000` |
-| 过滤入职年份 | `WHERE` | `WHERE hire_date > '2020-01-01'` |
-| 过滤部门平均工资 | `HAVING` | `HAVING AVG(salary) > 8000` |
-| 过滤部门人数 | `HAVING` | `HAVING COUNT(*) >= 3` |
-| 过滤部门最高工资 | `HAVING` | `HAVING MAX(salary) > 10000` |
-| 部门名称筛选 | `WHERE`（别写 `HAVING`） | `WHERE dept = '研发部'` |
+| 需求       | 该用哪个                 | 写法                               |
+| -------- | -------------------- | -------------------------------- |
+| 过滤单个员工   | `WHERE`              | `WHERE salary > 8000`            |
+| 过滤入职年份   | `WHERE`              | `WHERE hire_date > '2020-01-01'` |
+| 过滤部门平均工资 | `HAVING`             | `HAVING AVG(salary) > 8000`      |
+| 过滤部门人数   | `HAVING`             | `HAVING COUNT(*) >= 3`           |
+| 过滤部门最高工资 | `HAVING`             | `HAVING MAX(salary) > 10000`     |
+| 部门名称筛选   | `WHERE`（别写 `HAVING`） | `WHERE dept = '研发部'`             |
 
 判断流程：
 
@@ -518,7 +518,7 @@ ORDER BY avg_sal DESC;
 ## 相关笔记
 
 - [[Where]] —— 分组**前**的行级过滤，能用索引
-- [[Group By]] —— `HAVING` 的前置条件，分完组才有"组"可挑
+- [[计算机类/数据库/Mysql/DML/Group By]] —— `HAVING` 的前置条件，分完组才有"组"可挑
 - [[Order By]] —— 四件套的最后一环，对分组结果排序
 - [[Select]] —— 各子句的执行顺序与别名生效时机
 - [[From]] —— 数据来源与连接

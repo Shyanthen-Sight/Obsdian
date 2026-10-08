@@ -453,8 +453,8 @@ ALTER TABLE emp ADD INDEX idx_salary (salary);
 
 - [[Select]] —— 查询的整体结构与子句顺序
 - [[Where]] —— 行级过滤，执行在 ORDER BY 之前
-- [[Group By]] —— 分组，分组完再排序
-- [[Having]] —— 分组后的过滤
+- [[计算机类/数据库/Mysql/DML/Group By]] —— 分组，分组完再排序
+- [[计算机类/数据库/Mysql/DML/Having]] —— 分组后的过滤
 - [[From]] —— 数据来源与多表连接
 - [[Join]] —— 多表查询后同样可以排序
 - [[Create Table]] —— 建表时定好排序规则（collation）能省掉中文排序的麻烦

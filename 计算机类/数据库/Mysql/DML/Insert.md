@@ -254,7 +254,7 @@ SELECT name, gender, age, score, class
 -- Query OK, 3 rows affected
 ```
 
-这里的过滤用 [[Where]]，分组统计用 [[Group By]]，排序用 [[Order By]]。
+这里的过滤用 [[Where]]，分组统计用 [[计算机类/数据库/Mysql/DML/Group By]]，排序用 [[Order By]]。
 
 > [!warning] 两个硬限制
 > 1. **列数必须与 `SELECT` 的列数一致**，否则报 `ERROR 1136: Column count doesn't match value count at row 1`；两边类型也要对得上

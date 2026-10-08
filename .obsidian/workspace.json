@@ -8,18 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "787bc9d9492c6b39",
+            "id": "7f070d778b0df092",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机类/后端/Git/合并策略/Fast-Forward vs Non-FF.md",
+                "file": "计算机类/后端/Git/Git远程/管理远程.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Fast-Forward vs Non-FF"
+              "title": "管理远程"
             }
           }
         ]
@@ -102,27 +102,6 @@
             }
           },
           {
-            "id": "122eab22a844954b",
-            "type": "leaf",
-            "state": {
-              "type": "claudian-view",
-              "state": {
-                "tabWorkspace": {
-                  "version": 1,
-                  "openTabs": [
-                    {
-                      "tabId": "tab-1791376191542-kji9l91",
-                      "conversationId": "conv-1791376195035-pbipdkhkr"
-                    }
-                  ],
-                  "activeTabId": "tab-1791376191542-kji9l91"
-                }
-              },
-              "icon": "bot",
-              "title": "Claudian"
-            }
-          },
-          {
             "id": "5bda44c701a69516",
             "type": "leaf",
             "state": {
@@ -141,13 +120,36 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "8233e852e4e02329",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {
+                "tabWorkspace": {
+                  "version": 1,
+                  "openTabs": [
+                    {
+                      "tabId": "tab-1791453960115-u4fktta",
+                      "conversationId": null,
+                      "draftModel": "haiku",
+                      "providerId": "claude"
+                    }
+                  ],
+                  "activeTabId": "tab-1791453960115-u4fktta"
+                }
+              },
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 313.833251953125
+    "width": 352.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,42 +176,42 @@
   },
   "active": "674128e64321d8c7",
   "lastOpenFiles": [
-    "计算机类/后端/Git/合并策略/冲突处理.md",
-    "计算机类/后端/Git/合并策略/Cherry Picking.md",
-    "计算机类/后端/Git/合并策略/Fast-Forward vs Non-FF.md",
-    "计算机类/后端/Git/合并策略/Rebase.md",
+    "计算机类/数据库/Mysql/old learning version/数据查询/表的操作.md",
+    "计算机类/数据库/Mysql/old learning version/数据查询",
+    "计算机类/数据库/Mysql/old learning version",
+    "计算机类/数据库/Mysql/数据约束/CHECK.md",
+    "计算机类/数据库/Mysql/数据约束/DEFAULT.md",
+    "书籍/计算机英语(第五版) (刘艺) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "计算机类/数据库/Mysql/聚合查询/AVG.md",
     "学校/课表.md",
-    "计算机类/后端/Git/合并策略/Squash.md",
-    "任务/任务完成情况概览.md",
-    "学校/作业/java/Java 访问修饰符综合练习题.md",
-    "学校/作业/java/java类与对象.md",
-    "creative think/智算中心教务系统.md",
-    "家教/试卷/七年级上下综合测试卷/试卷.md",
+    "计算机类/数据库/Mysql/聚合查询/MAX.md",
+    "计算机类/数据库/Mysql/聚合查询/HAVING.md",
+    "计算机类/数据库/Mysql/聚合查询/COUNT.md",
+    "计算机类/数据库/Mysql/聚合查询/SUM.md",
+    "计算机类/数据库/Mysql/数据约束/FOREIGN KEY.md",
+    "计算机类/数据库/Mysql/数据约束/UNIQUE.md",
+    "计算机类/数据库/Mysql/数据约束/AUTO_INCREMENT.md",
+    "计算机类/数据库/Mysql/数据约束/PRIMARY KEY.md",
+    "计算机类/数据库/Mysql/数据约束/NOT NULL.md",
+    "计算机类/数据库/Mysql/数据约束/数据约束概述.md",
+    "计算机类/数据库/Mysql/聚合查询/MIN.md",
+    "计算机类/数据库/Mysql/聚合查询/GROUP BY.md",
+    "计算机类/数据库/Mysql/DML/Join.md",
+    "计算机类/数据库/Mysql/DDL/Alter Table.md",
+    "计算机类/数据库/Mysql/DML/Insert.md",
+    "计算机类/数据库/Mysql/DML/Having.md",
+    "计算机类/数据库/Mysql/DML/Group By.md",
+    "计算机类/数据库/Mysql/DML/From.md",
+    "计算机类/数据库/Mysql/DML/Delete.md",
+    "计算机类/后端/Git/分支基础/合并基础.md",
+    "计算机类/后端/Git/合并策略/Fast-Forward vs Non-FF.md",
     "家教/试卷/七年级上下综合测试卷/~$试卷.docx",
     "家教/试卷/七年级上下综合测试卷/试卷.docx",
-    "家教/试卷/七年级上下综合测试卷/答案.md",
-    "家教/试卷/七年级上下综合测试卷/prompt.md",
     "家教/试卷/七年级上下综合测试卷/答案.md.tmp.11132.c0fd8d933114",
     "家教/试卷/七年级上下综合测试卷/答案.md.tmp.11132.7278cb8c78ea",
     "家教/试卷/七年级上下综合测试卷/答案.md.tmp.11132.6872c8ced178",
     "家教/试卷/七年级上下综合测试卷/答案.md.tmp.11132.b21034e16761",
     "家教/试卷/七年级上下综合测试卷/答案.md.tmp.11132.96fb61ac6952",
-    "家教/试卷/七年级上下综合测试卷/答案.md.tmp.11132.dff2323f48b9",
-    "家教/试卷/七年级上下综合测试卷/答案.md.tmp.11132.e77392c30035",
-    "家教/试卷/七年级上下综合测试卷/试卷.md.tmp.11132.547e77a01dab",
-    "家教/知识点讲解.md",
-    "家教/试卷/综合测试试卷/七年级上册综合测评.md",
-    "家教/讲课笔记/七上5-6单元笔记.md",
-    "家教/本学期教材总览.md",
-    "家教/讲课笔记/七上1-4单元笔记内容.md",
-    "家教/学生详情.md",
-    "家教/试卷/基础测试套卷1/基础测试卷1.md",
-    "家教/试卷/基础测试套卷1/学生试卷反馈.md",
-    "家教/试卷/基础测试套卷1/基础测试卷1答案.md",
-    "家教/试卷/综合测试试卷/七年级上册综合测评答案.md",
-    "creative think/项目内容.md",
-    "家教/仁爱科普版（2024）《英语 七年级》上册+下册 单元与语法知识分析.md",
-    "计算机类/AI/mcp详解.md",
     "未命名.canvas",
     "学校/课本/离散数学/未命名.canvas",
     "学校/课本/离散数学/img/Pasted image 20260924115529.png",

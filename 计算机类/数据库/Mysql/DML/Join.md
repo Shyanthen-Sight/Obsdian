@@ -642,5 +642,5 @@ FROM emp e JOIN dept d ON e.dept_id = d.dept_id;
 - [[From]] —— JOIN 写在 FROM 子句里，决定数据来源
 - [[Where]] —— 连接完成之后的过滤，第六章的坑就在这里
 - [[Select]] —— 连接后取哪些列，用表别名限定同名字段
-- [[Group By]] —— JOIN 之后按维度分组，配合 `COUNT(右表列)` 统计
+- [[计算机类/数据库/Mysql/DML/Group By]] —— JOIN 之后按维度分组，配合 `COUNT(右表列)` 统计
 - [[外键约束]] —— `dept_id` 的参照完整性，也是 JOIN 的天然索引

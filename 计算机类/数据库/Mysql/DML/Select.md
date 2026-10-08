@@ -368,8 +368,8 @@ LIMIT 2;
 
 - [[From]] —— 数据从哪来，执行顺序的第一步
 - [[Where]] —— 分组前逐行过滤
-- [[Group By]] —— 把行折叠成组
-- [[Having]] —— 分组之后再过滤
+- [[计算机类/数据库/Mysql/DML/Group By]] —— 把行折叠成组
+- [[计算机类/数据库/Mysql/DML/Having]] —— 分组之后再过滤
 - [[Order By]] —— 结果集排序
 - [[Join]] —— 多表查询
 - [[Insert]] —— 数据怎么进去

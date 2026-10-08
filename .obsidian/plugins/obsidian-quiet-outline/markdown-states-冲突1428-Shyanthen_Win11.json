@@ -220,7 +220,7 @@
     "scroll": 234.64184793227125
   },
   "学校/课表.md": {
-    "scroll": 17.101108755343922,
+    "scroll": 11.13616792249731,
     "expandedKeys": [
       "item-1-0"
     ],
@@ -578,15 +578,15 @@
     "expandedKeys": [
       "item-1-0"
     ],
-    "scroll": 0.2740554156171285,
+    "scroll": 151.21186791359762,
     "cursor": {
       "from": {
-        "line": 6,
-        "ch": 0
+        "line": 156,
+        "ch": 9
       },
       "to": {
-        "line": 6,
-        "ch": 0
+        "line": 156,
+        "ch": 9
       }
     }
   },
@@ -1358,10 +1358,9 @@
   },
   "计算机类/数据库/Mysql/DML/Insert.md": {
     "expandedKeys": [
-      "item-1-0",
-      "item-2-7"
+      "item-1-0"
     ],
-    "scroll": 187.06970019651368,
+    "scroll": 129.92465878940953,
     "cursor": {
       "from": {
         "line": 53,
@@ -1372,266 +1371,5 @@
         "ch": 22
       }
     }
-  },
-  "计算机类/数据库/Mysql/DML/Join.md": {
-    "expandedKeys": [
-      "item-1-0",
-      "item-2-3",
-      "item-2-5"
-    ],
-    "scroll": 0,
-    "cursor": {
-      "from": {
-        "line": 174,
-        "ch": 11
-      },
-      "to": {
-        "line": 174,
-        "ch": 11
-      }
-    }
-  },
-  "计算机类/数据库/Mysql/DDL/Alter Table.md": {
-    "expandedKeys": [
-      "item-1-0",
-      "item-2-7"
-    ],
-    "scroll": 325.6355840111891,
-    "cursor": {
-      "from": {
-        "line": 140,
-        "ch": 0
-      },
-      "to": {
-        "line": 140,
-        "ch": 0
-      }
-    }
-  },
-  "计算机类/数据库/Mysql/聚合函数查询/未命名.md": {
-    "expandedKeys": [],
-    "scroll": 0,
-    "cursor": {
-      "from": {
-        "line": 0,
-        "ch": 0
-      },
-      "to": {
-        "line": 0,
-        "ch": 0
-      }
-    }
-  },
-  "计算机类/数据库/Mysql/聚合函数查询/COUNT.md": {
-    "cursor": {
-      "from": {
-        "line": 0,
-        "ch": 0
-      },
-      "to": {
-        "line": 0,
-        "ch": 0
-      }
-    }
-  },
-  "计算机类/数据库/Mysql/聚合函数查询/GROUP BY.md": {
-    "expandedKeys": []
-  },
-  "计算机类/数据库/Mysql/聚合函数查询/HAVING.md": {
-    "expandedKeys": [],
-    "cursor": {
-      "from": {
-        "line": 0,
-        "ch": 0
-      },
-      "to": {
-        "line": 0,
-        "ch": 0
-      }
-    }
-  },
-  "计算机类/数据库/Mysql/聚合查询/HAVING.md": {
-    "expandedKeys": [
-      "item-1-0"
-    ],
-    "cursor": {
-      "from": {
-        "line": 0,
-        "ch": 0
-      },
-      "to": {
-        "line": 0,
-        "ch": 0
-      }
-    },
-    "scroll": 0
-  },
-  "计算机类/数据库/Mysql/聚合查询/COUNT.md": {
-    "expandedKeys": [
-      "item-1-0",
-      "item-2-4"
-    ],
-    "scroll": 203.9389880952381,
-    "cursor": {
-      "from": {
-        "line": 51,
-        "ch": 0
-      },
-      "to": {
-        "line": 51,
-        "ch": 0
-      }
-    }
-  },
-  "计算机类/数据库/Mysql/聚合查询/GROUP BY.md": {
-    "expandedKeys": []
-  },
-  "计算机类/数据库/Mysql/聚合查询/MAX.md": {
-    "expandedKeys": [
-      "item-1-0"
-    ],
-    "scroll": 60.358123063302344
-  },
-  "计算机类/数据库/Mysql/聚合查询/SUM.md": {
-    "expandedKeys": [
-      "item-1-0"
-    ],
-    "scroll": 0
-  },
-  "计算机类/数据库/Mysql/聚合查询/AVG.md": {
-    "expandedKeys": [
-      "item-1-0"
-    ],
-    "cursor": {
-      "from": {
-        "line": 372,
-        "ch": 0
-      },
-      "to": {
-        "line": 372,
-        "ch": 0
-      }
-    },
-    "scroll": 311.4449404761905
-  },
-  "计算机类/数据库/Mysql/聚合查询/MIN.md": {
-    "expandedKeys": []
-  },
-  "计算机类/数据库/Mysql/数据约束/未命名.md": {
-    "expandedKeys": [],
-    "cursor": {
-      "from": {
-        "line": 0,
-        "ch": 0
-      },
-      "to": {
-        "line": 0,
-        "ch": 0
-      }
-    }
-  },
-  "计算机类/数据库/Mysql/数据约束/Foreign Key.md": {
-    "expandedKeys": [],
-    "cursor": {
-      "from": {
-        "line": 0,
-        "ch": 0
-      },
-      "to": {
-        "line": 0,
-        "ch": 0
-      }
-    }
-  },
-  "计算机类/数据库/Mysql/数据约束/FOREIGN KEY.md": {
-    "cursor": {
-      "from": {
-        "line": 0,
-        "ch": 0
-      },
-      "to": {
-        "line": 0,
-        "ch": 0
-      }
-    }
-  },
-  "计算机类/数据库/Mysql/数据约束/Primary Key.md": {
-    "expandedKeys": [],
-    "cursor": {
-      "from": {
-        "line": 0,
-        "ch": 0
-      },
-      "to": {
-        "line": 0,
-        "ch": 0
-      }
-    }
-  },
-  "计算机类/数据库/Mysql/数据约束/Unique.md": {
-    "expandedKeys": [],
-    "cursor": {
-      "from": {
-        "line": 0,
-        "ch": 0
-      },
-      "to": {
-        "line": 0,
-        "ch": 0
-      }
-    }
-  },
-  "计算机类/数据库/Mysql/数据约束/UNIQUE.md": {
-    "cursor": {
-      "from": {
-        "line": 0,
-        "ch": 0
-      },
-      "to": {
-        "line": 0,
-        "ch": 0
-      }
-    },
-    "expandedKeys": [
-      "item-1-0",
-      "item-2-3"
-    ],
-    "scroll": 0
-  },
-  "计算机类/数据库/Mysql/数据约束/CHECK.md": {
-    "expandedKeys": [
-      "item-1-0",
-      "item-2-2"
-    ],
-    "cursor": {
-      "from": {
-        "line": 7,
-        "ch": 30
-      },
-      "to": {
-        "line": 7,
-        "ch": 30
-      }
-    },
-    "scroll": 145.44180052654704
-  },
-  "计算机类/数据库/Mysql/数据约束/数据约束概述.md": {
-    "expandedKeys": [
-      "item-1-0",
-      "item-2-7"
-    ],
-    "scroll": 81.68183056815296
-  },
-  "计算机类/数据库/Mysql/数据约束/DEFAULT.md": {
-    "expandedKeys": [
-      "item-1-0"
-    ],
-    "scroll": 0
-  },
-  "计算机类/数据库/Mysql/数据约束/NOT NULL.md": {
-    "expandedKeys": []
-  },
-  "计算机类/数据库/Mysql/数据约束/PRIMARY KEY.md": {
-    "expandedKeys": []
   }
 }

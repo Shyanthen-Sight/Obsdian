@@ -25,7 +25,7 @@ HAVING ...
 > [!danger] WHERE 里不能用聚合函数
 > 写 `WHERE COUNT(*) > 5` 会直接报错：
 > `ERROR 1111 (HY000): Invalid use of group function`
-> 因为 `WHERE` 执行时**还没有分组**，`COUNT` 根本无从算起。想按"组"过滤，那是 [[Having]] 的活。
+> 因为 `WHERE` 执行时**还没有分组**，`COUNT` 根本无从算起。想按"组"过滤，那是 [[计算机类/数据库/Mysql/DML/Having]] 的活。
 
 ```sql
 -- ❌ 报错 ERROR 1111
@@ -444,8 +444,8 @@ SELECT * FROM `orders` WHERE remark IS NULL OR remark NOT IN ('加急');
 
 - [[Select]] —— 全子句与执行顺序（别名为什么不能在 WHERE 里用）
 - [[From]] —— 数据源从哪来
-- [[Having]] —— 分组之后的过滤
-- [[Group By]] —— 分组统计
+- [[计算机类/数据库/Mysql/DML/Having]] —— 分组之后的过滤
+- [[计算机类/数据库/Mysql/DML/Group By]] —— 分组统计
 - [[Order By]] —— 结果集排序
 - [[Join]] —— 多表连接的连接条件
 - [[Update]] · [[Delete]] —— 同样带 WHERE，写错就是全表事故
