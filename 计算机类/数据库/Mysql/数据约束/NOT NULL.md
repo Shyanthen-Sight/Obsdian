@@ -108,7 +108,7 @@ SELECT * FROM student WHERE phone IS NULL;   -- ✅ 正确
 `COUNT(phone)` 数的是**非 NULL 的行数**，不是总行数；`SUM`/`AVG`/`MAX`/`MIN` 同样忽略 NULL。
 
 ```sql
-SELECT COUNT(*)     AS 总行数,      -- 含 NULL 行
+SELECT COUNT(*)     AS 总行数,     -- 含 NULL 行
        COUNT(phone) AS 有电话行数   -- 不含 NULL 行
 FROM student;
 ```

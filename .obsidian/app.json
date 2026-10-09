@@ -1,5 +1,5 @@
 {
-  "promptDelete": false,
+  "promptDelete": true,
   "foldHeading": true,
   "newFileLocation": "current",
   "newFileFolderPath": "/",
@@ -15,5 +15,6 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "vimMode": false
 }

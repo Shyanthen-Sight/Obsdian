@@ -8,18 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7f070d778b0df092",
+            "id": "ba1194f716efcddc",
             "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "1c0d4d3d25ddd656",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机类/后端/Git/Git远程/管理远程.md",
+                "file": "任务/任务完成情况概览.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "管理远程"
+              "title": "任务完成情况概览"
             }
           }
         ]
@@ -135,9 +147,13 @@
                       "conversationId": null,
                       "draftModel": "haiku",
                       "providerId": "claude"
+                    },
+                    {
+                      "tabId": "tab-1791457308121-lqkrdlh",
+                      "conversationId": "conv-1791457376429-6ptobmfhl"
                     }
                   ],
-                  "activeTabId": "tab-1791453960115-u4fktta"
+                  "activeTabId": "tab-1791457308121-lqkrdlh"
                 }
               },
               "icon": "bot",
@@ -176,42 +192,42 @@
   },
   "active": "674128e64321d8c7",
   "lastOpenFiles": [
-    "计算机类/数据库/Mysql/old learning version/数据查询/表的操作.md",
-    "计算机类/数据库/Mysql/old learning version/数据查询",
-    "计算机类/数据库/Mysql/old learning version",
-    "计算机类/数据库/Mysql/数据约束/CHECK.md",
-    "计算机类/数据库/Mysql/数据约束/DEFAULT.md",
-    "书籍/计算机英语(第五版) (刘艺) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "计算机类/数据库/Mysql/聚合查询/AVG.md",
+    "任务/任务完成情况概览.md",
+    "任务/每周安排/26-w5.md",
     "学校/课表.md",
+    "任务/每周安排/26-w3.md",
+    "任务/每周安排/26-w4.md",
+    "计算机类/数据库/Mysql/聚合查询/SUM.md",
+    "计算机类/数据库/Mysql/聚合查询/MIN.md",
     "计算机类/数据库/Mysql/聚合查询/MAX.md",
     "计算机类/数据库/Mysql/聚合查询/HAVING.md",
-    "计算机类/数据库/Mysql/聚合查询/COUNT.md",
-    "计算机类/数据库/Mysql/聚合查询/SUM.md",
-    "计算机类/数据库/Mysql/数据约束/FOREIGN KEY.md",
+    "计算机类/数据库/Mysql/连接查询/CROSS JOIN.md",
+    "计算机类/数据库/Mysql/连接查询/LEFT JOIN.md",
+    "计算机类/数据库/Mysql/连接查询/RIGHT JOIN.md",
+    "计算机类/数据库/Mysql/连接查询/SELF JOIN.md",
+    "计算机类/数据库/Mysql/连接查询/INNER JOIN.md",
+    "计算机类/数据库/Mysql/连接查询/FULL OUTER JOIN.md",
     "计算机类/数据库/Mysql/数据约束/UNIQUE.md",
-    "计算机类/数据库/Mysql/数据约束/AUTO_INCREMENT.md",
     "计算机类/数据库/Mysql/数据约束/PRIMARY KEY.md",
+    "计算机类/数据库/Mysql/sql运算符/集合运算符.md",
+    "计算机类/数据库/Mysql/sql运算符/算数预算符.md",
+    "计算机类/数据库/Mysql/sql运算符/逻辑运算符.md",
     "计算机类/数据库/Mysql/数据约束/NOT NULL.md",
-    "计算机类/数据库/Mysql/数据约束/数据约束概述.md",
-    "计算机类/数据库/Mysql/聚合查询/MIN.md",
-    "计算机类/数据库/Mysql/聚合查询/GROUP BY.md",
-    "计算机类/数据库/Mysql/DML/Join.md",
-    "计算机类/数据库/Mysql/DDL/Alter Table.md",
+    "计算机类/数据库/Mysql/数据约束/FOREIGN KEY.md",
+    "计算机类/数据库/Mysql/数据约束/DEFAULT.md",
+    "计算机类/数据库/Mysql/数据约束/AUTO_INCREMENT.md",
+    "计算机类/数据库/Mysql/数据约束/CHECK.md",
     "计算机类/数据库/Mysql/DML/Insert.md",
-    "计算机类/数据库/Mysql/DML/Having.md",
-    "计算机类/数据库/Mysql/DML/Group By.md",
-    "计算机类/数据库/Mysql/DML/From.md",
-    "计算机类/数据库/Mysql/DML/Delete.md",
-    "计算机类/后端/Git/分支基础/合并基础.md",
-    "计算机类/后端/Git/合并策略/Fast-Forward vs Non-FF.md",
+    "学校/作业/sql/sql学习计划.md.tmp.29884.29dd30219ebb",
+    "学校/作业/sql",
+    "计算机类/数据库/Mysql/DCL",
+    "计算机类/数据库/Mysql/old learning version/数据查询",
+    "计算机类/数据库/Mysql/old learning version",
+    "书籍/计算机英语(第五版) (刘艺) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "家教/试卷/七年级上下综合测试卷/~$试卷.docx",
     "家教/试卷/七年级上下综合测试卷/试卷.docx",
     "家教/试卷/七年级上下综合测试卷/答案.md.tmp.11132.c0fd8d933114",
     "家教/试卷/七年级上下综合测试卷/答案.md.tmp.11132.7278cb8c78ea",
-    "家教/试卷/七年级上下综合测试卷/答案.md.tmp.11132.6872c8ced178",
-    "家教/试卷/七年级上下综合测试卷/答案.md.tmp.11132.b21034e16761",
-    "家教/试卷/七年级上下综合测试卷/答案.md.tmp.11132.96fb61ac6952",
     "未命名.canvas",
     "学校/课本/离散数学/未命名.canvas",
     "学校/课本/离散数学/img/Pasted image 20260924115529.png",

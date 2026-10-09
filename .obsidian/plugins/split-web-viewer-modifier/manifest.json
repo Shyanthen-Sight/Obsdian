@@ -1,0 +1,10 @@
+{
+  "id": "split-web-viewer-modifier",
+  "name": "Split Web Viewer Modifier",
+  "version": "1.0.0",
+  "minAppVersion": "1.8.0",
+  "description": "Open external links in a split-pane Web Viewer. Supports reuse, new tab, new split, and browser modes. Configurable Shift / Cmd/Ctrl click behavior.",
+  "author": "xIYuE",
+  "authorUrl": "https://github.com/Hucy",
+  "isDesktopOnly": true
+}

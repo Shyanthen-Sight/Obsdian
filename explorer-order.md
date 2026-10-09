@@ -7,6 +7,6 @@ This note is maintained by the Explorer Order Editor plugin. It stores the manua
   "计算机类/后端": ["Docker","Git","Java","Maven"],
   "计算机类/后端/Git": ["基础学习","Repository","分支基础","Git远程","合并策略"],
   "计算机类/后端/Git/Repository": ["仓库初始化","Git核心区"],
-  "计算机类/数据库/Mysql": ["sql运算符","DDL","DML","聚合查询","数据约束","连接查询","视图","数据库概念","子查询"]
+  "计算机类/数据库/Mysql": ["sql运算符","DDL","DML","DCL","聚合查询","数据约束","连接查询","视图","数据库概念","子查询"]
 }
 ```

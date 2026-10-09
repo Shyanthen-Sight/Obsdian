@@ -38,7 +38,7 @@ CREATE TABLE user (
 ```sql
 CREATE TABLE user (
     id   INT PRIMARY KEY AUTO_INCREMENT,
-    name VARCHAR(20)
+    name VARCHAR(2<mark style="background:#fff88f">0)</mark>
 );
 ```
 
