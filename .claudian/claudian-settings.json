@@ -59,7 +59,7 @@
           ]
         },
         {
-          "value": "claude-fable-5-1",
+          "value": "fable",
           "label": "Fable",
           "description": "Fable 5.1 · Most capable for your hardest and longest-running tasks · $10/$50 per Mtok",
           "resolvedModel": "claude-fable-5-1",

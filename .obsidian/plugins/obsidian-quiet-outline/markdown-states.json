@@ -220,33 +220,33 @@
     "scroll": 234.64184793227125
   },
   "学校/课表.md": {
-    "scroll": 5.760416889190674,
+    "scroll": 14.925394113487819,
     "expandedKeys": [
       "item-1-0"
     ],
     "cursor": {
       "from": {
-        "line": 21,
-        "ch": 48
+        "line": 20,
+        "ch": 56
       },
       "to": {
-        "line": 21,
-        "ch": 48
+        "line": 20,
+        "ch": 56
       }
     }
   },
   "英语/单词学习/E26-10-1.md": {
     "cursor": {
       "from": {
-        "line": 13,
-        "ch": 30
+        "line": 34,
+        "ch": 0
       },
       "to": {
-        "line": 13,
-        "ch": 30
+        "line": 34,
+        "ch": 0
       }
     },
-    "scroll": 14.831539708948466,
+    "scroll": 27.233498659048276,
     "expandedKeys": []
   },
   "英语/单词学习/E26-9-30.md": {
@@ -316,15 +316,15 @@
   },
   "任务/任务完成情况概览.md": {
     "expandedKeys": [],
-    "scroll": 0,
+    "scroll": 1.0224852071005917,
     "cursor": {
       "from": {
-        "line": 3,
-        "ch": 0
+        "line": 2,
+        "ch": 7
       },
       "to": {
-        "line": 3,
-        "ch": 0
+        "line": 2,
+        "ch": 7
       }
     }
   },
@@ -453,7 +453,17 @@
     "expandedKeys": [
       "item-1-0"
     ],
-    "scroll": 0
+    "scroll": 62.15261055516301,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 15
+      },
+      "to": {
+        "line": 0,
+        "ch": 5
+      }
+    }
   },
   "计算机类/后端/Git/Repository/分支基础/未命名.md": {
     "expandedKeys": [],
@@ -687,14 +697,15 @@
   "英语/单词学习/E26-9-17.md": {
     "cursor": {
       "from": {
-        "line": 6,
-        "ch": 0
+        "line": 30,
+        "ch": 37
       },
       "to": {
-        "line": 6,
-        "ch": 0
+        "line": 30,
+        "ch": 37
       }
-    }
+    },
+    "scroll": 5.063290946091278
   },
   "英语/单词学习/E26-10-4.md": {
     "cursor": {
@@ -867,7 +878,7 @@
       "item-1-0",
       "item-2-3"
     ],
-    "scroll": 143.00335620587012
+    "scroll": 141.78255208333334
   },
   "计算机类/前端/TypeScript/TS的引入/TS 与 JS 的互操作性.md": {
     "expandedKeys": [
@@ -889,36 +900,37 @@
   "计算机类/前端/TypeScript/TS的引入/安装与配置.md": {
     "expandedKeys": [
       "item-1-0",
+      "item-1-17",
       "item-2-2",
-      "item-2-13",
-      "item-2-7"
+      "item-2-6",
+      "item-2-9"
     ],
     "cursor": {
       "from": {
-        "line": 60,
+        "line": 112,
         "ch": 0
       },
       "to": {
-        "line": 60,
+        "line": 112,
         "ch": 0
       }
     },
-    "scroll": 97.18203246997695
+    "scroll": 37.361859905802184
   },
   "计算机类/前端/TypeScript/TS的引入/tsconfig.json.md": {
     "expandedKeys": [
       "item-1-0",
-      "item-2-3",
-      "item-2-14"
+      "item-2-14",
+      "item-2-3"
     ],
-    "scroll": 421.5482139169936,
+    "scroll": 8.419921875,
     "cursor": {
       "from": {
-        "line": 382,
+        "line": 20,
         "ch": 0
       },
       "to": {
-        "line": 382,
+        "line": 20,
         "ch": 0
       }
     }
@@ -953,7 +965,7 @@
   },
   "杂记/罗OO的课表.md": {
     "expandedKeys": [],
-    "scroll": 0.01242828140171242
+    "scroll": 0
   },
   "杂记/简历-徐源振-涪陵家教.md": {
     "expandedKeys": [
@@ -969,7 +981,7 @@
         "ch": 0
       }
     },
-    "scroll": 9.88961321164711
+    "scroll": 25.943590225129437
   },
   "杂记/数据库系统概论_习题1_参考答案 1.md": {
     "expandedKeys": [
@@ -1173,7 +1185,17 @@
   },
   "creative think/项目内容.md": {
     "expandedKeys": [],
-    "scroll": 0
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    }
   },
   "家教/试卷/基础测试套卷1/基础测试卷1.md": {
     "expandedKeys": []
@@ -1397,14 +1419,14 @@
       "item-2-7",
       "item-2-2"
     ],
-    "scroll": 80.91883945465088,
+    "scroll": 255.86133208404718,
     "cursor": {
       "from": {
-        "line": 88,
+        "line": 261,
         "ch": 0
       },
       "to": {
-        "line": 88,
+        "line": 261,
         "ch": 0
       }
     }
@@ -1613,15 +1635,15 @@
     ],
     "cursor": {
       "from": {
-        "line": 68,
-        "ch": 51
+        "line": 29,
+        "ch": 2
       },
       "to": {
-        "line": 68,
-        "ch": 51
+        "line": 29,
+        "ch": 2
       }
     },
-    "scroll": 136.69877998034158
+    "scroll": 63.591650062975845
   },
   "计算机类/数据库/Mysql/数据约束/数据约束概述.md": {
     "expandedKeys": [
@@ -1680,12 +1702,12 @@
     "scroll": 128.12202635265533,
     "cursor": {
       "from": {
-        "line": 87,
-        "ch": 7
+        "line": 145,
+        "ch": 0
       },
       "to": {
-        "line": 87,
-        "ch": 7
+        "line": 145,
+        "ch": 0
       }
     }
   },
@@ -1779,7 +1801,17 @@
       "item-1-0",
       "item-2-2"
     ],
-    "scroll": 60.36805734180269
+    "scroll": 4.136284589767456,
+    "cursor": {
+      "from": {
+        "line": 132,
+        "ch": 0
+      },
+      "to": {
+        "line": 132,
+        "ch": 0
+      }
+    }
   },
   "计算机类/数据库/Mysql/sql运算符/逻辑运算符.md": {
     "expandedKeys": [
@@ -1791,28 +1823,48 @@
     ],
     "cursor": {
       "from": {
-        "line": 446,
-        "ch": 0
+        "line": 7,
+        "ch": 10
       },
       "to": {
-        "line": 446,
-        "ch": 0
+        "line": 7,
+        "ch": 10
       }
     },
-    "scroll": 430.5446925834488
+    "scroll": 0
   },
   "计算机类/数据库/Mysql/sql运算符/算数预算符.md": {
     "expandedKeys": [
       "item-1-0"
     ],
-    "scroll": 0
+    "scroll": 4.136284589767456,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 3
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    }
   },
   "计算机类/数据库/Mysql/连接查询/未命名.md": {
     "expandedKeys": [],
     "scroll": 0
   },
   "计算机类/数据库/Mysql/连接查询/SELF JOIN.md": {
-    "expandedKeys": []
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
   },
   "计算机类/数据库/Mysql/连接查询/FULL OUTER JOIN.md": {
     "expandedKeys": []
@@ -1871,15 +1923,876 @@
   "任务/每周安排/26-w5.md": {
     "cursor": {
       "from": {
-        "line": 16,
+        "line": 20,
+        "ch": 152
+      },
+      "to": {
+        "line": 20,
+        "ch": 152
+      }
+    },
+    "scroll": 4.044046799724708,
+    "expandedKeys": []
+  },
+  "计算机类/数据库/Mysql/进阶函数/未命名.md": {
+    "expandedKeys": [],
+    "scroll": 0
+  },
+  "计算机类/数据库/Mysql/进阶函数与功能/未命名.md": {
+    "expandedKeys": []
+  },
+  "计算机类/数据库/Mysql/进阶函数与功能/日期与时间.md": {
+    "expandedKeys": []
+  },
+  "计算机类/数据库/Mysql/子查询/未命名.md": {
+    "expandedKeys": []
+  },
+  "计算机类/数据库/Mysql/子查询/相关子查询.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
         "ch": 0
       },
       "to": {
-        "line": 16,
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/后端/Java/类与对象/构造方法与对象创建/创建对象.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 0
+  },
+  "计算机类/后端/Java/类与对象/构造方法与对象创建/对象的引用和实体.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 0
+  },
+  "计算机类/后端/Java/类与对象/构造方法与对象创建/使用对象.md": {
+    "expandedKeys": []
+  },
+  "计算机类/后端/Java/类与对象/构造方法与对象创建/构造方法.md": {
+    "expandedKeys": []
+  },
+  "计算机类/前端/vue3/未命名.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
         "ch": 0
       }
     },
-    "scroll": 5.274739583333333,
+    "scroll": 0
+  },
+  "计算机类/前端/vue3/项目结构树解析.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-3",
+      "item-2-9"
+    ],
+    "cursor": {
+      "from": {
+        "line": 77,
+        "ch": 0
+      },
+      "to": {
+        "line": 77,
+        "ch": 0
+      }
+    },
+    "scroll": 54.35464523269699
+  },
+  "计算机类/前端/vue3/setup语法糖.md": {
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 0
+      },
+      "to": {
+        "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-1",
+      "item-2-6",
+      "item-2-11"
+    ],
+    "scroll": 54.35464523269699
+  },
+  "计算机类/前端/vue3/others/项目结构树解析.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-9",
+      "item-2-3"
+    ],
+    "scroll": 236.97308953948976,
+    "cursor": {
+      "from": {
+        "line": 119,
+        "ch": 14
+      },
+      "to": {
+        "line": 119,
+        "ch": 5
+      }
+    }
+  },
+  "计算机类/前端/vue3/Components/未命名.md": {
+    "expandedKeys": [],
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/前端/vue3/Components/SFC.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
     "expandedKeys": []
+  },
+  "计算机类/前端/vue3/Components/Vue Props 组件属性（道具）.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/前端/vue3/Components/Vue Events 自定义事件.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/前端/vue3/Components/Events 自定义事件.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "计算机类/前端/vue3/Components/Attribute Inheritance.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/前端/vue3/Components/属性继承.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 75.71924191429501
+  },
+  "计算机类/前端/vue3/Components/组件注册.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-2",
+      "item-2-4",
+      "item-2-7",
+      "item-2-10",
+      "item-2-13",
+      "item-2-18"
+    ],
+    "scroll": 8.600260098775228,
+    "cursor": {
+      "from": {
+        "line": 70,
+        "ch": 0
+      },
+      "to": {
+        "line": 70,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/前端/vue3/Components/Props 组件属性.md": {
+    "expandedKeys": []
+  },
+  "计算机类/前端/vue3/Components/v-model.md": {
+    "expandedKeys": []
+  },
+  "计算机类/前端/vue3/others/setup语法糖.md": {
+    "expandedKeys": [
+      "item-2-1",
+      "item-1-0",
+      "item-2-6",
+      "item-2-11"
+    ],
+    "scroll": 50.42460087367466,
+    "cursor": {
+      "from": {
+        "line": 359,
+        "ch": 0
+      },
+      "to": {
+        "line": 359,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/前端/vue3/others/未命名.md": {
+    "expandedKeys": [],
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/前端/vue3/others/为什么要暴露在vue中.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/前端/vue3/others/vue中的export.md": {
+    "expandedKeys": [
+      "item-2-1",
+      "item-1-0",
+      "item-2-5",
+      "item-2-15",
+      "item-2-21",
+      "item-2-10"
+    ],
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "scroll": 0
+  },
+  "计算机类/计算机杂学/未命名.md": {
+    "expandedKeys": []
+  },
+  "计算机类/计算机杂学/什么是WebGL.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/前端/vue3/Components/引用注册.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/前端/TypeScript/运行TS/未命名.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/前端/TypeScript/运行TS/tsc.md": {
+    "cursor": {
+      "from": {
+        "line": 35,
+        "ch": 21
+      },
+      "to": {
+        "line": 35,
+        "ch": 21
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 0
+  },
+  "计算机类/前端/TypeScript/运行TS/ts-node.md": {
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 0.8060453400503779
+  },
+  "计算机类/前端/TypeScript/运行TS/解析产物说明.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 317.1158854166667,
+    "cursor": {
+      "from": {
+        "line": 333,
+        "ch": 0
+      },
+      "to": {
+        "line": 333,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/前端/TypeScript/运行TS/tsc后产物解析.md": {
+    "cursor": {
+      "from": {
+        "line": 16,
+        "ch": 37
+      },
+      "to": {
+        "line": 16,
+        "ch": 37
+      }
+    },
+    "expandedKeys": [],
+    "scroll": 9.482886904761905
+  },
+  "计算机类/前端/TypeScript/TS类型/README.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 97.88541666666667,
+    "cursor": {
+      "from": {
+        "line": 49,
+        "ch": 53
+      },
+      "to": {
+        "line": 49,
+        "ch": 53
+      }
+    }
+  },
+  "计算机类/前端/TypeScript/TS类型/01-top-types/any.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 81.51975802941945,
+    "cursor": {
+      "from": {
+        "line": 69,
+        "ch": 29
+      },
+      "to": {
+        "line": 69,
+        "ch": 29
+      }
+    }
+  },
+  "计算机类/前端/TypeScript/TS的引入/项目使用TS的终端输入流程.md": {
+    "expandedKeys": [
+      "item-2-6"
+    ],
+    "scroll": 14.101934523809524,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 28
+      },
+      "to": {
+        "line": 15,
+        "ch": 28
+      }
+    }
+  },
+  "计算机类/前端/TypeScript/TS的编译/解析产物说明.md": {
+    "cursor": {
+      "from": {
+        "line": 333,
+        "ch": 0
+      },
+      "to": {
+        "line": 333,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "计算机类/前端/TypeScript/TS的编译/ts-node.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "scroll": 0
+  },
+  "计算机类/前端/TypeScript/TS的编译/tsc.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "cursor": {
+      "from": {
+        "line": 120,
+        "ch": 33
+      },
+      "to": {
+        "line": 120,
+        "ch": 33
+      }
+    },
+    "scroll": 109.14806547619048
+  },
+  "计算机类/前端/TypeScript/TS的编译/未命名.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/前端/TypeScript/TS的编译/自动编译.md": {
+    "cursor": {
+      "from": {
+        "line": 34,
+        "ch": 53
+      },
+      "to": {
+        "line": 34,
+        "ch": 53
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 160.35632903468135
+  },
+  "计算机类/前端/TypeScript/TS类型/01-top-types/unknown.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 0
+  },
+  "任务/每日任务/2026-10-11.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 6
+      },
+      "to": {
+        "line": 8,
+        "ch": 6
+      }
+    }
+  },
+  "任务/每日任务/2026-10-12.md": {
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "任务/每日任务/2026-08-06.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 14
+      },
+      "to": {
+        "line": 14,
+        "ch": 14
+      }
+    },
+    "scroll": 0
+  },
+  "学校/课本/离散数学/C3 集合的基本概率和运算/未命名.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "学校/课本/离散数学/C4二元关系和函数/未命名.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "学校/课本/离散数学/C4二元关系和函数/4.2 关系的运算.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "学校/课本/离散数学/C3 集合的基本概率和运算/3.4 例题分析.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "学校/课本/离散数学/C3 集合的基本概率和运算/例题分析.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [],
+    "scroll": 25.05642334620158
+  },
+  "学校/课本/离散数学/C3 集合的基本概率和运算/3.3 集合中元素的计数.md": {
+    "expandedKeys": [],
+    "scroll": 13.807101328903654
+  },
+  "学校/课本/离散数学/C3 集合的基本概率和运算/3.2 集合的基本运算.md": {
+    "expandedKeys": []
+  },
+  "学校/课本/离散数学/C3 集合的基本概率和运算/3.1 集合的基本概率.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "杂记/未命名 1.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "杂记/什么是github.md": {
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 0
+      },
+      "to": {
+        "line": 2,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [],
+    "scroll": 0
+  },
+  "杂记/img/ppT.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "杂记/img/PPT制作思路.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "杂记/未命名.md": {
+    "expandedKeys": []
+  },
+  "杂记/涪陵家教面试.md": {
+    "expandedKeys": []
+  },
+  "杂记/navicat.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    }
+  },
+  "杂记/github edu verify.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "杂记/PPT制作思路.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-2"
+    ],
+    "cursor": {
+      "from": {
+        "line": 181,
+        "ch": 1
+      },
+      "to": {
+        "line": 181,
+        "ch": 1
+      }
+    },
+    "scroll": 139.79250184911243
+  },
+  "杂记/”什么是github“英语演讲.md": {
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 9
+      },
+      "to": {
+        "line": 2,
+        "ch": 9
+      }
+    },
+    "scroll": 0,
+    "expandedKeys": []
+  },
+  "杂记/浅色模式还是深色模式对眼睛好.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    }
+  },
+  "杂记/周末需要带的东西.md": {
+    "expandedKeys": []
+  },
+  "杂记/this is onedrive test.md": {
+    "expandedKeys": []
+  },
+  "杂记/douyin-sparkflow.md": {
+    "expandedKeys": []
+  },
+  "杂记/AI使用情况说明表-模板.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 2.8467966573816157
+  },
+  "计算机类/前端/vue3/others/Car_Merchant学习.md": {
+    "cursor": {
+      "from": {
+        "line": 216,
+        "ch": 29
+      },
+      "to": {
+        "line": 216,
+        "ch": 29
+      }
+    },
+    "scroll": 210.6166312000583,
+    "expandedKeys": [
+      "item-2-3",
+      "item-2-55",
+      "item-2-61",
+      "item-2-67",
+      "item-2-29",
+      "item-3-16",
+      "item-2-14",
+      "item-3-6",
+      "item-2-25",
+      "item-2-33",
+      "item-2-36",
+      "item-2-40",
+      "item-2-49"
+    ]
+  },
+  "计算机类/后端/Java/子类与继承/面向抽象编程.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-3"
+    ],
+    "scroll": 33.20949065687461
+  },
+  "计算机类/后端/Java/子类与继承/开闭原则.md": {
+    "expandedKeys": []
+  },
+  "计算机类/后端/Java/子类与继承/继承.md": {
+    "expandedKeys": []
+  },
+  "计算机类/后端/Java/子类与继承/父类的构造方法与子类的关系.md": {
+    "expandedKeys": [
+      "item-2-0"
+    ],
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 3
+      },
+      "to": {
+        "line": 1,
+        "ch": 3
+      }
+    },
+    "scroll": 0
   }
 }
