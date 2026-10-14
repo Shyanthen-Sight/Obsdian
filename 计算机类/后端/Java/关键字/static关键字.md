@@ -44,7 +44,6 @@ public class Demo {
 public class Student {
     // 静态变量：所有 Student 对象共享
     static String school = "清华大学";
-    
     // 实例变量：每个对象独立拥有
     String name;
     int age;

@@ -12,6 +12,8 @@ This note is maintained by the Explorer Order Editor plugin. It stores the manua
   "计算机类/后端": ["Docker","Git","Java","Maven"],
   "计算机类/后端/Git": ["基础学习","Repository","分支基础","Git远程","合并策略"],
   "计算机类/后端/Git/Repository": ["仓库初始化","Git核心区"],
+  "计算机类/后端/Java": ["images","Distinct","others","关键字","类与对象","子类与继承","接口实现"],
+  "计算机类/后端/Java/others": ["枚举.md","import.md","package.md","Java方法的解释.md","java中的权限修饰符.md"],
   "计算机类/数据库/Mysql": ["数据库概念","sql运算符","DDL","DML","DCL","聚合查询","数据约束","连接查询","子查询","进阶函数与功能","视图"],
   "计算机类/数据库/Mysql/数据库概念": ["笛卡尔积.md","码的定义.md","三级模式.md","数据库的三级模式.md","Nosql跟sql.md"],
   "计算机类/数据库/Mysql/连接查询": ["INNER JOIN.md","LEFT JOIN.md","RIGHT JOIN.md","SELF JOIN.md","FULL OUTER JOIN.md","CROSS JOIN.md"]

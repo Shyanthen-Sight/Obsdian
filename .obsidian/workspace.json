@@ -42,67 +42,67 @@
             }
           },
           {
-            "id": "12825076d114918c",
+            "id": "dfdd62fe4b9348d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机类/后端/Java/子类与继承/面向抽象编程.md",
+                "file": "学校/课本/离散数学/C4二元关系和函数/4.1 集合的笛卡尔积与二元关系.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "面向抽象编程"
+              "title": "4.1 集合的笛卡尔积与二元关系"
             }
           },
           {
-            "id": "c34d753a1311e3b7",
+            "id": "a058ecc5d93f2206",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机类/后端/Java/子类与继承/开闭原则.md",
+                "file": "学校/课本/离散数学/C4二元关系和函数/4.4 关系的闭包.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "开闭原则"
+              "title": "4.4 关系的闭包"
             }
           },
           {
-            "id": "4279999974b5bf0b",
+            "id": "d19d29fc55e493ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机类/后端/Java/子类与继承/继承.md",
+                "file": "学校/课本/离散数学/C4二元关系和函数/4.2 关系的运算.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "继承"
+              "title": "4.2 关系的运算"
             }
           },
           {
-            "id": "866aff6d0f16b97b",
+            "id": "bf7823103284775c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机类/后端/Java/子类与继承/父类的构造方法与子类的关系.md",
+                "file": "学校/课本/离散数学/C4二元关系和函数/4.3 关系的性质.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "父类的构造方法与子类的关系"
+              "title": "4.3 关系的性质"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 302.8333435058594
   },
   "right": {
     "id": "0b4c7c9d21618fd4",
@@ -211,47 +211,23 @@
                   "version": 1,
                   "openTabs": [
                     {
-                      "tabId": "tab-1791632140615-qf0pg8i",
-                      "conversationId": "conv-1791632144812-pbp7y2lqm"
-                    },
-                    {
-                      "tabId": "tab-1791697027775-7rtsd2q",
-                      "conversationId": "conv-1791697040016-k00cr6e5d"
-                    },
-                    {
-                      "tabId": "tab-1791714712764-fbxi5lp",
-                      "conversationId": "conv-1791714715511-ircb22441"
-                    },
-                    {
-                      "tabId": "tab-1791716757426-b9jeaxz",
-                      "conversationId": "conv-1791716958894-44z2nx1v9"
-                    },
-                    {
-                      "tabId": "tab-1791720043632-g2975g1",
-                      "conversationId": "conv-1791720046764-p55yelsf2"
-                    },
-                    {
-                      "tabId": "tab-1791720709628-eb51ku9",
-                      "conversationId": "conv-1791720715367-bki1al3kc"
-                    },
-                    {
-                      "tabId": "tab-1791721893666-iqz0gk5",
-                      "conversationId": "conv-1791721919180-stlj6gy0h"
-                    },
-                    {
-                      "tabId": "tab-1791870817216-zhl20gb",
-                      "conversationId": "conv-1791874319602-ed5wqy4hj"
-                    },
-                    {
-                      "tabId": "tab-1791875660975-ug483ma",
-                      "conversationId": "conv-1791875699678-eroo3tjlr"
-                    },
-                    {
                       "tabId": "tab-1791946839484-0g2zmfr",
                       "conversationId": "conv-1791946840988-4j05e6zrl"
+                    },
+                    {
+                      "tabId": "tab-1791963008857-tr6vwgm",
+                      "conversationId": "conv-1791963016664-nawnwgpwa"
+                    },
+                    {
+                      "tabId": "tab-1791963287694-iioh660",
+                      "conversationId": "conv-1791963291051-78gd2yg6n"
+                    },
+                    {
+                      "tabId": "tab-1791966361517-916vfi3",
+                      "conversationId": "conv-1791966372837-y7if28w8r"
                     }
                   ],
-                  "activeTabId": "tab-1791946839484-0g2zmfr"
+                  "activeTabId": "tab-1791966361517-916vfi3"
                 }
               },
               "icon": "bot",
@@ -263,7 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 340.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -288,35 +264,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "866aff6d0f16b97b",
+  "active": "674128e64321d8c7",
   "lastOpenFiles": [
+    "学校/课本/离散数学/C4二元关系和函数/4.3 关系的性质.md",
+    "学校/课本/离散数学/C4二元关系和函数/4.3 关系的性质.md.tmp.31608.6b84305f575e",
+    "学校/课本/离散数学/C4二元关系和函数/4.3 关系的性质.md.tmp.31608.5cf4e43e53f0",
+    "学校/课本/离散数学/C4二元关系和函数/4.2 关系的运算.md",
+    "学校/课本/离散数学/C4二元关系和函数/4.4 关系的闭包.md",
+    "学校/课本/离散数学/C4二元关系和函数/4.1 集合的笛卡尔积与二元关系.md",
+    "计算机类/前端/vue3/others/Car_Merchant学习.md",
+    "计算机类/后端/Git/基础学习/什么是版本控制.md",
+    "计算机类/后端/Git/基础学习/Git 跟其他VCS的比较.md",
+    "计算机类/后端/Git/基础学习/为什么使用版本控制.md",
+    "计算机类/后端/Java/others/Java方法的解释.md",
+    "计算机类/后端/Java/others/import.md",
+    "学校/课本/离散数学/C4二元关系和函数/4.5 等价关系和偏序关系.md",
+    "学校/课本/离散数学/C4二元关系和函数/4.6 函数的定义与性质.md",
+    "学校/课本/离散数学/C4二元关系和函数/4.7 函数的复合反函数.md",
+    "计算机类/后端/Java/others/package.md",
+    "计算机类/后端/Java/others/java中的权限修饰符.md",
+    "计算机类/后端/Java/others/枚举.md",
+    "计算机类/后端/Java/Distinct/OOP基础易错点详解.md",
+    "计算机类/后端/Java/类与对象/实例成员与类成员/两者关系大汇总.md",
+    "计算机类/后端/Java/类与对象/重载/重载.md",
+    "计算机类/后端/Java/类与对象/嵌套类.md",
+    "学校/课表.md",
     "计算机类/后端/Java/子类与继承/继承.md",
     "计算机类/后端/Java/子类与继承/开闭原则.md",
-    "计算机类/后端/Java/子类与继承/面向抽象编程.md",
-    "计算机类/前端/vue3/others/Car_Merchant学习.md",
-    "任务/任务完成情况概览.md",
-    "计算机类/前端/vue3/others/项目结构树解析.md",
-    "学校/课表.md",
+    "计算机类/后端/Java/子类与继承/父类的构造方法与子类的关系.md",
+    "计算机类/后端/Java/类与对象/对象的组合与UML/对象复用的具体例子.md",
     "计算机类/前端/vue3/others/Car_Merchant学习.md.tmp.9708.ddea9e59642f",
-    "计算机类/后端/Git/Repository/仓库初始化/关于.gitignore.md",
-    "杂记/01_入党申请书_2026-09-21.md",
-    "杂记/涪陵家教面试.md",
-    "杂记/02_思想汇报_2026-09-24.md",
-    "杂记/”什么是github“英语演讲.md",
-    "杂记/PPT制作思路.md",
-    "杂记/前端.md",
-    "杂记/ai.md",
-    "杂记/AI使用情况说明表-模板.md",
-    "杂记/douyin-sparkflow.md",
-    "杂记/github edu verify.md",
-    "杂记/navicat.md",
-    "杂记/this is onedrive test.md",
-    "杂记/周末需要带的东西.md",
-    "杂记/学车.md",
-    "杂记/浅色模式还是深色模式对眼睛好.md",
-    "杂记/简历-徐源振-涪陵家教.md",
-    "杂记/罗OO的课表.md",
-    "英语/单词学习/E26-10-1.md",
     "杂记/img/2.jpg",
     "杂记/什么是github.md.tmp.31532.df8ed9882025",
     "杂记/img/1.jpg",
@@ -327,8 +304,6 @@
     "学校/课本/离散数学/C4二元关系和函数/m9NiEonG",
     "学校/课本/离散数学/C4二元关系和函数/综合例题分析.md.tmp.17116.6c26181ad9ee",
     "学校/课本/离散数学/C4二元关系和函数/fJVqQIy5",
-    "学校/课本/离散数学/C4二元关系和函数/mwjS6BDW",
-    "学校/课本/离散数学/C4二元关系和函数/UD4bjvcZ",
     "未命名.canvas",
     "学校/课本/离散数学/未命名.canvas",
     "学校/课本/离散数学/img/Pasted image 20260924115529.png",
