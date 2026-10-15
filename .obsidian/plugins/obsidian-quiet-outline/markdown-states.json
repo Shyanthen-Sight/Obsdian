@@ -316,7 +316,7 @@
   },
   "任务/任务完成情况概览.md": {
     "expandedKeys": [],
-    "scroll": 1.0224852071005917,
+    "scroll": 2.537236304097889,
     "cursor": {
       "from": {
         "line": 2,
@@ -1985,7 +1985,21 @@
     "expandedKeys": []
   },
   "计算机类/后端/Java/类与对象/构造方法与对象创建/构造方法.md": {
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-3"
+    ],
+    "scroll": 100.1584194501241,
+    "cursor": {
+      "from": {
+        "line": 152,
+        "ch": 5
+      },
+      "to": {
+        "line": 152,
+        "ch": 5
+      }
+    }
   },
   "计算机类/前端/vue3/未命名.md": {
     "expandedKeys": [],
@@ -2711,15 +2725,15 @@
   "杂记/”什么是github“英语演讲.md": {
     "cursor": {
       "from": {
-        "line": 2,
-        "ch": 9
+        "line": 122,
+        "ch": 15
       },
       "to": {
-        "line": 2,
-        "ch": 9
+        "line": 122,
+        "ch": 15
       }
     },
-    "scroll": 0,
+    "scroll": 112.82334899902344,
     "expandedKeys": []
   },
   "杂记/浅色模式还是深色模式对眼睛好.md": {
@@ -2761,7 +2775,7 @@
         "ch": 29
       }
     },
-    "scroll": 216.88799022481422,
+    "scroll": 212.64954602983016,
     "expandedKeys": [
       "item-2-3",
       "item-2-55",
@@ -2815,21 +2829,18 @@
   },
   "计算机类/后端/Java/关键字/static关键字.md": {
     "expandedKeys": [
-      "item-2-1",
       "item-1-0",
+      "item-2-1",
       "item-2-5",
-      "item-3-6",
-      "item-3-12",
-      "item-3-19",
-      "item-3-24",
-      "item-3-29",
       "item-2-33",
       "item-2-38",
       "item-2-42",
       "item-2-46",
       "item-2-50",
       "item-2-54",
-      "item-2-58"
+      "item-2-58",
+      "item-2-61",
+      "item-2-70"
     ],
     "scroll": 109.07133831103936,
     "cursor": {
@@ -2863,20 +2874,33 @@
     "expandedKeys": [
       "item-1-0"
     ],
-    "scroll": 12.639268848994007,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 4,
-        "ch": 28
+        "line": 14,
+        "ch": 19
       },
       "to": {
-        "line": 4,
-        "ch": 28
+        "line": 14,
+        "ch": 19
       }
     }
   },
   "计算机类/后端/Java/类与对象/类的基础/成员变量.md": {
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "cursor": {
+      "from": {
+        "line": 23,
+        "ch": 18
+      },
+      "to": {
+        "line": 23,
+        "ch": 18
+      }
+    },
+    "scroll": 190.76778666178384
   },
   "计算机类/后端/Java/类与对象/类的基础/方法.md": {
     "expandedKeys": []
@@ -2889,15 +2913,15 @@
       "item-1-0",
       "item-2-2"
     ],
-    "scroll": 229.53053514543936,
+    "scroll": 51.77474077542623,
     "cursor": {
       "from": {
-        "line": 182,
-        "ch": 27
+        "line": 225,
+        "ch": 0
       },
       "to": {
-        "line": 182,
-        "ch": 27
+        "line": 225,
+        "ch": 0
       }
     }
   },
@@ -2928,28 +2952,53 @@
     ],
     "cursor": {
       "from": {
-        "line": 6,
-        "ch": 127
+        "line": 10,
+        "ch": 0
       },
       "to": {
-        "line": 6,
-        "ch": 127
+        "line": 10,
+        "ch": 0
       }
     },
-    "scroll": 0
+    "scroll": 4.005964726804456
   },
   "计算机类/后端/Java/others/枚举.md": {
     "expandedKeys": []
   },
   "计算机类/后端/Java/others/Java方法的解释.md": {
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-2",
+      "item-2-5"
+    ],
+    "cursor": {
+      "from": {
+        "line": 64,
+        "ch": 63
+      },
+      "to": {
+        "line": 64,
+        "ch": 63
+      }
+    },
+    "scroll": 44.4672435958069
   },
   "计算机类/后端/Java/others/java中的权限修饰符.md": {
     "expandedKeys": [
       "item-2-2",
       "item-1-0"
     ],
-    "scroll": 8.93429377223298
+    "scroll": 8.93429377223298,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
   },
   "计算机类/后端/Java/others/未命名.md": {
     "expandedKeys": [],
@@ -2983,16 +3032,16 @@
   "计算机类/后端/Java/others/package.md": {
     "cursor": {
       "from": {
-        "line": 30,
-        "ch": 0
+        "line": 18,
+        "ch": 33
       },
       "to": {
-        "line": 30,
-        "ch": 0
+        "line": 18,
+        "ch": 33
       }
     },
     "expandedKeys": [],
-    "scroll": 104.79267061673679
+    "scroll": 0
   },
   "学校/课本/离散数学/C4二元关系和函数/4.7 函数的复合反函数.md": {
     "expandedKeys": []
@@ -3005,15 +3054,15 @@
   },
   "学校/课本/离散数学/C4二元关系和函数/4.4 关系的闭包.md": {
     "expandedKeys": [],
-    "scroll": 0,
+    "scroll": 6.291666507720947,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 0
+        "line": 10,
+        "ch": 36
       },
       "to": {
-        "line": 0,
-        "ch": 0
+        "line": 10,
+        "ch": 36
       }
     }
   },
@@ -3035,17 +3084,22 @@
     "expandedKeys": [
       "item-2-2",
       "item-2-8",
-      "item-2-14"
+      "item-2-14",
+      "item-2-18",
+      "item-2-23",
+      "item-2-27",
+      "item-2-33",
+      "item-1-43"
     ],
-    "scroll": 234.5019907270159,
+    "scroll": 630.0930232558139,
     "cursor": {
       "from": {
-        "line": 229,
-        "ch": 51
+        "line": 345,
+        "ch": 24
       },
       "to": {
-        "line": 229,
-        "ch": 51
+        "line": 345,
+        "ch": 24
       }
     }
   },
@@ -3069,5 +3123,155 @@
       }
     },
     "scroll": 58.153515670819466
+  },
+  "计算机类/后端/Java/关键字/final关键字.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/后端/Java/others/访问修饰符有哪些.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "cursor": {
+      "from": {
+        "line": 23,
+        "ch": 132
+      },
+      "to": {
+        "line": 23,
+        "ch": 132
+      }
+    },
+    "scroll": 34.19558226879445
+  },
+  "计算机类/前端/项目分析/vben_admin/未命名.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/前端/项目分析/Car_Merchant/未命名.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 2
+      },
+      "to": {
+        "line": 1,
+        "ch": 2
+      }
+    }
+  },
+  "计算机类/前端/项目分析/Car_Merchant/# Car Merchant 项目完整详解.md": {
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 7
+      },
+      "to": {
+        "line": 3,
+        "ch": 7
+      }
+    }
+  },
+  "计算机类/前端/项目分析/Car_Merchant/Car Merchant 项目完整详解.md": {
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 0
+      },
+      "to": {
+        "line": 2,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-2"
+    ],
+    "scroll": 49.2934971940526
+  },
+  "计算机类/前端/项目分析/Car_Merchant/架构与路由/项目概览与目录结构.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-2"
+    ],
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/前端/项目分析/Car_Merchant/架构与路由/应用启动与路由.md": {
+    "expandedKeys": [
+      "item-2-1",
+      "item-1-0",
+      "item-2-6"
+    ],
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/前端/项目分析/Car_Merchant/状态与功能流程/删除车辆流程.md": {
+    "expandedKeys": []
+  },
+  "计算机类/前端/项目分析/Car_Merchant/状态与功能流程/添加车辆流程.md": {
+    "expandedKeys": [
+      "item-2-1",
+      "item-1-0"
+    ],
+    "scroll": 150.5863051641555
+  },
+  "计算机类/前端/项目分析/Car_Merchant/语法样式与总结/模板语法详解.md": {
+    "expandedKeys": [
+      "item-2-1",
+      "item-1-0",
+      "item-3-8"
+    ],
+    "scroll": 0
+  },
+  "计算机类/前端/项目分析/Car_Merchant/语法样式与总结/CSS scoped 与 CSS 变量.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
   }
 }
