@@ -78,7 +78,7 @@ So how should we, as computer science students, actually use it? Let me give you
 
 【P16・安全警告（白底红标页）】
 
-Before I move on, one warning. GitHub is public. Never put your passwords, API keys, or personal data into a public repository. And never post your professor's solution set, or copy someone else's project and present it as your own. Plagiarism on GitHub is still plagiarism — and it leaves a permanent, timestamped record.
+Before I move on, one warning. GitHub is public. Never put your passwords, API keys, or personal data into a public repository. And never post your professor's solution set, or copy someone else's project and present it as your own. Plagiarism[美 /'pleɪdʒərɪzəm/](cmd://Speak/_us_/plagiarism) on GitHub is still plagiarism — and it leaves a permanent, timestamped record.
 
 ---
 
@@ -88,7 +88,7 @@ Before I move on, one warning. GitHub is public. Never put your passwords, API k
 
 Now let's go one level deeper, because to use GitHub well, you must understand what it was built on. So what is Git?
 
-Git is a **version control system**. It was created in 2005 by Linus Torvalds — the same person who created Linux — to manage the development of the Linux kernel. And the key word here is **distributed**.
+Git is a **version control system**. It was created in 2005 by Linus[英 /'laɪnəs/](cmd://Speak/_uk_/Linus) Torvalds[英 /'tɔːvɔːldz/](cmd://Speak/_uk_/Torvalds) — the same person who created Linux — to manage the development of the Linux kernel[美 /'kɜːrnl/](cmd://Speak/_us_/kernel). And the key word here is **distributed**.
 
 So, what does a version control system actually do? Imagine you are writing an essay. You save it as "essay_final.docx", then "essay_final_v2.docx", then "essay_final_really_final.docx". That is version control — done badly. Git does it properly. It records a snapshot of your project whenever you ask it to, and it stores those snapshots in a structured, comparable, and reliable way.
 
@@ -116,7 +116,7 @@ Finally, let me put the essential commands in one breath: git init to start a re
 
 ## Closing
 
-So, to summarize. **GitHub is where the world's code lives and where it is built together.** As students, we should use it as a library, as our notebook, as our portfolio, and as our rehearsal for teamwork. And underneath it all is **Git** — a version control system whose real gift is not storage, but freedom: the freedom to experiment, the freedom to make mistakes, and the freedom to always come back.
+So, to summarize. **GitHub is where the world's code lives and where it is built together.** As students, we should use it as a library, as our notebook, as our portfolio[美 /pɔːrt'foʊlioʊ/](cmd://Speak/_us_/portfolio), and as our rehearsal[美 /rɪ'hɜːrsl/](cmd://Speak/_us_/rehearsal) for teamwork. And underneath it all is **Git** — a version control system whose real gift is not storage, but freedom: the freedom to experiment, the freedom to make mistakes, and the freedom to always come back.
 
 My advice is simple. Tonight, create an account. Tomorrow, push your first commit. A year from now, that first green square on your profile will look like a small thing — but it will be the beginning of the way you work for the rest of your career.
 

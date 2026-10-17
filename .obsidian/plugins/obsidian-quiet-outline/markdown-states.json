@@ -220,18 +220,18 @@
     "scroll": 234.64184793227125
   },
   "学校/课表.md": {
-    "scroll": 14.925394113487819,
+    "scroll": 28.440103588605254,
     "expandedKeys": [
       "item-1-0"
     ],
     "cursor": {
       "from": {
-        "line": 20,
-        "ch": 131
+        "line": 21,
+        "ch": 57
       },
       "to": {
-        "line": 20,
-        "ch": 131
+        "line": 21,
+        "ch": 57
       }
     }
   },
@@ -316,7 +316,7 @@
   },
   "任务/任务完成情况概览.md": {
     "expandedKeys": [],
-    "scroll": 2.537236304097889,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 2,
@@ -617,7 +617,8 @@
         "ch": 0
       }
     },
-    "scroll": 0
+    "scroll": 0,
+    "expandedKeys": []
   },
   "英语/单词学习/E26-9-21.md": {
     "cursor": {
@@ -1047,33 +1048,34 @@
   "家教/知识点讲解.md": {
     "expandedKeys": [
       "item-1-0",
-      "item-3-3",
-      "item-3-19",
-      "item-3-25",
-      "item-3-13",
-      "item-3-31",
-      "item-3-38",
-      "item-3-44",
-      "item-3-50",
-      "item-3-56",
-      "item-3-62",
-      "item-3-68",
+      "item-2-74",
       "item-3-75",
-      "item-3-8",
-      "item-2-37",
-      "item-2-2",
       "item-3-81",
-      "item-2-74"
+      "item-3-86",
+      "item-3-92",
+      "item-3-98",
+      "item-3-104",
+      "item-3-68",
+      "item-2-37",
+      "item-3-56",
+      "item-3-44",
+      "item-3-38",
+      "item-3-25",
+      "item-2-2",
+      "item-3-19",
+      "item-3-8",
+      "item-3-3",
+      "item-3-13"
     ],
-    "scroll": 1459.5855758880516,
+    "scroll": 0.7951298297925208,
     "cursor": {
       "from": {
-        "line": 1422,
-        "ch": 34
+        "line": 0,
+        "ch": 0
       },
       "to": {
-        "line": 1422,
-        "ch": 34
+        "line": 0,
+        "ch": 0
       }
     }
   },
@@ -1082,13 +1084,23 @@
       "item-1-0",
       "item-2-2"
     ],
-    "scroll": 0
+    "scroll": 104.84177027827117,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
   },
   "家教/讲课笔记/七上1-4单元笔记内容.md": {
     "expandedKeys": [
       "item-2-0"
     ],
-    "scroll": 16.437223253820882,
+    "scroll": 3.3187461417106796,
     "cursor": {
       "from": {
         "line": 32,
@@ -1106,7 +1118,7 @@
       "item-1-0",
       "item-2-7"
     ],
-    "scroll": 199.41432720232334,
+    "scroll": 121.68324452338662,
     "cursor": {
       "from": {
         "line": 0,
@@ -1267,29 +1279,30 @@
     ],
     "cursor": {
       "from": {
-        "line": 217,
-        "ch": 26
+        "line": 92,
+        "ch": 0
       },
       "to": {
-        "line": 217,
-        "ch": 26
+        "line": 92,
+        "ch": 0
       }
     },
-    "scroll": 114.09849300322928
+    "scroll": 99.39693395685543
   },
   "家教/试卷/七年级上下综合测试卷/答案.md": {
     "expandedKeys": [
-      "item-1-0"
+      "item-1-0",
+      "item-2-5"
     ],
-    "scroll": 56.39181916038751,
+    "scroll": 100.0828413095493,
     "cursor": {
       "from": {
-        "line": 73,
-        "ch": 30
+        "line": 106,
+        "ch": 0
       },
       "to": {
-        "line": 73,
-        "ch": 30
+        "line": 106,
+        "ch": 0
       }
     }
   },
@@ -1339,7 +1352,7 @@
     "expandedKeys": [
       "item-1-0"
     ],
-    "scroll": 93.70657951290868,
+    "scroll": 149.74793361686392,
     "cursor": {
       "from": {
         "line": 94,
@@ -1366,7 +1379,7 @@
       "item-2-3",
       "item-2-9"
     ],
-    "scroll": 483.9117423798114,
+    "scroll": 444.76499281253945,
     "cursor": {
       "from": {
         "line": 484,
@@ -1383,15 +1396,15 @@
       "item-1-0",
       "item-2-7"
     ],
-    "scroll": 121.91675048584229,
+    "scroll": 70.70650829789201,
     "cursor": {
       "from": {
-        "line": 136,
-        "ch": 0
+        "line": 77,
+        "ch": 26
       },
       "to": {
-        "line": 136,
-        "ch": 0
+        "line": 77,
+        "ch": 26
       }
     }
   },
@@ -1416,18 +1429,17 @@
   "计算机类/数据库/Mysql/DDL/Alter Table.md": {
     "expandedKeys": [
       "item-1-0",
-      "item-2-7",
       "item-2-2"
     ],
-    "scroll": 255.86133208404718,
+    "scroll": 50.05258069719587,
     "cursor": {
       "from": {
-        "line": 261,
-        "ch": 0
+        "line": 158,
+        "ch": 42
       },
       "to": {
-        "line": 261,
-        "ch": 0
+        "line": 158,
+        "ch": 42
       }
     }
   },
@@ -1479,15 +1491,15 @@
     ],
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 19
+        "line": 65,
+        "ch": 11
       },
       "to": {
-        "line": 0,
-        "ch": 19
+        "line": 65,
+        "ch": 11
       }
     },
-    "scroll": 27.166170392717635
+    "scroll": 110.20300337659613
   },
   "计算机类/数据库/Mysql/聚合查询/COUNT.md": {
     "expandedKeys": [
@@ -1527,15 +1539,15 @@
     ],
     "cursor": {
       "from": {
-        "line": 372,
+        "line": 10,
         "ch": 0
       },
       "to": {
-        "line": 372,
+        "line": 10,
         "ch": 0
       }
     },
-    "scroll": 311.4449404761905
+    "scroll": 0.8038854298893744
   },
   "计算机类/数据库/Mysql/聚合查询/MIN.md": {
     "expandedKeys": [
@@ -1873,10 +1885,37 @@
     "expandedKeys": []
   },
   "计算机类/数据库/Mysql/连接查询/INNER JOIN.md": {
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-5"
+    ],
+    "scroll": 59.880098593529475,
+    "cursor": {
+      "from": {
+        "line": 62,
+        "ch": 16
+      },
+      "to": {
+        "line": 62,
+        "ch": 16
+      }
+    }
   },
   "计算机类/数据库/Mysql/连接查询/LEFT JOIN.md": {
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 67.43185901641846,
+    "cursor": {
+      "from": {
+        "line": 48,
+        "ch": 34
+      },
+      "to": {
+        "line": 48,
+        "ch": 34
+      }
+    }
   },
   "计算机类/数据库/Mysql/连接查询/RIGHT JOIN.md": {
     "expandedKeys": []
@@ -1923,15 +1962,15 @@
   "任务/每周安排/26-w5.md": {
     "cursor": {
       "from": {
-        "line": 20,
-        "ch": 152
+        "line": 3,
+        "ch": 0
       },
       "to": {
-        "line": 20,
-        "ch": 152
+        "line": 3,
+        "ch": 0
       }
     },
-    "scroll": 4.044046799724708,
+    "scroll": 0,
     "expandedKeys": []
   },
   "计算机类/数据库/Mysql/进阶函数/未命名.md": {
@@ -1957,7 +1996,11 @@
         "line": 0,
         "ch": 0
       }
-    }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 250.92046078906841
   },
   "计算机类/后端/Java/类与对象/构造方法与对象创建/创建对象.md": {
     "expandedKeys": [
@@ -2087,15 +2130,19 @@
   "计算机类/前端/vue3/Components/SFC.md": {
     "cursor": {
       "from": {
-        "line": 0,
+        "line": 31,
         "ch": 0
       },
       "to": {
-        "line": 0,
+        "line": 31,
         "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-2-1",
+      "item-1-0"
+    ],
+    "scroll": 30.93783987139427
   },
   "计算机类/前端/vue3/Components/Vue Props 组件属性（道具）.md": {
     "cursor": {
@@ -2132,7 +2179,10 @@
         "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 0
   },
   "计算机类/前端/vue3/Components/Attribute Inheritance.md": {
     "cursor": {
@@ -2160,35 +2210,57 @@
     "expandedKeys": [
       "item-1-0"
     ],
-    "scroll": 75.71924191429501
+    "scroll": 0
   },
   "计算机类/前端/vue3/Components/组件注册.md": {
     "expandedKeys": [
       "item-1-0",
+      "item-2-18",
+      "item-2-13",
       "item-2-2",
       "item-2-4",
-      "item-2-7",
-      "item-2-10",
-      "item-2-13",
-      "item-2-18"
+      "item-2-7"
     ],
-    "scroll": 8.600260098775228,
+    "scroll": 127.25434231758118,
     "cursor": {
       "from": {
-        "line": 70,
-        "ch": 0
+        "line": 85,
+        "ch": 35
       },
       "to": {
-        "line": 70,
-        "ch": 0
+        "line": 85,
+        "ch": 35
       }
     }
   },
   "计算机类/前端/vue3/Components/Props 组件属性.md": {
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-2-1"
+    ],
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "scroll": 1.2770563177057317
   },
   "计算机类/前端/vue3/Components/v-model.md": {
-    "expandedKeys": []
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    }
   },
   "计算机类/前端/vue3/others/setup语法糖.md": {
     "expandedKeys": [
@@ -2275,17 +2347,15 @@
     }
   },
   "计算机类/前端/vue3/Components/引用注册.md": {
-    "expandedKeys": [
-      "item-1-0"
-    ],
-    "scroll": 0,
+    "expandedKeys": [],
+    "scroll": 12.750216960906982,
     "cursor": {
       "from": {
-        "line": 9,
+        "line": 0,
         "ch": 0
       },
       "to": {
-        "line": 9,
+        "line": 0,
         "ch": 0
       }
     }
@@ -2564,16 +2634,22 @@
   "学校/课本/离散数学/C4二元关系和函数/4.2 关系的运算.md": {
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 0
+        "line": 390,
+        "ch": 32
       },
       "to": {
-        "line": 0,
-        "ch": 0
+        "line": 390,
+        "ch": 32
       }
     },
-    "expandedKeys": [],
-    "scroll": 0
+    "expandedKeys": [
+      "item-2-2",
+      "item-2-7",
+      "item-2-11",
+      "item-2-17",
+      "item-2-22"
+    ],
+    "scroll": 380.1759391895467
   },
   "学校/课本/离散数学/C3 集合的基本概率和运算/3.4 例题分析.md": {
     "expandedKeys": [],
@@ -2603,14 +2679,20 @@
     "scroll": 25.05642334620158
   },
   "学校/课本/离散数学/C3 集合的基本概率和运算/3.3 集合中元素的计数.md": {
-    "expandedKeys": [],
-    "scroll": 13.807101328903654
+    "expandedKeys": [
+      "item-2-1",
+      "item-2-4",
+      "item-2-7"
+    ],
+    "scroll": 86.5804821019504
   },
   "学校/课本/离散数学/C3 集合的基本概率和运算/3.2 集合的基本运算.md": {
     "expandedKeys": []
   },
   "学校/课本/离散数学/C3 集合的基本概率和运算/3.1 集合的基本概率.md": {
-    "expandedKeys": [],
+    "expandedKeys": [
+      "item-2-2"
+    ],
     "cursor": {
       "from": {
         "line": 0,
@@ -2620,7 +2702,8 @@
         "line": 0,
         "ch": 0
       }
-    }
+    },
+    "scroll": 45.48992704176169
   },
   "杂记/未命名 1.md": {
     "cursor": {
@@ -2674,7 +2757,17 @@
     }
   },
   "杂记/未命名.md": {
-    "expandedKeys": []
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
   },
   "杂记/涪陵家教面试.md": {
     "expandedKeys": []
@@ -2725,15 +2818,15 @@
   "杂记/”什么是github“英语演讲.md": {
     "cursor": {
       "from": {
-        "line": 137,
-        "ch": 0
+        "line": 112,
+        "ch": 460
       },
       "to": {
-        "line": 137,
-        "ch": 0
+        "line": 112,
+        "ch": 460
       }
     },
-    "scroll": 118.89898173014323,
+    "scroll": 102.6972034860357,
     "expandedKeys": []
   },
   "杂记/浅色模式还是深色模式对眼睛好.md": {
@@ -2825,7 +2918,11 @@
     "expandedKeys": []
   },
   "计算机类/后端/Java/关键字/protected关键字.md": {
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-3"
+    ],
+    "scroll": 74.29708608166563
   },
   "计算机类/后端/Java/关键字/static关键字.md": {
     "expandedKeys": [
@@ -2874,15 +2971,15 @@
     "expandedKeys": [
       "item-1-0"
     ],
-    "scroll": 0,
+    "scroll": 29.250992820376442,
     "cursor": {
       "from": {
-        "line": 14,
-        "ch": 19
+        "line": 64,
+        "ch": 0
       },
       "to": {
-        "line": 14,
-        "ch": 19
+        "line": 64,
+        "ch": 0
       }
     }
   },
@@ -3047,22 +3144,58 @@
     "expandedKeys": []
   },
   "学校/课本/离散数学/C4二元关系和函数/4.6 函数的定义与性质.md": {
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-2-2",
+      "item-2-7",
+      "item-2-11",
+      "item-2-14",
+      "item-2-20",
+      "item-2-26"
+    ],
+    "scroll": 73.55524873367656,
+    "cursor": {
+      "from": {
+        "line": 77,
+        "ch": 0
+      },
+      "to": {
+        "line": 77,
+        "ch": 0
+      }
+    }
   },
   "学校/课本/离散数学/C4二元关系和函数/4.5 等价关系和偏序关系.md": {
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-2-2",
+      "item-2-5",
+      "item-2-9",
+      "item-2-13",
+      "item-2-17",
+      "item-2-23"
+    ],
+    "scroll": 159.77473759651184,
+    "cursor": {
+      "from": {
+        "line": 174,
+        "ch": 0
+      },
+      "to": {
+        "line": 174,
+        "ch": 0
+      }
+    }
   },
   "学校/课本/离散数学/C4二元关系和函数/4.4 关系的闭包.md": {
     "expandedKeys": [],
     "scroll": 6.291666507720947,
     "cursor": {
       "from": {
-        "line": 10,
-        "ch": 36
+        "line": 35,
+        "ch": 0
       },
       "to": {
-        "line": 10,
-        "ch": 36
+        "line": 35,
+        "ch": 0
       }
     }
   },
@@ -3091,15 +3224,15 @@
       "item-2-33",
       "item-1-43"
     ],
-    "scroll": 630.0930232558139,
+    "scroll": 184.6652306944643,
     "cursor": {
       "from": {
-        "line": 345,
-        "ch": 24
+        "line": 25,
+        "ch": 0
       },
       "to": {
-        "line": 345,
-        "ch": 24
+        "line": 25,
+        "ch": 0
       }
     }
   },
@@ -3114,28 +3247,36 @@
     ],
     "cursor": {
       "from": {
-        "line": 73,
-        "ch": 43
+        "line": 49,
+        "ch": 0
       },
       "to": {
-        "line": 73,
-        "ch": 43
+        "line": 49,
+        "ch": 0
       }
     },
-    "scroll": 58.153515670819466
+    "scroll": 37.18532967567444
   },
   "计算机类/后端/Java/关键字/final关键字.md": {
-    "expandedKeys": [],
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-1",
+      "item-2-3",
+      "item-2-9",
+      "item-2-12",
+      "item-2-16"
+    ],
     "cursor": {
       "from": {
-        "line": 5,
-        "ch": 0
+        "line": 8,
+        "ch": 112
       },
       "to": {
-        "line": 5,
-        "ch": 0
+        "line": 8,
+        "ch": 112
       }
-    }
+    },
+    "scroll": 240.32595372200012
   },
   "计算机类/后端/Java/others/访问修饰符有哪些.md": {
     "expandedKeys": [
@@ -3213,15 +3354,15 @@
       "item-1-0",
       "item-2-2"
     ],
-    "scroll": 0,
+    "scroll": 70.21972367326184,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 0
+        "line": 66,
+        "ch": 16
       },
       "to": {
-        "line": 0,
-        "ch": 0
+        "line": 66,
+        "ch": 16
       }
     }
   },
@@ -3231,14 +3372,14 @@
       "item-1-0",
       "item-2-6"
     ],
-    "scroll": 0,
+    "scroll": 18.915742083293637,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 0
+        "line": 3,
+        "ch": 197
       },
       "to": {
-        "line": 0,
+        "line": 2,
         "ch": 0
       }
     }
@@ -3262,6 +3403,548 @@
     "scroll": 0
   },
   "计算机类/前端/项目分析/Car_Merchant/语法样式与总结/CSS scoped 与 CSS 变量.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "英语/职场英语写作/Chapter 1.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "英语/职场英语写作/未命名.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "英语/职场英语写作/大纲.md": {
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 249
+      },
+      "to": {
+        "line": 12,
+        "ch": 249
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-2",
+      "item-2-6",
+      "item-2-11",
+      "item-2-14",
+      "item-2-17",
+      "item-2-20"
+    ],
+    "scroll": 10.834963565236668
+  },
+  "英语/单词学习/E26-10-15.md": {
+    "cursor": {
+      "from": {
+        "line": 21,
+        "ch": 19
+      },
+      "to": {
+        "line": 21,
+        "ch": 19
+      }
+    },
+    "expandedKeys": [],
+    "scroll": 16.66101535786269
+  },
+  "英语/职场英语写作/Unit1_Notices_精讲.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 17
+      },
+      "to": {
+        "line": 9,
+        "ch": 17
+      }
+    }
+  },
+  "英语/职场英语写作/Unit3_CVs_and_Cover_Letters_精讲.md": {
+    "expandedKeys": []
+  },
+  "英语/职场英语写作/Unit4_Agendas_and_Minutes_精讲.md": {
+    "expandedKeys": []
+  },
+  "英语/职场英语写作/Unit5_Memos_精讲.md": {
+    "expandedKeys": []
+  },
+  "英语/职场英语写作/Unit6_Data_Reports_Charts_精讲.md": {
+    "expandedKeys": []
+  },
+  "英语/职场英语写作/Unit7_Survey_Reports_精讲.md": {
+    "expandedKeys": [
+      "item-2-2",
+      "item-1-0"
+    ],
+    "scroll": 0
+  },
+  "英语/职场英语写作/Unit1_Notices.md": {
+    "cursor": {
+      "from": {
+        "line": 145,
+        "ch": 39
+      },
+      "to": {
+        "line": 145,
+        "ch": 39
+      }
+    },
+    "scroll": 115.5230058034261,
+    "expandedKeys": []
+  },
+  "计算机类/前端/vue3/others/箭头函数.md": {
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 1
+      },
+      "to": {
+        "line": 15,
+        "ch": 1
+      }
+    },
+    "expandedKeys": [
+      "item-2-1",
+      "item-1-0",
+      "item-2-5"
+    ],
+    "scroll": 39.27628889537993
+  },
+  "任务/每周安排/26-w6.md": {
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 14
+      },
+      "to": {
+        "line": 18,
+        "ch": 14
+      }
+    },
+    "scroll": 5.081113084665483,
+    "expandedKeys": []
+  },
+  "学校/课本/离散数学/C1 命题逻辑/等值演算公式.md": {
+    "expandedKeys": [
+      "item-2-2"
+    ],
+    "scroll": 40.805351493135326
+  },
+  "学校/课本/离散数学/C4二元关系和函数/综合例题分析.md": {
+    "expandedKeys": [
+      "item-2-26",
+      "item-2-20"
+    ],
+    "cursor": {
+      "from": {
+        "line": 375,
+        "ch": 17
+      },
+      "to": {
+        "line": 375,
+        "ch": 17
+      }
+    },
+    "scroll": 370.5980892976125
+  },
+  "学校/课本/离散数学/C1 命题逻辑/命题的主析取范式和主合取范式求法.md": {
+    "expandedKeys": []
+  },
+  "学校/课本/离散数学/C1 命题逻辑/推理定律.md": {
+    "expandedKeys": [],
+    "scroll": 24.797517024065904
+  },
+  "学校/课本/离散数学/C2 一阶逻辑/2.1一阶逻辑基本概念.md": {
+    "expandedKeys": []
+  },
+  "计算机类/数据库/Mysql/DML/Order By.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-1",
+      "item-2-5",
+      "item-2-7"
+    ],
+    "scroll": 97.57688794817243,
+    "cursor": {
+      "from": {
+        "line": 81,
+        "ch": 0
+      },
+      "to": {
+        "line": 81,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/数据库/Mysql/子查询/嵌套查询.md": {
+    "expandedKeys": []
+  },
+  "计算机类/数据库/Mysql/视图/未命名.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/数据库/Mysql/视图/删除视图.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "计算机类/数据库/Mysql/视图/创建视图.md": {
+    "expandedKeys": []
+  },
+  "计算机类/数据库/Mysql/视图/修改视图.md": {
+    "expandedKeys": []
+  },
+  "计算机类/数据库/Mysql/DDL/Table/Alter Table.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-2"
+    ],
+    "cursor": {
+      "from": {
+        "line": 352,
+        "ch": 0
+      },
+      "to": {
+        "line": 352,
+        "ch": 0
+      }
+    },
+    "scroll": 349.11209108007574
+  },
+  "计算机类/数据库/Mysql/进阶函数与功能/数值函数.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/数据库/Mysql/DQL/子查询/嵌套查询.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-3"
+    ],
+    "scroll": 85.54038350197955,
+    "cursor": {
+      "from": {
+        "line": 82,
+        "ch": 50
+      },
+      "to": {
+        "line": 82,
+        "ch": 50
+      }
+    }
+  },
+  "计算机类/数据库/Mysql/DQL/子父查询/嵌套查询.md": {
+    "scroll": 125.96197159658635,
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-3"
+    ]
+  },
+  "计算机类/数据库/Mysql/DQL/连接查询/INNER JOIN.md": {
+    "expandedKeys": []
+  },
+  "学校/课本/数据库/未命名.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "学校/课本/数据库/第一章习题.md": {
+    "scroll": 254.0465418708395,
+    "cursor": {
+      "from": {
+        "line": 242,
+        "ch": 5
+      },
+      "to": {
+        "line": 242,
+        "ch": 5
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "计算机类/数据库/Mysql/数据库概念/三级模式.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "计算机类/数据库/Mysql/数据库概念/码的定义.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "学校/课本/数据库/第一章判断题.md": {
+    "cursor": {
+      "from": {
+        "line": 196,
+        "ch": 0
+      },
+      "to": {
+        "line": 196,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 200.01597300873706
+  },
+  "学校/课本/数据库/第一章选择题.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 0
+      },
+      "to": {
+        "line": 12,
+        "ch": 0
+      }
+    },
+    "scroll": 29.33372752172707
+  },
+  "计算机类/数据库/Mysql/数据库概念/数据库的三级模式.md": {
+    "expandedKeys": [],
+    "scroll": 4.076133737056213
+  },
+  "计算机类/数据库/Mysql/DML/Update.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 66.12425977718195
+  },
+  "计算机类/前端/项目分析.md": {
+    "expandedKeys": []
+  },
+  "杂记/月份的英语表达.md": {
+    "cursor": {
+      "from": {
+        "line": 222,
+        "ch": 0
+      },
+      "to": {
+        "line": 222,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-2",
+      "item-2-7",
+      "item-2-11",
+      "item-2-15",
+      "item-2-21",
+      "item-2-26"
+    ],
+    "scroll": 221.3127844126048
+  },
+  "任务/每日任务/2026-10-17.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    }
+  },
+  "任务/每日任务/2026-08-10.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/数据库/Mysql/DQL/Group By.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-2",
+      "item-2-7"
+    ],
+    "scroll": 187.70131004366812,
+    "cursor": {
+      "from": {
+        "line": 52,
+        "ch": 0
+      },
+      "to": {
+        "line": 52,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/数据库/Mysql/DDL/视图/创建视图.md": {
+    "expandedKeys": [
+      "item-2-1",
+      "item-1-0",
+      "item-2-5",
+      "item-2-9",
+      "item-2-14"
+    ],
+    "scroll": 216.36882865440464,
+    "cursor": {
+      "from": {
+        "line": 217,
+        "ch": 23
+      },
+      "to": {
+        "line": 217,
+        "ch": 23
+      }
+    }
+  },
+  "计算机类/数据库/Mysql/DDL/视图/删除视图.md": {
+    "expandedKeys": []
+  },
+  "计算机类/数据库/Mysql/DDL/视图/修改视图.md": {
+    "expandedKeys": []
+  },
+  "数学家教/学生详情.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-1-2",
+      "item-1-6"
+    ],
+    "cursor": {
+      "from": {
+        "line": 87,
+        "ch": 0
+      },
+      "to": {
+        "line": 87,
+        "ch": 0
+      }
+    },
+    "scroll": 71.24763033175356
+  },
+  "数学家教/知识点讲解.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "数学家教/README.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-6"
+    ],
+    "cursor": {
+      "from": {
+        "line": 56,
+        "ch": 36
+      },
+      "to": {
+        "line": 56,
+        "ch": 36
+      }
+    },
+    "scroll": 36.96919431279621
+  },
+  "计算机类/数据库/Mysql/进阶函数与功能/条件.md": {
+    "expandedKeys": []
+  },
+  "计算机类/数据库/Mysql/进阶函数与功能/字符串函数.md": {
     "expandedKeys": [],
     "cursor": {
       "from": {

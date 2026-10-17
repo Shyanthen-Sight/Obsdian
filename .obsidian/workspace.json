@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "任务/任务完成情况概览.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -25,18 +25,18 @@
             }
           },
           {
-            "id": "fd7f2610bc71004e",
+            "id": "a707d07e0fc52bf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂记/”什么是github“英语演讲.md",
+                "file": "计算机类/数据库/Mysql/DDL/视图/创建视图.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "”什么是github“英语演讲"
+              "title": "创建视图"
             }
           }
         ],
@@ -60,7 +60,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true,
+                "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -149,35 +149,17 @@
                   "version": 1,
                   "openTabs": [
                     {
-                      "tabId": "tab-1791946839484-0g2zmfr",
-                      "conversationId": "conv-1791946840988-4j05e6zrl"
+                      "tabId": "tab-1792230157495-9d7tqpv",
+                      "conversationId": null,
+                      "draftModel": "haiku",
+                      "providerId": "claude"
                     },
                     {
-                      "tabId": "tab-1791963008857-tr6vwgm",
-                      "conversationId": "conv-1791963016664-nawnwgpwa"
-                    },
-                    {
-                      "tabId": "tab-1791963287694-iioh660",
-                      "conversationId": "conv-1791963291051-78gd2yg6n"
-                    },
-                    {
-                      "tabId": "tab-1791966361517-916vfi3",
-                      "conversationId": "conv-1791966372837-y7if28w8r"
-                    },
-                    {
-                      "tabId": "tab-1791976978475-jydvc8t",
-                      "conversationId": "conv-1791976980702-z90jie2tv"
-                    },
-                    {
-                      "tabId": "tab-1791977676017-xs8l4mi",
-                      "conversationId": "conv-1791977700491-noapw7tv0"
-                    },
-                    {
-                      "tabId": "tab-1791984710044-g8yrjgj",
-                      "conversationId": "conv-1791984727201-j7mmjdaoe"
+                      "tabId": "tab-1792230163037-sdovnfq",
+                      "conversationId": "conv-1792230180406-rbzdrj7y8"
                     }
                   ],
-                  "activeTabId": "tab-1791984710044-g8yrjgj"
+                  "activeTabId": "tab-1792230163037-sdovnfq"
                 }
               },
               "icon": "bot",
@@ -189,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 320.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,9 +181,6 @@
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": true,
       "bases:新建数据库": true,
-      "nutstore-sync:开始同步": false,
-      "nutstore-sync:停止同步": true,
-      "nutstore-sync:打开 Chatbox": true,
       "obsidian-checklist-plugin:Open Checklist": true,
       "pdf-plus:PDF++: Toggle auto-copy": true,
       "pdf-plus:PDF++: Toggle auto-focus": true,
@@ -216,42 +195,43 @@
   },
   "active": "674128e64321d8c7",
   "lastOpenFiles": [
-    "杂记/”什么是github“英语演讲.md.tmp.26800.ece003add160",
-    "杂记/”什么是github“英语演讲.md.tmp.26800.cea26a5d1574",
     "任务/任务完成情况概览.md",
-    "计算机类/前端/项目分析/Car_Merchant/架构与路由/项目概览与目录结构.md",
-    "计算机类/前端/项目分析/Car_Merchant/Car Merchant 项目完整详解.md",
-    "计算机类/前端/项目分析/vben_admin/未命名.md",
+    "计算机类/数据库/Mysql/进阶函数与功能/字符串函数.md",
+    "计算机类/数据库/Mysql/进阶函数与功能/条件.md",
+    "计算机类/数据库/Mysql/进阶函数与功能/日期与时间.md",
+    "计算机类/数据库/Mysql/进阶函数与功能/数值函数.md",
+    "数学家教/学生详情.md",
+    "数学家教/README.md",
+    "数学家教/知识点讲解.md",
+    "数学家教/教材辅导资料/2027高考必刷题数学+主书.pdf",
+    "数学家教/教材辅导资料/2027高考必刷题数学+狂k重难点.pdf",
+    "数学家教/教材辅导资料",
+    "计算机类/数据库/Mysql/DQL/Group By.md",
+    "任务/每周安排/26-w5.md",
+    "数学家教",
+    "计算机类/数据库/Mysql/DDL/视图/修改视图.md",
+    "计算机类/数据库/Mysql/DDL/视图/删除视图.md",
+    "计算机类/数据库/Mysql/DDL/视图/创建视图.md",
+    "任务/每日任务/2026-10-17.md",
+    "任务/每日任务/2026-10-12.md",
+    "任务/每日任务/2026-08-10.md",
+    "任务/每周安排/26-w6.md",
+    "家教/知识点讲解.md",
+    "家教/本学期教材总览.md",
+    "家教/试卷/综合测试试卷/七年级上册综合测评.md",
+    "家教/讲课笔记/七上5-6单元笔记.md",
+    "家教/讲课笔记/七上1-4单元笔记内容.md",
     "计算机类/前端/项目分析/Car_Merchant/架构与路由/应用启动与路由.md",
-    "计算机类/前端/项目分析/Car_Merchant/语法样式与总结/CSS scoped 与 CSS 变量.md",
-    "计算机类/前端/项目分析/Car_Merchant/语法样式与总结/模板语法详解.md",
-    "计算机类/前端/项目分析/Car_Merchant/状态与功能流程/添加车辆流程.md",
-    "计算机类/前端/项目分析/Car_Merchant/状态与功能流程/删除车辆流程.md",
-    "计算机类/前端/项目分析/Car_Merchant/语法样式与总结/启动构建与总结.md",
-    "计算机类/前端/项目分析/Car_Merchant/语法样式与总结/设计原则与改进方向.md",
-    "计算机类/前端/项目分析/Car_Merchant/语法样式与总结/事件与数据流总图.md",
-    "计算机类/前端/项目分析/Car_Merchant/状态与功能流程/租车页状态与数据.md",
-    "计算机类/前端/项目分析/Car_Merchant/组件与通信/SuccessToast 提示组件.md",
-    "计算机类/前端/项目分析/Car_Merchant/组件与通信/组件关系与父子通信.md",
-    "计算机类/前端/项目分析/Car_Merchant/语法样式与总结",
-    "计算机类/前端/项目分析/Car_Merchant/状态与功能流程",
-    "计算机类/前端/项目分析/Car_Merchant/组件与通信",
-    "计算机类/前端/项目分析/Car_Merchant/架构与路由",
-    "计算机类/前端/项目分析/Car_Merchant",
-    "计算机类/前端/vue3/others/Car_Merchant学习.md",
-    "计算机类/后端/Java/others/Java方法的解释.md",
-    "计算机类/后端/Java/others/package.md",
-    "计算机类/前端/项目分析/vben_admin",
-    "计算机类/前端/项目分析",
-    "计算机类/后端/Java/others/访问修饰符有哪些.md",
-    "计算机类/后端/Java/关键字/final关键字.md",
-    "杂记/”什么是github“英语演讲.md",
-    "计算机类/后端/Java/类与对象/构造方法与对象创建/构造方法.md",
-    "计算机类/后端/Java/关键字/this关键字.md",
-    "计算机类/后端/Java/others/访问修饰符有哪些.md.tmp.25640.8789da4fbfc4",
-    "计算机类/后端/Java/类与对象/重载/重载.md",
-    "计算机类/后端/Java/关键字/static关键字.md",
-    "学校/课本/离散数学/C4二元关系和函数/4.3 关系的性质.md.tmp.31608.6b84305f575e",
+    "计算机类/前端/项目分析/Car_Merchant/架构与路由/项目概览与目录结构.md",
+    "家教/试卷/七年级上下综合测试卷/答案.md",
+    "家教/试卷/七年级上下综合测试卷/试卷.md",
+    "学校/课本/数据库",
+    "英语/单词学习/E26-10-15.md.tmp.30464.7e192ff062f9",
+    "计算机类/数据库/MongoDB",
+    "计算机类/数据库/PostgreSQL",
+    "计算机类/数据库/Mysql/DDL/Table",
+    "计算机类/数据库/Mysql/DQL",
+    "学校/课本/离散数学/C4二元关系和函数/Pasted image 20261016090740.png",
     "杂记/img/2.jpg",
     "杂记/img/1.jpg",
     "Excalidraw/Pasted Image 20261012083518_577.png",
@@ -263,7 +243,6 @@
     "家教/img/微信图片_20260919111139_41_138.jpg",
     "家教/img/微信图片_20260919111138_40_138.jpg",
     "计算机相关/计算机网络/C1 概述/Pasted image 20260923115022.png",
-    "计算机类/计算机网络/images/阿帕网.jpeg",
     "Excalidraw/未命名.canvas",
     "未命名 4.canvas",
     "未命名 1.canvas",
