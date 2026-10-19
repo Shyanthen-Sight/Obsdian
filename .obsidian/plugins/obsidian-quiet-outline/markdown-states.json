@@ -220,18 +220,18 @@
     "scroll": 234.64184793227125
   },
   "学校/课表.md": {
-    "scroll": 28.440103588605254,
+    "scroll": 8.686018481317799,
     "expandedKeys": [
       "item-1-0"
     ],
     "cursor": {
       "from": {
         "line": 21,
-        "ch": 57
+        "ch": 15
       },
       "to": {
         "line": 21,
-        "ch": 57
+        "ch": 15
       }
     }
   },
@@ -1352,7 +1352,7 @@
     "expandedKeys": [
       "item-1-0"
     ],
-    "scroll": 149.74793361686392,
+    "scroll": 183.58169485704474,
     "cursor": {
       "from": {
         "line": 94,
@@ -1931,7 +1931,8 @@
         "line": 3,
         "ch": 0
       }
-    }
+    },
+    "scroll": 8.29304183308808
   },
   "任务/每周安排/26-w3.md": {
     "expandedKeys": [],
@@ -1962,15 +1963,15 @@
   "任务/每周安排/26-w5.md": {
     "cursor": {
       "from": {
-        "line": 3,
-        "ch": 0
+        "line": 18,
+        "ch": 27
       },
       "to": {
-        "line": 3,
-        "ch": 0
+        "line": 18,
+        "ch": 27
       }
     },
-    "scroll": 0,
+    "scroll": 13.166701702753837,
     "expandedKeys": []
   },
   "计算机类/数据库/Mysql/进阶函数/未命名.md": {
@@ -2329,7 +2330,17 @@
     "scroll": 0
   },
   "计算机类/计算机杂学/未命名.md": {
-    "expandedKeys": []
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
   },
   "计算机类/计算机杂学/什么是WebGL.md": {
     "expandedKeys": [
@@ -3474,7 +3485,7 @@
       }
     },
     "expandedKeys": [],
-    "scroll": 16.66101535786269
+    "scroll": 15.648377437889454
   },
   "英语/职场英语写作/Unit1_Notices_精讲.md": {
     "expandedKeys": [
@@ -3546,15 +3557,15 @@
   "任务/每周安排/26-w6.md": {
     "cursor": {
       "from": {
-        "line": 18,
-        "ch": 14
+        "line": 17,
+        "ch": 25
       },
       "to": {
-        "line": 18,
-        "ch": 14
+        "line": 17,
+        "ch": 25
       }
     },
-    "scroll": 5.081113084665483,
+    "scroll": 1.2723214285714286,
     "expandedKeys": []
   },
   "学校/课本/离散数学/C1 命题逻辑/等值演算公式.md": {
@@ -3873,25 +3884,54 @@
       "item-1-0",
       "item-2-5",
       "item-2-9",
-      "item-2-14"
+      "item-2-14",
+      "item-2-18"
     ],
-    "scroll": 216.36882865440464,
+    "scroll": 21.49438502673797,
     "cursor": {
       "from": {
-        "line": 217,
-        "ch": 23
+        "line": 6,
+        "ch": 0
       },
       "to": {
-        "line": 217,
-        "ch": 23
+        "line": 6,
+        "ch": 0
       }
     }
   },
   "计算机类/数据库/Mysql/DDL/视图/删除视图.md": {
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-4"
+    ],
+    "cursor": {
+      "from": {
+        "line": 190,
+        "ch": 0
+      },
+      "to": {
+        "line": 190,
+        "ch": 0
+      }
+    },
+    "scroll": 180.17383230967005
   },
   "计算机类/数据库/Mysql/DDL/视图/修改视图.md": {
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-2-1",
+      "item-1-0"
+    ],
+    "scroll": 11.36459286367795,
+    "cursor": {
+      "from": {
+        "line": 22,
+        "ch": 0
+      },
+      "to": {
+        "line": 22,
+        "ch": 0
+      }
+    }
   },
   "数学家教/学生详情.md": {
     "expandedKeys": [
@@ -3946,6 +3986,477 @@
   },
   "计算机类/数据库/Mysql/进阶函数与功能/字符串函数.md": {
     "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "英语/单词学习/E26-10-17.md": {
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 7
+      },
+      "to": {
+        "line": 8,
+        "ch": 7
+      }
+    },
+    "expandedKeys": [],
+    "scroll": 3.761755485893417
+  },
+  "计算机类/数据库/Mysql/未命名.md": {
+    "expandedKeys": []
+  },
+  "计算机类/数据库/Mysql/四大SQL分类讲解.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/数据库/Mysql/DDL/索引/未命名.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/数据库/Mysql/DDL/索引/查询优化.md": {
+    "cursor": {
+      "from": {
+        "line": 1032,
+        "ch": 0
+      },
+      "to": {
+        "line": 1032,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-2",
+      "item-2-8",
+      "item-2-51",
+      "item-2-60"
+    ],
+    "scroll": 1015.1324404761905
+  },
+  "计算机类/数据库/Mysql/DDL/索引/管理索引.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-1"
+    ],
+    "scroll": 21.484110990544103
+  },
+  "计算机类/数据库/Mysql/数据库概念/四大SQL分类讲解.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-2"
+    ],
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 56,
+        "ch": 0
+      },
+      "to": {
+        "line": 56,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/数据库/Mysql/TCL/未命名.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/数据库/Mysql/TCL/SAVEPOINT.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/数据库/Mysql/TCL/事务隔离级别.md": {
+    "cursor": {
+      "from": {
+        "line": 116,
+        "ch": 63
+      },
+      "to": {
+        "line": 113,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-2-1"
+    ],
+    "scroll": 101.89880952380952
+  },
+  "计算机类/数据库/Mysql/DCL/未命名.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/数据库/Mysql/DCL/REVOKE.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/数据库/Mysql/TCL/COMMIT.md": {
+    "expandedKeys": []
+  },
+  "计算机类/数据库/Mysql/TCL/ACID.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-2",
+      "item-2-5"
+    ],
+    "scroll": 67.21641549705711
+  },
+  "计算机类/数据库/Mysql/TCL/BEGIN.md": {
+    "expandedKeys": []
+  },
+  "计算机类/软件测试/基础认知/QA.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/软件测试/基础认知/未命名.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/软件测试/基础认知/测试预言机.md": {
+    "cursor": {
+      "from": {
+        "line": 54,
+        "ch": 0
+      },
+      "to": {
+        "line": 54,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-2-2"
+    ],
+    "scroll": 198.221743810549
+  },
+  "计算机类/软件测试/基础认知/测试优先级分配.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-2-1",
+      "item-2-6",
+      "item-2-9",
+      "item-2-14",
+      "item-2-22"
+    ],
+    "scroll": 274.6646932185145
+  },
+  "计算机类/软件测试/基础认知/测试流程.md": {
+    "cursor": {
+      "from": {
+        "line": 252,
+        "ch": 0
+      },
+      "to": {
+        "line": 252,
+        "ch": 0
+      }
+    },
+    "scroll": 295.20861830401265,
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-2",
+      "item-2-13"
+    ]
+  },
+  "计算机类/软件测试/基础认知/什么是QA.md": {
+    "cursor": {
+      "from": {
+        "line": 86,
+        "ch": 25
+      },
+      "to": {
+        "line": 86,
+        "ch": 25
+      }
+    },
+    "expandedKeys": [
+      "item-2-2"
+    ],
+    "scroll": 0
+  },
+  "计算机类/软件测试/基础认知/QA思维模式.md": {
+    "expandedKeys": [
+      "item-2-1",
+      "item-2-8"
+    ],
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 17
+      },
+      "to": {
+        "line": 7,
+        "ch": 17
+      }
+    },
+    "scroll": 145.67190524997153
+  },
+  "计算机类/计算机杂学/沙箱.md": {
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 6
+      },
+      "to": {
+        "line": 9,
+        "ch": 6
+      }
+    },
+    "expandedKeys": [
+      "item-2-0",
+      "item-2-3"
+    ],
+    "scroll": 106.7138625592417
+  },
+  "计算机类/软件测试/基础认知/测试方法.md": {
+    "expandedKeys": [
+      "item-2-0",
+      "item-3-3",
+      "item-2-35",
+      "item-2-22",
+      "item-2-8",
+      "item-2-17",
+      "item-3-24"
+    ],
+    "scroll": 447.54116843184147,
+    "cursor": {
+      "from": {
+        "line": 452,
+        "ch": 0
+      },
+      "to": {
+        "line": 452,
+        "ch": 0
+      }
+    }
+  },
+  "英语/单词学习/E26-10-18.md": {
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [],
+    "scroll": 25.92382045416619
+  },
+  "学校/课本/数据库/第二章选择题.md": {
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 16.72522687221899
+  },
+  "学校/课本/数据库/第二章判断题.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 12.576613670380555
+  },
+  "任务/每周安排/26-w7.md": {
+    "cursor": {
+      "from": {
+        "line": 17,
+        "ch": 27
+      },
+      "to": {
+        "line": 17,
+        "ch": 27
+      }
+    },
+    "scroll": 5.081113084665483,
+    "expandedKeys": []
+  },
+  "英语/单词学习/E26-10-19.md": {
+    "cursor": {
+      "from": {
+        "line": 51,
+        "ch": 68
+      },
+      "to": {
+        "line": 51,
+        "ch": 68
+      }
+    },
+    "expandedKeys": [],
+    "scroll": 14.031347380917051
+  },
+  "templates/单词学习.md": {
+    "expandedKeys": [],
+    "scroll": 14.919856771482795,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 3
+      },
+      "to": {
+        "line": 4,
+        "ch": 3
+      }
+    }
+  },
+  "任务/每日任务/2026-10-19.md": {
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 12
+      },
+      "to": {
+        "line": 8,
+        "ch": 12
+      }
+    }
+  },
+  "计算机类/后端/Docker/简介.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/后端/Docker/简介/未命名.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "计算机类/后端/Docker/简介/什么是容器.md": {
+    "cursor": {
+      "from": {
+        "line": 25,
+        "ch": 0
+      },
+      "to": {
+        "line": 25,
+        "ch": 0
+      }
+    },
+    "scroll": 53.22186322024771,
+    "expandedKeys": [
+      "item-2-3",
+      "item-2-0"
+    ]
+  },
+  "计算机类/后端/Docker/简介/Bare Metal vs VM vs Containers.md": {
     "cursor": {
       "from": {
         "line": 0,
