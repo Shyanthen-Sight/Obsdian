@@ -13,7 +13,7 @@ This note is maintained by the Explorer Order Editor plugin. It stores the manua
   "计算机类/前端/TypeScript": ["TS类型","TS的编译","TS的引入"],
   "计算机类/前端/vue3": ["others","Components"],
   "计算机类/前端/vue3/Components": ["组件注册.md","引用注册.md","Props 组件属性.md","SFC.md","属性继承.md","Events 自定义事件.md","v-model.md"],
-  "计算机类/后端": ["Docker","Git","Java","Maven"],
+  "计算机类/后端": ["Docker","Git","Java","Maven","Linux"],
   "计算机类/后端/Git": ["基础学习","Repository","分支基础","Git远程","合并策略"],
   "计算机类/后端/Git/Repository": ["仓库初始化","Git核心区"],
   "计算机类/后端/Java": ["images","Distinct","others","关键字","类与对象","子类与继承","接口实现"],
