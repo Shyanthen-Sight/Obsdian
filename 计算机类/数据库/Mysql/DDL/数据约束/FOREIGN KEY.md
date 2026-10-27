@@ -80,7 +80,7 @@ ALTER TABLE student DROP INDEX fk_student_class;
 
 ---
 
-## 三、前置条件（报错 1215 的根源）
+ ## 三、前置条件（报错 1215 的根源）
 
 外键是最容易报错的约束，`ERROR 1215: Cannot add foreign key constraint` 是它的"万金油"错误。常见原因：
 

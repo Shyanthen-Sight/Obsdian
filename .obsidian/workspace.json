@@ -25,37 +25,22 @@
             }
           },
           {
-            "id": "b148c1e265dfda13",
+            "id": "6a52f9b6ae13474b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语/单词学习/E26-10-19.md",
+                "file": "计算机类/vue3/composentsBase/Exp9/Exp9 依赖注入（provide-inject）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "E26-10-19"
-            }
-          },
-          {
-            "id": "60536d98d1a82d5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "英语/单词学习/E26-10-18.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "E26-10-18"
+              "title": "Exp9 依赖注入（provide-inject）"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.8333435058594
+    "width": 276.16668701171875
   },
   "right": {
     "id": "0b4c7c9d21618fd4",
@@ -154,23 +139,19 @@
                   "version": 1,
                   "openTabs": [
                     {
-                      "tabId": "tab-1792371846608-52npyw3",
-                      "conversationId": "conv-1792371864026-16jxky3fv"
+                      "tabId": "tab-1793086181553-h339p2y",
+                      "conversationId": "conv-1793086194421-igdki9o7e"
                     },
                     {
-                      "tabId": "tab-1792384497343-d43nyff",
-                      "conversationId": "conv-1792384512877-v5tfn3wto"
+                      "tabId": "tab-1793087328371-dgkwrun",
+                      "conversationId": "conv-1793087331017-jpm1wniig"
                     },
                     {
-                      "tabId": "tab-1792405029491-hborsu3",
-                      "conversationId": "conv-1792405114199-1shooamtz"
-                    },
-                    {
-                      "tabId": "tab-1792496364254-ry4luj5",
-                      "conversationId": "conv-1792496367321-4wp9leyf9"
+                      "tabId": "tab-1793094246129-tuvp4yy",
+                      "conversationId": "conv-1793094337159-eswbx1u7r"
                     }
                   ],
-                  "activeTabId": "tab-1792496364254-ry4luj5"
+                  "activeTabId": "tab-1793094246129-tuvp4yy"
                 }
               },
               "icon": "bot",
@@ -182,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404.5
+    "width": 293.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,42 +187,42 @@
   },
   "active": "674128e64321d8c7",
   "lastOpenFiles": [
-    "英语/单词学习/E26-10-19.md",
     "任务/任务完成情况概览.md",
-    "计算机类/后端/Java/类与对象/构造方法与对象创建/构造方法.md",
-    "计算机类/后端/Docker/简介/什么是容器.md",
-    "计算机类/后端/Docker/简介",
-    "计算机类/软件测试/基础认知/什么是QA.md",
-    "杂记/未命名 1.md",
-    "杂记/罗OO的课表.md",
-    "杂记/PPT制作思路.md",
-    "计算机类/软件测试/key.md",
-    "计算机类/软件测试/update-password.ps1",
-    "计算机类/软件测试/update-password.ps1.tmp.40508.cca32f4c0d0a",
-    "计算机类/软件测试/key.md.tmp.40508.eded77df5a39",
-    "计算机类/软件测试/key.md.tmp.40508.670f595eb5bd",
-    "杂记/未命名.md",
-    "任务/每周安排/26-w7.md",
-    "计算机类/数据库/Mysql/DML/Delete.md",
-    "任务/每日任务/2026-10-20.md",
+    "计算机类/vue3/composentsBase/Exp9/Exp9 依赖注入（provide-inject）.md",
+    "计算机类/vue3/composentsBase/Exp11/Exp11 商品详情页（依赖注入）.md",
+    "计算机类/vue3/composentsBase/Exp9/Exp9_ProvideInect_Parent.vue",
+    "计算机类/vue3/composentsBase/Exp9/Exp9_ProvideInect_Child.vue",
+    "计算机类/vue3/composentsBase/Exp9",
+    "计算机类/vue3/composentsBase/Exp10/Exp10 动态组件.md",
+    "计算机类/vue3/composentsBase/Exp4/Exp4 具名插槽.md",
     "学校/课表.md",
-    "计算机类/数据库/Mysql/DQL/连接查询/INNER JOIN.md",
-    "计算机类/数据库/Mysql/DDL/数据约束/FOREIGN KEY.md",
-    "计算机类/后端/Docker/01-介绍/04-Docker 与 OCI.md",
-    "计算机类/后端/Docker/01-介绍/01-容器.md",
-    "计算机类/后端/Docker/01-介绍/00-介绍.md",
-    "计算机类/后端/Docker/03-安装配置/02-Docker 引擎.md.tmp.33208.58ecca35a148",
-    "计算机类/后端/Docker/03-安装配置/02-Docker 引擎.md.tmp.33208.0ab61f9bb75f",
-    "计算机类/后端/Docker/03-安装配置/00-安装配置.md.tmp.33208.5132da23a830",
-    "计算机类/后端/Docker/02-底层技术/01-命名空间.md.tmp.33208.08485d9ba5ab",
-    "计算机类/后端/Docker/13-开发体验/03-测试.md.tmp.33208.a9fcfe1c8146",
-    "计算机类/后端/Docker/04-基础/00-基础.md",
-    "计算机类/后端/Docker/03-安装配置/02-Docker 引擎.md",
-    "计算机类/后端/Docker/03-安装配置/01-Docker 桌面版.md",
-    "计算机类/后端/Docker/03-安装配置/00-安装配置.md",
-    "计算机类/后端/Docker/02-底层技术/03-联合文件系统.md",
-    "计算机类/后端/Docker/02-底层技术/02-控制组.md",
-    "计算机类/后端/Docker/02-底层技术/01-命名空间.md",
+    "计算机类/vue3/composentsBase/Exp12/Exp12 模板引用.md",
+    "计算机类/vue3/composentsBase/Exp12/TemplateRefs4_Ref_Function.vue",
+    "计算机类/vue3/composentsBase/Exp12/TemplateRefs3_Ref_Vfor.vue",
+    "计算机类/vue3/composentsBase/Exp12/TemplateRefs2_RefChildComp_Parent.vue",
+    "计算机类/vue3/composentsBase/Exp12/TemplateRefs2_RefChildComp_Child.vue",
+    "计算机类/vue3/composentsBase/Exp12/TemplateRefs1_RefDom.vue",
+    "计算机类/vue3/composentsBase/Exp12",
+    "计算机类/vue3/composentsBase/Exp11/productDetailsPage.vue",
+    "任务/每周安排/26-w8.md",
+    "学校/web蓝桥杯/HTML和CSS/1.用户名片.md",
+    "计算机类/vue3/composentsBase/Exp6/Exp6 动态插槽名.md",
+    "计算机类/vue3/composentsBase/附 基础组件与工程配置.md",
+    "计算机类/vue3/composentsBase/00 组件通信与插槽总览.md",
+    "学校/web蓝桥杯/JS/数组 API 全解.md",
+    "学校/web蓝桥杯/HTML和CSS/2.西游记之西天取经.md",
+    "任务/每周安排/26-w5.md",
+    "任务/每周安排/26-w6.md",
+    "任务/每周安排/26-w7.md",
+    "学校/web蓝桥杯/Vue/1.搜一搜呀.md",
+    "学校/web蓝桥杯/JS/字符串API全解.md",
+    "计算机类/vue3/others/箭头函数.md",
+    "计算机类/Docker/04-基础/00-基础.md",
+    "计算机类/Docker/03-安装配置/02-Docker 引擎.md",
+    "计算机类/Docker/03-安装配置/01-Docker 桌面版.md",
+    "计算机类/Docker/03-安装配置/00-安装配置.md",
+    "计算机类/Docker/02-底层技术/00-底层技术.md",
+    "计算机类/Docker/02-底层技术/02-控制组.md",
     "学校/课本/离散数学/C4二元关系和函数/Pasted image 20261016090740.png",
     "杂记/img/2.jpg",
     "杂记/img/1.jpg",
