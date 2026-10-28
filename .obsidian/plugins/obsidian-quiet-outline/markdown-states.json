@@ -220,7 +220,7 @@
     "scroll": 234.64184793227125
   },
   "学校/课表.md": {
-    "scroll": 2.1875,
+    "scroll": 29.804513503514613,
     "expandedKeys": [
       "item-1-0"
     ],
@@ -316,15 +316,15 @@
   },
   "任务/任务完成情况概览.md": {
     "expandedKeys": [],
-    "scroll": 0,
+    "scroll": 0.2,
     "cursor": {
       "from": {
-        "line": 2,
-        "ch": 7
+        "line": 18,
+        "ch": 10
       },
       "to": {
-        "line": 2,
-        "ch": 7
+        "line": 18,
+        "ch": 0
       }
     }
   },
@@ -2695,7 +2695,17 @@
       "item-2-4",
       "item-2-7"
     ],
-    "scroll": 86.5804821019504
+    "scroll": 114.86197916666667,
+    "cursor": {
+      "from": {
+        "line": 20,
+        "ch": 0
+      },
+      "to": {
+        "line": 20,
+        "ch": 0
+      }
+    }
   },
   "学校/课本/离散数学/C3 集合的基本概率和运算/3.2 集合的基本运算.md": {
     "expandedKeys": []
@@ -3577,7 +3587,17 @@
     "expandedKeys": [
       "item-2-2"
     ],
-    "scroll": 38.068669451052514
+    "scroll": 38.241838694191074,
+    "cursor": {
+      "from": {
+        "line": 57,
+        "ch": 42
+      },
+      "to": {
+        "line": 57,
+        "ch": 42
+      }
+    }
   },
   "学校/课本/离散数学/C4二元关系和函数/综合例题分析.md": {
     "expandedKeys": [
@@ -3605,14 +3625,52 @@
       "item-2-18",
       "item-1-27"
     ],
-    "scroll": 321.9631441564466
+    "scroll": 19.119668246445496,
+    "cursor": {
+      "from": {
+        "line": 16,
+        "ch": 0
+      },
+      "to": {
+        "line": 16,
+        "ch": 0
+      }
+    }
   },
   "学校/课本/离散数学/C1 命题逻辑/推理定律.md": {
-    "expandedKeys": [],
-    "scroll": 24.797517024065904
+    "expandedKeys": [
+      "item-2-5"
+    ],
+    "scroll": 117.91939546599497,
+    "cursor": {
+      "from": {
+        "line": 140,
+        "ch": 21
+      },
+      "to": {
+        "line": 140,
+        "ch": 21
+      }
+    }
   },
   "学校/课本/离散数学/C2 一阶逻辑/2.1一阶逻辑基本概念.md": {
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-2-5",
+      "item-2-14",
+      "item-1-22",
+      "item-2-9"
+    ],
+    "cursor": {
+      "from": {
+        "line": 72,
+        "ch": 0
+      },
+      "to": {
+        "line": 72,
+        "ch": 0
+      }
+    },
+    "scroll": 66.68898104265404
   },
   "计算机类/数据库/Mysql/DML/Order By.md": {
     "expandedKeys": [
@@ -4410,7 +4468,7 @@
       }
     },
     "expandedKeys": [],
-    "scroll": 26.428596937167825
+    "scroll": 8.726772195457674
   },
   "templates/单词学习.md": {
     "expandedKeys": [],
@@ -5562,11 +5620,11 @@
   "学校/web蓝桥杯/HTML和CSS/1.用户名片.md": {
     "cursor": {
       "from": {
-        "line": 27,
+        "line": 6,
         "ch": 0
       },
       "to": {
-        "line": 27,
+        "line": 6,
         "ch": 0
       }
     },
@@ -5577,7 +5635,7 @@
       "item-2-1",
       "item-2-5"
     ],
-    "scroll": 2.6785714285714284
+    "scroll": 0
   },
   "学校/ICT云赛道/未命名.md": {
     "expandedKeys": [],
@@ -6077,16 +6135,16 @@
   "任务/每周安排/26-w8.md": {
     "cursor": {
       "from": {
-        "line": 15,
-        "ch": 0
+        "line": 18,
+        "ch": 25
       },
       "to": {
-        "line": 15,
-        "ch": 0
+        "line": 18,
+        "ch": 25
       }
     },
     "expandedKeys": [],
-    "scroll": 0
+    "scroll": 1.9151785714285714
   },
   "计算机类/vue3/composentsBase/Exp10/Exp10 动态组件.md": {
     "expandedKeys": [
@@ -6119,16 +6177,116 @@
       "item-2-6",
       "item-2-10"
     ],
-    "scroll": 203.19841784522646,
+    "scroll": 0.4836272040302267,
     "cursor": {
       "from": {
-        "line": 195,
+        "line": 205,
         "ch": 0
       },
       "to": {
-        "line": 195,
+        "line": 205,
         "ch": 0
       }
     }
+  },
+  "杂记/未命名 2.md": {
+    "expandedKeys": []
+  },
+  "杂记/离散数学C1-C4考试.md": {
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 0
+      },
+      "to": {
+        "line": 12,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-5",
+      "item-1-42",
+      "item-1-11",
+      "item-2-12"
+    ],
+    "scroll": 0
+  },
+  "学校/课本/离散数学/离散数学C1-C4考试.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-5",
+      "item-1-42",
+      "item-1-11",
+      "item-2-12",
+      "item-2-43",
+      "item-2-50",
+      "item-2-19",
+      "item-2-55",
+      "item-2-26",
+      "item-2-33"
+    ],
+    "scroll": 348.0376062505366,
+    "cursor": {
+      "from": {
+        "line": 360,
+        "ch": 0
+      },
+      "to": {
+        "line": 360,
+        "ch": 0
+      }
+    }
+  },
+  "学校/课本/离散数学/C2 一阶逻辑/2.2一阶逻辑合式公式及解释.md": {
+    "expandedKeys": [
+      "item-2-2",
+      "item-2-5",
+      "item-2-9"
+    ],
+    "scroll": 170.69921875,
+    "cursor": {
+      "from": {
+        "line": 173,
+        "ch": 0
+      },
+      "to": {
+        "line": 173,
+        "ch": 0
+      }
+    }
+  },
+  "学校/课本/离散数学/C2 一阶逻辑/2.3 一阶逻辑等值式与前束范式.md": {
+    "expandedKeys": [
+      "item-2-4",
+      "item-2-11",
+      "item-2-16",
+      "item-3-20"
+    ],
+    "scroll": 316.01535815284365,
+    "cursor": {
+      "from": {
+        "line": 321,
+        "ch": 46
+      },
+      "to": {
+        "line": 321,
+        "ch": 46
+      }
+    }
+  },
+  "英语/单词学习/E26-10-28.md": {
+    "cursor": {
+      "from": {
+        "line": 42,
+        "ch": 0
+      },
+      "to": {
+        "line": 42,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [],
+    "scroll": 15.087257159329102
   }
 }

@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "任务/任务完成情况概览.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -25,18 +25,48 @@
             }
           },
           {
-            "id": "6a52f9b6ae13474b",
+            "id": "467366eebb3388e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机类/vue3/composentsBase/Exp9/Exp9 依赖注入（provide-inject）.md",
+                "file": "学校/课本/离散数学/离散数学C1-C4考试.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Exp9 依赖注入（provide-inject）"
+              "title": "离散数学C1-C4考试"
+            }
+          },
+          {
+            "id": "a5dd0fc2c992bce0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学校/课本/离散数学/C2 一阶逻辑/2.3 一阶逻辑等值式与前束范式.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2.3 一阶逻辑等值式与前束范式"
+            }
+          },
+          {
+            "id": "18e82307e1f35c7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学校/课本/离散数学/C3 集合的基本概率和运算/3.3 集合中元素的计数.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "3.3 集合中元素的计数"
             }
           }
         ],
@@ -149,9 +179,17 @@
                     {
                       "tabId": "tab-1793094246129-tuvp4yy",
                       "conversationId": "conv-1793094337159-eswbx1u7r"
+                    },
+                    {
+                      "tabId": "tab-1793098905617-d0qapq6",
+                      "conversationId": "conv-1793098965918-u9yrtrpg7"
+                    },
+                    {
+                      "tabId": "tab-1793144641111-w6b485c",
+                      "conversationId": "conv-1793144642353-3xkc7aqkv"
                     }
                   ],
-                  "activeTabId": "tab-1793094246129-tuvp4yy"
+                  "activeTabId": "tab-1793144641111-w6b485c"
                 }
               },
               "icon": "bot",
@@ -187,7 +225,27 @@
   },
   "active": "674128e64321d8c7",
   "lastOpenFiles": [
+    "学校/课本/离散数学/C3 集合的基本概率和运算/3.3 集合中元素的计数.md",
+    "任务/每周安排/26-w8.md",
     "任务/任务完成情况概览.md",
+    "学校/课本/离散数学/离散数学C1-C4考试.md",
+    "学校/课本/离散数学/C2 一阶逻辑/2.3 一阶逻辑等值式与前束范式.md",
+    "英语/单词学习/E26-10-28.md",
+    "英语/单词学习/E26-10-19.md",
+    "英语/单词学习/E26-10-28.md.tmp.12196.03167161d5bb",
+    "学校/课本/离散数学/C2 一阶逻辑/2.1一阶逻辑基本概念.md",
+    "学校/课本/离散数学/C1 命题逻辑/等值演算公式.md",
+    "学校/课本/离散数学/C2 一阶逻辑/2.2一阶逻辑合式公式及解释.md",
+    "学校/web蓝桥杯/HTML和CSS/1.用户名片.md",
+    "学校/课本/离散数学/C1 命题逻辑/命题的主析取范式和主合取范式求法.md",
+    "学校/课本/离散数学/C1 命题逻辑/推理定律.md",
+    "杂记/离散数学C1-C4考试.md.tmp.38624.aa536c4ce298",
+    "杂记/离散数学C1-C4考试.md.tmp.38624.1d886343a20d",
+    "杂记/离散数学C1-C4考试.md.tmp.38624.ad27c1cfd531",
+    "杂记/离散数学C1-C4考试.md.tmp.38624.154e727f645b",
+    "杂记/离散数学C1-C4考试.md.tmp.38624.f6d0fc688333",
+    "学校/课表.md",
+    "任务/任务完成情况概览.md.tmp.16308.0829f1c186d5",
     "计算机类/vue3/composentsBase/Exp9/Exp9 依赖注入（provide-inject）.md",
     "计算机类/vue3/composentsBase/Exp11/Exp11 商品详情页（依赖注入）.md",
     "计算机类/vue3/composentsBase/Exp9/Exp9_ProvideInect_Parent.vue",
@@ -195,17 +253,7 @@
     "计算机类/vue3/composentsBase/Exp9",
     "计算机类/vue3/composentsBase/Exp10/Exp10 动态组件.md",
     "计算机类/vue3/composentsBase/Exp4/Exp4 具名插槽.md",
-    "学校/课表.md",
     "计算机类/vue3/composentsBase/Exp12/Exp12 模板引用.md",
-    "计算机类/vue3/composentsBase/Exp12/TemplateRefs4_Ref_Function.vue",
-    "计算机类/vue3/composentsBase/Exp12/TemplateRefs3_Ref_Vfor.vue",
-    "计算机类/vue3/composentsBase/Exp12/TemplateRefs2_RefChildComp_Parent.vue",
-    "计算机类/vue3/composentsBase/Exp12/TemplateRefs2_RefChildComp_Child.vue",
-    "计算机类/vue3/composentsBase/Exp12/TemplateRefs1_RefDom.vue",
-    "计算机类/vue3/composentsBase/Exp12",
-    "计算机类/vue3/composentsBase/Exp11/productDetailsPage.vue",
-    "任务/每周安排/26-w8.md",
-    "学校/web蓝桥杯/HTML和CSS/1.用户名片.md",
     "计算机类/vue3/composentsBase/Exp6/Exp6 动态插槽名.md",
     "计算机类/vue3/composentsBase/附 基础组件与工程配置.md",
     "计算机类/vue3/composentsBase/00 组件通信与插槽总览.md",
@@ -213,16 +261,6 @@
     "学校/web蓝桥杯/HTML和CSS/2.西游记之西天取经.md",
     "任务/每周安排/26-w5.md",
     "任务/每周安排/26-w6.md",
-    "任务/每周安排/26-w7.md",
-    "学校/web蓝桥杯/Vue/1.搜一搜呀.md",
-    "学校/web蓝桥杯/JS/字符串API全解.md",
-    "计算机类/vue3/others/箭头函数.md",
-    "计算机类/Docker/04-基础/00-基础.md",
-    "计算机类/Docker/03-安装配置/02-Docker 引擎.md",
-    "计算机类/Docker/03-安装配置/01-Docker 桌面版.md",
-    "计算机类/Docker/03-安装配置/00-安装配置.md",
-    "计算机类/Docker/02-底层技术/00-底层技术.md",
-    "计算机类/Docker/02-底层技术/02-控制组.md",
     "学校/课本/离散数学/C4二元关系和函数/Pasted image 20261016090740.png",
     "杂记/img/2.jpg",
     "杂记/img/1.jpg",
