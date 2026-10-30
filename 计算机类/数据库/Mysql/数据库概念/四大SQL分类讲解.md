@@ -671,7 +671,7 @@ DROP DATABASE IF EXISTS school;
 ### 查询（DQL）
 
 - [[Select]] —— 查询语法与执行顺序
-- [[From]] · [[Where]] · [[计算机类/数据库/Mysql/DQL/Group By|Group By]] · [[计算机类/数据库/Mysql/DQL/Having|Having]] · [[Order By]]
+- [[From]] · [[Where]] · [[计算机类/数据库/Mysql/Data Query Language/Group By|Group By]] · [[计算机类/数据库/Mysql/Data Query Language/Having|Having]] · [[Order By]]
 - [[Join]] · [[嵌套查询]] · [[相关子查询]]
 - [[字符串函数]] · [[数值函数]] · [[日期与时间]] · [[计算机类/数据库/Mysql/进阶函数与功能/条件|条件函数]]
 

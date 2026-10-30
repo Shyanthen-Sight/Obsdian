@@ -220,18 +220,18 @@
     "scroll": 234.64184793227125
   },
   "学校/课表.md": {
-    "scroll": 29.804513503514613,
+    "scroll": 0,
     "expandedKeys": [
       "item-1-0"
     ],
     "cursor": {
       "from": {
-        "line": 12,
-        "ch": 30
+        "line": 9,
+        "ch": 0
       },
       "to": {
-        "line": 12,
-        "ch": 30
+        "line": 9,
+        "ch": 0
       }
     }
   },
@@ -316,14 +316,14 @@
   },
   "任务/任务完成情况概览.md": {
     "expandedKeys": [],
-    "scroll": 0.2,
+    "scroll": 12.012520435657336,
     "cursor": {
       "from": {
-        "line": 18,
-        "ch": 10
+        "line": 15,
+        "ch": 0
       },
       "to": {
-        "line": 18,
+        "line": 15,
         "ch": 0
       }
     }
@@ -1065,9 +1065,11 @@
       "item-3-19",
       "item-3-8",
       "item-3-3",
-      "item-3-13"
+      "item-3-13",
+      "item-3-31",
+      "item-3-62"
     ],
-    "scroll": 0.7951298297925208,
+    "scroll": 3700.812353649536,
     "cursor": {
       "from": {
         "line": 0,
@@ -1396,15 +1398,15 @@
       "item-1-0",
       "item-2-7"
     ],
-    "scroll": 70.70650829789201,
+    "scroll": 5.38698224852071,
     "cursor": {
       "from": {
-        "line": 77,
-        "ch": 26
+        "line": 113,
+        "ch": 28
       },
       "to": {
-        "line": 77,
-        "ch": 26
+        "line": 113,
+        "ch": 28
       }
     }
   },
@@ -1816,12 +1818,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 132,
-        "ch": 0
+        "line": 5,
+        "ch": 10
       },
       "to": {
-        "line": 132,
-        "ch": 0
+        "line": 5,
+        "ch": 10
       }
     }
   },
@@ -2708,7 +2710,21 @@
     }
   },
   "学校/课本/离散数学/C3 集合的基本概率和运算/3.2 集合的基本运算.md": {
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-2-2",
+      "item-2-7"
+    ],
+    "scroll": 357.4345273103292,
+    "cursor": {
+      "from": {
+        "line": 390,
+        "ch": 6
+      },
+      "to": {
+        "line": 390,
+        "ch": 6
+      }
+    }
   },
   "学校/课本/离散数学/C3 集合的基本概率和运算/3.1 集合的基本概率.md": {
     "expandedKeys": [
@@ -3889,7 +3905,7 @@
     "expandedKeys": [
       "item-1-0"
     ],
-    "scroll": 66.12425977718195
+    "scroll": 0
   },
   "计算机类/前端/项目分析.md": {
     "expandedKeys": []
@@ -3969,14 +3985,14 @@
       "item-2-14",
       "item-2-18"
     ],
-    "scroll": 21.49438502673797,
+    "scroll": 51.03932075802366,
     "cursor": {
       "from": {
-        "line": 6,
+        "line": 23,
         "ch": 0
       },
       "to": {
-        "line": 6,
+        "line": 23,
         "ch": 0
       }
     }
@@ -5396,15 +5412,15 @@
     "expandedKeys": [
       "item-1-0"
     ],
-    "scroll": 221.21604305484368,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 0,
-        "ch": 7
+        "ch": 0
       },
       "to": {
         "line": 0,
-        "ch": 2
+        "ch": 0
       }
     }
   },
@@ -5520,7 +5536,7 @@
         "ch": 2
       }
     },
-    "scroll": 25.986058909661363
+    "scroll": 0
   },
   "计算机类/前端/vue3/others/defineProps() 和 defineEmits().md": {
     "expandedKeys": [
@@ -5610,32 +5626,27 @@
     },
     "expandedKeys": [
       "item-1-0",
-      "item-2-1",
-      "item-2-5",
-      "item-2-10",
-      "item-2-12"
+      "item-2-2"
     ],
-    "scroll": 0
+    "scroll": 43.16411268399085
   },
   "学校/web蓝桥杯/HTML和CSS/1.用户名片.md": {
     "cursor": {
       "from": {
-        "line": 6,
-        "ch": 0
+        "line": 206,
+        "ch": 20
       },
       "to": {
-        "line": 6,
-        "ch": 0
+        "line": 206,
+        "ch": 20
       }
     },
     "expandedKeys": [
       "item-1-0",
-      "item-2-18",
-      "item-2-11",
-      "item-2-1",
-      "item-2-5"
+      "item-2-6",
+      "item-2-2"
     ],
-    "scroll": 0
+    "scroll": 59.411179570648244
   },
   "学校/ICT云赛道/未命名.md": {
     "expandedKeys": [],
@@ -6089,17 +6100,37 @@
   "学校/web蓝桥杯/JS/字符串API全解.md": {
     "cursor": {
       "from": {
-        "line": 0,
+        "line": 20,
         "ch": 0
       },
       "to": {
-        "line": 0,
+        "line": 20,
         "ch": 0
       }
-    }
+    },
+    "scroll": 17.550780932108562,
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-1",
+      "item-2-24"
+    ]
   },
   "学校/web蓝桥杯/JS/数组 API 全解.md": {
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-1"
+    ],
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "scroll": 19.689669609069824
   },
   "计算机类/前端/vue3/others/composentsBase/Exp6/Exp6 动态插槽名.md": {
     "expandedKeys": [
@@ -6135,16 +6166,16 @@
   "任务/每周安排/26-w8.md": {
     "cursor": {
       "from": {
-        "line": 18,
-        "ch": 25
+        "line": 21,
+        "ch": 18
       },
       "to": {
-        "line": 18,
-        "ch": 25
+        "line": 21,
+        "ch": 18
       }
     },
     "expandedKeys": [],
-    "scroll": 1.9151785714285714
+    "scroll": 8.02803881768337
   },
   "计算机类/vue3/composentsBase/Exp10/Exp10 动态组件.md": {
     "expandedKeys": [
@@ -6164,11 +6195,22 @@
   },
   "计算机类/vue3/composentsBase/Exp11/Exp11 商品详情页（依赖注入）.md": {
     "expandedKeys": [
-      "item-1-0",
-      "item-2-2",
-      "item-2-7"
+      "item-2-0",
+      "item-2-4",
+      "item-2-10",
+      "item-2-14"
     ],
-    "scroll": 215.49523146947226
+    "scroll": 42.07001776510909,
+    "cursor": {
+      "from": {
+        "line": 38,
+        "ch": 49
+      },
+      "to": {
+        "line": 38,
+        "ch": 49
+      }
+    }
   },
   "计算机类/vue3/composentsBase/Exp9/Exp9 依赖注入（provide-inject）.md": {
     "expandedKeys": [
@@ -6190,7 +6232,17 @@
     }
   },
   "杂记/未命名 2.md": {
-    "expandedKeys": []
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
   },
   "杂记/离散数学C1-C4考试.md": {
     "cursor": {
@@ -6226,15 +6278,15 @@
       "item-2-26",
       "item-2-33"
     ],
-    "scroll": 348.0376062505366,
+    "scroll": 898.100035984167,
     "cursor": {
       "from": {
-        "line": 360,
-        "ch": 0
+        "line": 906,
+        "ch": 33
       },
       "to": {
-        "line": 360,
-        "ch": 0
+        "line": 906,
+        "ch": 33
       }
     }
   },
@@ -6263,7 +6315,7 @@
       "item-2-16",
       "item-3-20"
     ],
-    "scroll": 316.01535815284365,
+    "scroll": 315.5017348925273,
     "cursor": {
       "from": {
         "line": 321,
@@ -6278,15 +6330,612 @@
   "英语/单词学习/E26-10-28.md": {
     "cursor": {
       "from": {
-        "line": 42,
-        "ch": 0
+        "line": 21,
+        "ch": 21
       },
       "to": {
-        "line": 42,
-        "ch": 0
+        "line": 21,
+        "ch": 21
       }
     },
     "expandedKeys": [],
-    "scroll": 15.087257159329102
+    "scroll": 25.95493098358932
+  },
+  "学校/作业/java/未命名.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/Java/02-类与对象/对象的组合与UML/UML.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-3",
+      "item-2-5"
+    ],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 5
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    },
+    "scroll": 16.822437174639507
+  },
+  "学校/作业/java/类与对象编程练习3.md": {
+    "expandedKeys": [
+      "item-2-0",
+      "item-2-6",
+      "item-2-12"
+    ],
+    "scroll": 315.07850955759983,
+    "cursor": {
+      "from": {
+        "line": 331,
+        "ch": 0
+      },
+      "to": {
+        "line": 331,
+        "ch": 0
+      }
+    }
+  },
+  "学校/web蓝桥杯/HTML和CSS/3.给页面化个妆.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-19",
+      "item-2-15",
+      "item-2-9",
+      "item-2-2",
+      "item-3-11",
+      "item-2-7"
+    ],
+    "scroll": 24.15606089507206,
+    "cursor": {
+      "from": {
+        "line": 537,
+        "ch": 0
+      },
+      "to": {
+        "line": 537,
+        "ch": 0
+      }
+    }
+  },
+  "学校/web蓝桥杯/Echarts/未命名.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "学校/web蓝桥杯/Echarts/1.学生信息统计.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 139.8741295541879,
+    "cursor": {
+      "from": {
+        "line": 130,
+        "ch": 87
+      },
+      "to": {
+        "line": 130,
+        "ch": 87
+      }
+    }
+  },
+  "学校/web蓝桥杯/Echarts/2.和手机相处的时光.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "scroll": 17.543533474859018
+  },
+  "学校/web蓝桥杯/Echarts/3..md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "学校/web蓝桥杯/Echarts/3.商品销量和销售额实时展示看板.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "scroll": 0
+  },
+  "学校/web蓝桥杯/HTML和CSS/4.水果拼盘.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-19",
+      "item-3-20"
+    ],
+    "scroll": 352.57200811359024,
+    "cursor": {
+      "from": {
+        "line": 348,
+        "ch": 13
+      },
+      "to": {
+        "line": 348,
+        "ch": 13
+      }
+    }
+  },
+  "学校/web蓝桥杯/JS/1.传送门.md": {
+    "cursor": {
+      "from": {
+        "line": 292,
+        "ch": 0
+      },
+      "to": {
+        "line": 292,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-2",
+      "item-2-27",
+      "item-2-20",
+      "item-2-15",
+      "item-2-8"
+    ],
+    "scroll": 1.647058858051559
+  },
+  "计算机类/JavaScript/未命名.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/JavaScript/‘==’与‘===’的区别.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 6.990582695703355,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 0
+      },
+      "to": {
+        "line": 10,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/vue3/others/箭头函数.md": {
+    "expandedKeys": [
+      "item-2-1",
+      "item-1-0"
+    ],
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 1
+      },
+      "to": {
+        "line": 9,
+        "ch": 1
+      }
+    },
+    "scroll": 7.091021671826625
+  },
+  "任务/每日任务/2026-10-29.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/vue3/composentsBase/其他/00 组件通信与插槽总览.md": {
+    "expandedKeys": []
+  },
+  "计算机类/vue3/composentsBase/其他/未命名.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/vue3/composentsBase/其他/ref.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/vue3/composentsBase/其他/reactive与ref的区别.md": {
+    "expandedKeys": [],
+    "scroll": 14.959086404605728,
+    "cursor": {
+      "from": {
+        "line": 26,
+        "ch": 12
+      },
+      "to": {
+        "line": 26,
+        "ch": 12
+      }
+    }
+  },
+  "计算机类/vue3/composentsBase/Exp12/Exp12 模板引用.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-2",
+      "item-2-6",
+      "item-2-12",
+      "item-2-15"
+    ],
+    "scroll": 238.54958500774111
+  },
+  "学校/web蓝桥杯/其他/数组 API 全解.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-2",
+      "item-2-8",
+      "item-2-15",
+      "item-2-27",
+      "item-2-37",
+      "item-2-47",
+      "item-2-51",
+      "item-2-56",
+      "item-2-63",
+      "item-2-75"
+    ],
+    "cursor": {
+      "from": {
+        "line": 362,
+        "ch": 69
+      },
+      "to": {
+        "line": 362,
+        "ch": 69
+      }
+    },
+    "scroll": 341.4497021195451
+  },
+  "计算机类/vue3/composentsBase/其他/defineProps,defineEmits,defineExpose.md": {
+    "cursor": {
+      "from": {
+        "line": 264,
+        "ch": 0
+      },
+      "to": {
+        "line": 264,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-2-2",
+      "item-2-8",
+      "item-2-14"
+    ],
+    "scroll": 289.3417395084617
+  },
+  "计算机类/vue3/composentsBase/其他/provide与inject.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 23.18830162085976
+  },
+  "计算机类/vue3/composentsBase/Exp1/Exp1 父传子 props.md": {
+    "expandedKeys": [
+      "item-2-0",
+      "item-2-5",
+      "item-2-12"
+    ],
+    "scroll": 16.2073937620973,
+    "cursor": {
+      "from": {
+        "line": 16,
+        "ch": 6
+      },
+      "to": {
+        "line": 16,
+        "ch": 6
+      }
+    }
+  },
+  "学校/离散数学 1/2026-9-24.md": {
+    "expandedKeys": []
+  },
+  "学校/数据库/第一章选择题.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 0
+      },
+      "to": {
+        "line": 12,
+        "ch": 0
+      }
+    }
+  },
+  "学校/数据库/学习通作业/第一章选择题.md": {
+    "expandedKeys": []
+  },
+  "学校/数据库/力扣题库/未命名.md": {
+    "expandedKeys": []
+  },
+  "学校/数据库/力扣题库/1..md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "学校/数据库/力扣题库/1.组合两个表.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-8",
+      "item-2-5"
+    ],
+    "scroll": 130.30847774708764,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 0
+      },
+      "to": {
+        "line": 11,
+        "ch": 0
+      }
+    }
+  },
+  "学校/数据库/课堂/未命名.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 15
+      },
+      "to": {
+        "line": 6,
+        "ch": 2
+      }
+    },
+    "scroll": 0
+  },
+  "学校/数据库/课堂/双重 NOT EXISTS.md": {
+    "scroll": 0,
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    }
+  },
+  "学校/数据库/课堂/1.双重 NOT EXISTS.md": {
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 32
+      },
+      "to": {
+        "line": 10,
+        "ch": 32
+      }
+    },
+    "scroll": 0,
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-8",
+      "item-2-15"
+    ]
+  },
+  "计算机类/数据库/Mysql/DQL/Having.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 12
+      },
+      "to": {
+        "line": 0,
+        "ch": 15
+      }
+    },
+    "scroll": 2.692010015934441
+  },
+  "计算机类/数据库/Mysql/DQL/派生表.md": {
+    "expandedKeys": []
+  },
+  "计算机类/数据库/Mysql/DQL/连接查询/RIGHT JOIN.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 20
+      },
+      "to": {
+        "line": 0,
+        "ch": 20
+      }
+    },
+    "scroll": 0
+  },
+  "计算机类/数据库/Mysql/DQL/Join.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "cursor": {
+      "from": {
+        "line": 455,
+        "ch": 9
+      },
+      "to": {
+        "line": 455,
+        "ch": 9
+      }
+    },
+    "scroll": 409.4003362316992
+  },
+  "计算机类/数据库/Mysql/Data Definition Language/视图/创建视图.md": {
+    "expandedKeys": [
+      "item-2-1",
+      "item-1-0",
+      "item-2-5",
+      "item-2-9",
+      "item-2-14",
+      "item-2-18"
+    ],
+    "cursor": {
+      "from": {
+        "line": 337,
+        "ch": 0
+      },
+      "to": {
+        "line": 337,
+        "ch": 0
+      }
+    },
+    "scroll": 330.17222765211403
+  },
+  "计算机类/数据库/Mysql/Data Definition Language/视图/删除视图.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/数据库/Mysql/Data Definition Language/视图/修改视图.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "计算机类/数据库/Mysql/Data Definition Language/视图/未命名.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/数据库/Mysql/Data Definition Language/视图/查询视图.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-1",
+      "item-2-4",
+      "item-2-16"
+    ],
+    "scroll": 0
+  },
+  "计算机类/数据库/Mysql/Data Query Language/Join.md": {
+    "scroll": 234.78858550010864,
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-3",
+      "item-2-5"
+    ],
+    "cursor": {
+      "from": {
+        "line": 247,
+        "ch": 18
+      },
+      "to": {
+        "line": 247,
+        "ch": 18
+      }
+    }
   }
 }

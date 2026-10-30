@@ -14,7 +14,7 @@
 ```vue
 <!-- Exp1_ParentToChild_Parent.vue -->
 <template>
-  <p>
+  <p> 
     <Child id="001" :title="greeting" />
   </p>
 </template>
