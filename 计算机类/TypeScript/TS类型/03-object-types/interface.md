@@ -99,7 +99,7 @@ print({ x: 1, y: 2, extra: 3 })   // ⚠️ 对象字面量会做多余属性检
 ## 相关笔记
 
 - [[class]] —— 类可实现接口
-- [[object]] —— "任意非原始值"的粗略类型
+- [[计算机类/TypeScript/TS类型/03-object-types/object]] —— "任意非原始值"的粗略类型
 - [[array]] —— 数组也是对象类型
 - [[README|类型笔记总览]]
 

@@ -78,7 +78,7 @@ const frozen: readonly number[] = [1, 2, 3]
 ## 相关笔记
 
 - [[tuple]] —— 定长定型的"数组"
-- [[object]] —— 数组所属的大类
+- [[计算机类/TypeScript/TS类型/03-object-types/object]] —— 数组所属的大类
 - [[string]] —— 常与数组方法（`split`/`join`）互转
 - [[README|类型笔记总览]]
 

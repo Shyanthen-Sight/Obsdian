@@ -86,7 +86,7 @@ TypeScript 的类型世界有两个"端点"：
 - [[enum]] —— 具名常量集合
 - [[array]] —— 同质元素列表
 - [[tuple]] —— 定长定型的数组
-- [[object]] —— "任意非原始值"
+- [[计算机类/TypeScript/TS类型/03-object-types/object]] —— "任意非原始值"
 
 ### 🔻 底层类型 · `04-bottom-types`
 

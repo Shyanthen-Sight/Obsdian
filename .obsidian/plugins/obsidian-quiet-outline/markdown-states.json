@@ -220,7 +220,7 @@
     "scroll": 234.64184793227125
   },
   "学校/课表.md": {
-    "scroll": 0,
+    "scroll": 6.687898089171974,
     "expandedKeys": [
       "item-1-0"
     ],
@@ -316,7 +316,7 @@
   },
   "任务/任务完成情况概览.md": {
     "expandedKeys": [],
-    "scroll": 12.012520435657336,
+    "scroll": 12.237102084361236,
     "cursor": {
       "from": {
         "line": 15,
@@ -1067,16 +1067,19 @@
       "item-3-3",
       "item-3-13",
       "item-3-31",
-      "item-3-62"
+      "item-3-62",
+      "item-3-50",
+      "item-2-110",
+      "item-2-115"
     ],
-    "scroll": 3700.812353649536,
+    "scroll": 1335.6841614865918,
     "cursor": {
       "from": {
-        "line": 0,
+        "line": 4048,
         "ch": 0
       },
       "to": {
-        "line": 0,
+        "line": 4048,
         "ch": 0
       }
     }
@@ -6427,17 +6430,18 @@
   },
   "学校/web蓝桥杯/Echarts/1.学生信息统计.md": {
     "expandedKeys": [
-      "item-1-0"
+      "item-1-0",
+      "item-2-5"
     ],
-    "scroll": 139.8741295541879,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 130,
-        "ch": 87
+        "line": 12,
+        "ch": 0
       },
       "to": {
-        "line": 130,
-        "ch": 87
+        "line": 12,
+        "ch": 0
       }
     }
   },
@@ -6455,7 +6459,7 @@
         "ch": 0
       }
     },
-    "scroll": 17.543533474859018
+    "scroll": 0
   },
   "学校/web蓝桥杯/Echarts/3..md": {
     "cursor": {
@@ -6475,15 +6479,15 @@
     ],
     "cursor": {
       "from": {
-        "line": 6,
+        "line": 33,
         "ch": 0
       },
       "to": {
-        "line": 6,
+        "line": 33,
         "ch": 0
       }
     },
-    "scroll": 0
+    "scroll": 5.429864253393665
   },
   "学校/web蓝桥杯/HTML和CSS/4.水果拼盘.md": {
     "expandedKeys": [
@@ -6692,15 +6696,15 @@
       "item-2-5",
       "item-2-12"
     ],
-    "scroll": 16.2073937620973,
+    "scroll": 22.802085996370103,
     "cursor": {
       "from": {
-        "line": 16,
-        "ch": 6
+        "line": 26,
+        "ch": 29
       },
       "to": {
-        "line": 16,
-        "ch": 6
+        "line": 26,
+        "ch": 29
       }
     }
   },
@@ -6860,11 +6864,7 @@
   "计算机类/数据库/Mysql/Data Definition Language/视图/创建视图.md": {
     "expandedKeys": [
       "item-2-1",
-      "item-1-0",
-      "item-2-5",
-      "item-2-9",
-      "item-2-14",
-      "item-2-18"
+      "item-1-0"
     ],
     "cursor": {
       "from": {
@@ -6921,7 +6921,7 @@
     "scroll": 0
   },
   "计算机类/数据库/Mysql/Data Query Language/Join.md": {
-    "scroll": 234.78858550010864,
+    "scroll": 219.315753887762,
     "expandedKeys": [
       "item-1-0",
       "item-2-3",
@@ -6935,6 +6935,237 @@
       "to": {
         "line": 247,
         "ch": 18
+      }
+    }
+  },
+  "学校/web蓝桥杯/事项/未命名.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "scroll": 0
+  },
+  "学校/web蓝桥杯/事项/Echart考点分析.md": {
+    "cursor": {
+      "from": {
+        "line": 23,
+        "ch": 0
+      },
+      "to": {
+        "line": 23,
+        "ch": 0
+      }
+    },
+    "scroll": 6.383259911894273,
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-3"
+    ]
+  },
+  "学校/web蓝桥杯/事项/Ajax考点分析.md": {
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-1",
+      "item-2-3",
+      "item-2-7"
+    ],
+    "scroll": 24.200717088350697
+  },
+  "学校/web蓝桥杯/事项/Ajax，Axios考点分析.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "学校/web蓝桥杯/Echarts/4.粒粒皆辛苦.md": {
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-4"
+    ],
+    "scroll": 196.53136531365314
+  },
+  "学校/web蓝桥杯/事项/蓝桥杯 Web 竞赛备赛.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-1",
+      "item-2-6",
+      "item-2-12",
+      "item-2-15",
+      "item-3-21",
+      "item-2-19",
+      "item-2-28"
+    ],
+    "scroll": 259.7136094674556,
+    "cursor": {
+      "from": {
+        "line": 448,
+        "ch": 0
+      },
+      "to": {
+        "line": 448,
+        "ch": 0
+      }
+    }
+  },
+  "DailyNotes/2026-10-30.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/JavaScript/JSON与LocalStorage.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-2",
+      "item-2-7",
+      "item-2-11"
+    ],
+    "cursor": {
+      "from": {
+        "line": 172,
+        "ch": 53
+      },
+      "to": {
+        "line": 172,
+        "ch": 53
+      }
+    },
+    "scroll": 164.91092025132744
+  },
+  "计算机类/数据结构/串/串的模式匹配.md": {
+    "expandedKeys": [],
+    "scroll": 15.857933579335793,
+    "cursor": {
+      "from": {
+        "line": 25,
+        "ch": 37
+      },
+      "to": {
+        "line": 25,
+        "ch": 37
+      }
+    }
+  },
+  "计算机类/JavaScript/destructing.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-2",
+      "item-2-5"
+    ],
+    "scroll": 59.05739315424441,
+    "cursor": {
+      "from": {
+        "line": 70,
+        "ch": 0
+      },
+      "to": {
+        "line": 70,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/JavaScript/work/未命名.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "scroll": 0
+  },
+  "计算机类/JavaScript/work/object.md": {
+    "expandedKeys": []
+  },
+  "计算机类/JavaScript/homework/object.md": {
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 0
+      },
+      "to": {
+        "line": 11,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 0
+  },
+  "计算机类/JavaScript/homework/未命名.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/JavaScript/homework/DOM.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 2.7413595953649903,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 88
+      },
+      "to": {
+        "line": 12,
+        "ch": 88
       }
     }
   }

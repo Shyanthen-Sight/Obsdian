@@ -25,37 +25,67 @@
             }
           },
           {
-            "id": "c7126a40ee7d1a01",
+            "id": "e2a37e1d310f8de8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机类/数据库/Mysql/Data Definition Language/视图/创建视图.md",
+                "file": "计算机类/vue3/composentsBase/Exp1/Exp1 父传子 props.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "创建视图"
+              "title": "Exp1 父传子 props"
             }
           },
           {
-            "id": "fd15641543937dc7",
+            "id": "54d2e8e61c35c65d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机类/数据库/Mysql/Data Query Language/Join.md",
+                "file": "计算机类/JavaScript/destructing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Join"
+              "title": "destructing"
+            }
+          },
+          {
+            "id": "e08529de21268904",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机类/JavaScript/homework/object.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "object"
+            }
+          },
+          {
+            "id": "822bec2f5513616f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机类/JavaScript/homework/DOM.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "DOM"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -104,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 246.5
   },
   "right": {
     "id": "0b4c7c9d21618fd4",
@@ -154,69 +184,43 @@
                   "version": 1,
                   "openTabs": [
                     {
-                      "tabId": "tab-1793238702158-5b0r1d8",
-                      "conversationId": null,
-                      "draftModel": "haiku",
-                      "providerId": "claude"
+                      "tabId": "tab-1793345781284-tkfnz52",
+                      "conversationId": "conv-1793345802553-1bxq99l06"
                     },
                     {
-                      "tabId": "tab-1793238710094-t1dap75",
-                      "conversationId": "conv-1793238725618-xyq471bdd"
+                      "tabId": "tab-1793346384017-oeq03j4",
+                      "conversationId": "conv-1793346399375-qtyuat21k"
                     },
                     {
-                      "tabId": "tab-1793241744502-uf42ryp",
-                      "conversationId": "conv-1793241752286-47qg8cw5t"
+                      "tabId": "tab-1793348797308-letvr1d",
+                      "conversationId": "conv-1793348802654-zsqyx44jt"
                     },
                     {
-                      "tabId": "tab-1793242310313-06vmzef",
-                      "conversationId": "conv-1793242324629-ryn6c54g4"
+                      "tabId": "tab-1793349349243-jqx95xh",
+                      "conversationId": "conv-1793349375622-1kgv91rnm"
                     },
                     {
-                      "tabId": "tab-1793247954133-4o8eezd",
-                      "conversationId": "conv-1793247972640-b7g9l48vn"
+                      "tabId": "tab-1793355032991-dwsfdtq",
+                      "conversationId": "conv-1793355059369-akx4gk3zq"
                     },
                     {
-                      "tabId": "tab-1793261619769-j9znr3g",
-                      "conversationId": "conv-1793261643987-2h380hmnh"
+                      "tabId": "tab-1793367689790-m6eulgx",
+                      "conversationId": "conv-1793367702226-rdzvssnc4"
                     },
                     {
-                      "tabId": "tab-1793264672599-eryrmvh",
-                      "conversationId": "conv-1793264713576-n2k1vn6u1"
+                      "tabId": "tab-1793371451196-wdqv95y",
+                      "conversationId": "conv-1793371462045-booci2jp8"
                     },
                     {
-                      "tabId": "tab-1793266411842-tojstsu",
-                      "conversationId": "conv-1793266420533-y5pns12ax"
+                      "tabId": "tab-1793372141495-ft82ds0",
+                      "conversationId": "conv-1793372154568-b6kc5sxbq"
                     },
                     {
-                      "tabId": "tab-1793275481290-l1oocoy",
-                      "conversationId": "conv-1793275486646-7l968qbdm"
-                    },
-                    {
-                      "tabId": "tab-1793287217119-10ybg5i",
-                      "conversationId": "conv-1793287267229-bofdqfpi9"
-                    },
-                    {
-                      "tabId": "tab-1793289784389-zfv4w4g",
-                      "conversationId": "conv-1793289804596-4e8mqkidm"
-                    },
-                    {
-                      "tabId": "tab-1793326758274-9ayg9og",
-                      "conversationId": "conv-1793326776489-ecys7c18o"
-                    },
-                    {
-                      "tabId": "tab-1793328885011-puhtxvn",
-                      "conversationId": "conv-1793328905409-98for1s6l"
-                    },
-                    {
-                      "tabId": "tab-1793332242137-cd8crp5",
-                      "conversationId": "conv-1793332245627-mb85bp9ba"
-                    },
-                    {
-                      "tabId": "tab-1793343271032-897fy29",
-                      "conversationId": "conv-1793343291162-wduo50f51"
+                      "tabId": "tab-1793376284220-dgbl1up",
+                      "conversationId": "conv-1793376671285-gaofwfhyq"
                     }
                   ],
-                  "activeTabId": "tab-1793343271032-897fy29"
+                  "activeTabId": "tab-1793376284220-dgbl1up"
                 }
               },
               "icon": "bot",
@@ -252,42 +256,42 @@
   },
   "active": "674128e64321d8c7",
   "lastOpenFiles": [
+    "计算机类/JavaScript/homework/object.md",
+    "计算机类/JavaScript/homework/DOM.md",
+    "计算机类/JavaScript/work/未命名.md",
+    "计算机类/JavaScript/work",
+    "计算机类/JavaScript/destructing.md",
+    "计算机类/JavaScript/homework",
+    "计算机类/vue3/composentsBase/Exp1/Exp1 父传子 props.md",
+    "任务/任务完成情况概览.md",
+    "家教/知识点讲解.md",
+    "家教/知识点讲解.md.tmp.16288.b4a958fd0527",
+    "学校/web蓝桥杯/事项/Echart考点分析.md",
+    "计算机类/数据结构/串/串的模式匹配.md",
+    "学校/课表.md",
+    "计算机类/JavaScript/JSON与LocalStorage.md",
+    "学校/web蓝桥杯/Echarts/4.粒粒皆辛苦.md",
+    "计算机类/JavaScript/JSON与LocalStorage.md.tmp.42936.c70a2cee360b",
+    "DailyNotes/2026-10-30.md",
+    "学校/web蓝桥杯/事项/Ajax考点分析.md",
+    "DailyNotes",
+    "学校/web蓝桥杯/事项/蓝桥杯 Web 竞赛备赛.md",
+    "学校/web蓝桥杯/Echarts/3.商品销量和销售额实时展示看板.md",
+    "学校/web蓝桥杯/事项/Ajax，Axios考点分析.md",
+    "学校/web蓝桥杯/Echarts/1.学生信息统计.md",
+    "学校/web蓝桥杯/Echarts/2.和手机相处的时光.md",
+    "学校/web蓝桥杯/事项",
+    "计算机类/数据库/Mysql/Data Query Language/Join.md",
+    "计算机类/数据库/Mysql/Data Definition Language/视图/创建视图.md",
     "计算机类/数据库/Mysql/Data Definition Language/视图/删除视图.md",
     "计算机类/数据库/Mysql/Data Definition Language/视图/查询视图.md",
     "计算机类/数据库/Mysql/Data Definition Language/视图/修改视图.md",
-    "家教/知识点讲解.md",
-    "计算机类/数据库/Mysql/Data Definition Language/视图/创建视图.md",
-    "计算机类/数据库/Mysql/Data Query Language/Join.md",
     "计算机类/计算机工具类",
-    "任务/任务完成情况概览.md",
     "计算机类/数据库/Mysql/sql运算符/集合运算符.md",
     "计算机类/数据库/Mysql/Data Query Language/连接查询/RIGHT JOIN.md",
-    "学校/数据库/课堂/1.双重 NOT EXISTS.md",
-    "计算机类/数据库/Mysql/Data Manipulation Language/Update.md",
-    "计算机类/数据库/Mysql/Data Manipulation Language/Insert.md",
-    "计算机类/数据库/Mysql/Data Query Language/派生表.md",
-    "计算机类/数据库/Mysql/Data Query Language/Having.md",
-    "计算机类/数据库/Mysql/Data Query Language/子父查询/相关子查询.md",
-    "计算机类/数据库/Mysql/Data Query Language/谓词/IN谓词.md",
-    "学校/数据库/力扣题库/1.组合两个表.md",
-    "学校/数据库/SQL双重NOT EXISTS与除法查询.md",
     "学校/数据库/课堂",
     "学校/数据库/力扣题库/1.组合两个表.md.tmp.36600.268e2bd29a43",
-    "学校/数据库/学习通作业/第一章选择题.md",
     "学校/数据库/力扣题库",
-    "学校/离散数学 1/2026-9-24.md",
-    "学校/数据库/学习通作业",
-    "计算机类/vue3/composentsBase/Exp1/Exp1 父传子 props.md",
-    "计算机类/vue3/composentsBase/其他/defineProps,defineEmits,defineExpose.md",
-    "计算机类/vue3/composentsBase/其他/defineProps,defineEmits,defineExpose.md.tmp.29520.12bf38ad210b",
-    "计算机类/vue3/composentsBase/其他/provide与inject.md",
-    "计算机类/vue3/composentsBase/其他/reactive与ref的区别.md",
-    "任务/每周安排/26-w8.md",
-    "任务/每周安排/26-w6.md",
-    "计算机类/vue3/composentsBase/其他",
-    "学校/web蓝桥杯/Echarts/1.学生信息统计.md.tmp.28768.b7031c6bc79d",
-    "书籍/走进职场英语写作 第2版 (叶红著, 叶红主编, 叶红) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "计算机类/JavaScript",
     "学校/作业/java/img/类与对象编程练习3-题1-类图.png",
     "学校/作业/java/img/类与对象编程练习3-题2-类图.png",
     "学校/课本/离散数学/C4二元关系和函数/Pasted image 20261016090740.png",
